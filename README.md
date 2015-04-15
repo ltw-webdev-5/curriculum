@@ -36,7 +36,8 @@
 	- *Assignment 5: Performance—3 hours*
 
 8. **SEO & enhanced metadata**
-	- *Portfolio website, part 2—8 hours*
+	- [Search engine optimization]()
+	- [Metadata & enhanced semantics]()
 	- *Assignment 6: SEO & metadata—3 hours*
 	- *Portfolio website, part 2: Javascript-less version—8 hours*
 
