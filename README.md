@@ -37,7 +37,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **Homework**
 
-- [**Assignment 1: Business card site**]()
+- [**Assignment 1: Business card site—3 hours**]()
 - *Figure out what domain you want for next week.*
 - *Look for inspiration & portfolio layout ideas.*
 - **Bring a credit card!**
