@@ -137,7 +137,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **Homework**
 
-- **Assignment 4: Performance—3 hours**
+- **Assignment 4: Accessibility—3 hours**
 
 ---
 
