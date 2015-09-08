@@ -118,6 +118,7 @@ Below is the complete breakdown of everything that will be covered over the next
 **In class**
 
 - Browser testing, performance testing, peer testing, accessibility testing
+- **Personal critique—10 minutes**
 
 ---
 
@@ -217,6 +218,7 @@ Below is the complete breakdown of everything that will be covered over the next
 **In class**
 
 - Browser testing, performance testing, peer testing, accessibility testing
+- **Personal critique—10 minutes**
 
 ---
 
@@ -306,6 +308,7 @@ Below is the complete breakdown of everything that will be covered over the next
 **In class**
 
 - Browser testing, performance testing, peer testing, accessibility testing
+- **Personal critique—10 minutes**
 
 ---
 ---
