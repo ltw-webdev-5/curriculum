@@ -259,7 +259,6 @@ Below is the complete breakdown of everything that will be covered over the next
 **Homework**
 
 - **Assignment 8: Performance—3 hours**
-- **Portfolio website, part 3: Details—8 hours**
 
 ---
 
@@ -278,6 +277,7 @@ Below is the complete breakdown of everything that will be covered over the next
 **Homework**
 
 - **Assignment 9: 404 page—3 hours**
+- **Portfolio website, part 3: Details—8 hours**
 
 ---
 
