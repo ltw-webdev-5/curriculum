@@ -137,7 +137,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **Homework**
 
-- **Assignment 5: Performance—3 hours**
+- **Assignment 4: Performance—3 hours**
 
 ---
 
@@ -161,7 +161,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **Homework**
 
-- **Assignment 4: Layouts—3 hours**
+- **Assignment 5: Layouts—3 hours**
 
 ---
 
