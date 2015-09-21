@@ -80,6 +80,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **In class**
 
+- [*Exercise: writing for the web*](https://github.com/acgd-webdev-4/exercise-writing-for-the-web)
 - Video: [Start with why](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 - [*Exercise: writing with personality*](https://github.com/acgd-webdev-4/exercise-writing-with-personality)
 - Demo: Markdown syntax basics
@@ -89,8 +90,8 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **Homework**
 
-- **Assignment 3: Written content & system—completed in class**
-- **Portfolio website, part 1: Interactive wireframes—8 hours**
+- [**Assignment 3: Readme, why & system—completed in class**](https://github.com/acgd-webdev-4/assignment-3)
+- [**Portfolio website, part 1: Interactive wireframes—8 hours**](https://github.com/acgd-webdev-4/portfolio-wireframes)
 
 ---
 
@@ -118,7 +119,6 @@ Below is the complete breakdown of everything that will be covered over the next
 **In class**
 
 - Browser testing, performance testing, peer testing, accessibility testing
-- **Personal critique—10 minutes**
 
 ---
 
@@ -218,7 +218,6 @@ Below is the complete breakdown of everything that will be covered over the next
 **In class**
 
 - Browser testing, performance testing, peer testing, accessibility testing
-- **Personal critique—10 minutes**
 
 ---
 
@@ -308,7 +307,6 @@ Below is the complete breakdown of everything that will be covered over the next
 **In class**
 
 - Browser testing, performance testing, peer testing, accessibility testing
-- **Personal critique—10 minutes**
 
 ---
 ---
