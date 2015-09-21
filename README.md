@@ -113,12 +113,11 @@ Below is the complete breakdown of everything that will be covered over the next
 **Topics**
 
 - [Browser testing checklist](http://learn-the-web.algonquindesign.ca/topics/browser-testing-checklist/)
-- [Performance checklist](http://learn-the-web.algonquindesign.ca/topics/performance-checklist/)
 - [Accessibility checklist](http://learn-the-web.algonquindesign.ca/topics/accessibility-checklist/)
 
 **In class**
 
-- Browser testing, performance testing, peer testing, accessibility testing
+- Browser testing, peer testing, accessibility testing
 
 ---
 
