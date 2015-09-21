@@ -91,7 +91,7 @@ Below is the complete breakdown of everything that will be covered over the next
 **Homework**
 
 - [**Assignment 3: Readme, why & system—completed in class**](https://github.com/acgd-webdev-4/assignment-3)
-- [**Portfolio website, part 1: Interactive wireframes—8 hours**](https://github.com/acgd-webdev-4/portfolio-wireframes)
+- [**Portfolio website, part 1: Interactive wireframes—10 hours**](https://github.com/acgd-webdev-4/portfolio-part-1-wireframes)
 
 ---
 
@@ -108,7 +108,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 ---
 
-### **5. Portfolio, part 1 due**
+### **5. Portfolio, part 1 testing**
 
 **Topics**
 
@@ -121,27 +121,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 ---
 
-### **6. Video**
-
-**Topics**
-
-- [Video & audio](http://learn-the-web.algonquindesign.ca/topics/video/)
-
-**In class**
-
-- Understanding video on the web
-- Demos:
-  - Compressing videos with Adobe Media Encoder
-  - Large video billboards
-  - Controlling videos with Javascript
-
-**Homework**
-
-- **Assignment 4: Accessibility—3 hours**
-
----
-
-### **7. Layouts & Jekyll**
+### **6. Layouts & Jekyll**
 
 **Topics**
 
@@ -161,11 +141,11 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **Homework**
 
-- **Assignment 5: Layouts—3 hours**
+- **Assignment 4: Layouts—3 hours**
 
 ---
 
-### **8. SEO, enhanced metadata & analytics**
+### **7. SEO, enhanced metadata & analytics**
 
 **Topics**
 
@@ -188,8 +168,28 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **Homework**
 
-- **Assignment 6: SEO & metadata—3 hours**
-- **Portfolio website, part 2: Javascript-less version—8 hours**
+- **Assignment 5: SEO & metadata—3 hours**
+
+---
+
+### **8. Video**
+
+**Topics**
+
+- [Video & audio](http://learn-the-web.algonquindesign.ca/topics/video/)
+
+**In class**
+
+- Understanding video on the web
+- Demos:
+  - Compressing videos with Adobe Media Encoder
+  - Large video billboards
+  - Controlling videos with Javascript
+
+**Homework**
+
+- **Assignment 6: Accessibility—3 hours**
+- **Portfolio website, part 2: Javascript-less version—10 hours**
 
 ---
 
@@ -206,7 +206,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 ---
 
-### **10. Portfolio, part 2 due**
+### **10. Portfolio, part 2 testing**
 
 **Topics**
 
@@ -294,7 +294,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 ---
 
-### **15. Portfolio, part 3 due**
+### **15. Portfolio, part 3 testing**
 
 **Topics**
 
