@@ -80,11 +80,11 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **In class**
 
-- [Start with why](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
-- Demos:
-  - Markdown syntax basics
-  - YAML syntax basics
-- *Exercise: writing a readme in Markdown*
+- Video: [Start with why](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
+- *Exercise: writing with personality*
+- Demo: Markdown syntax basics
+- *Exercise: writing in Markdown*
+- Demo: YAML syntax basics
 - *Exercise: systemizing content in YAML*
 
 **Homework**
