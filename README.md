@@ -99,7 +99,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **In class**
 
-- *Activity*
+- *Activity: Domain Destroyer*
 - Work time, Q&A time, one-on-one feedback
 
 **Homework**
@@ -197,7 +197,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **In class**
 
-- *Activity*
+- *Activity: Logic Luminary*
 - Work time, Q&A time, one-on-one feedback
 
 **Homework**
@@ -285,7 +285,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **In class**
 
-- *Activity*
+- *Activity: Browser Bug Basher*
 - Work time, Q&A time, one-on-one feedback
 
 **Homework**
