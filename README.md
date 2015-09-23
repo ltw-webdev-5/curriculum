@@ -188,7 +188,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **Homework**
 
-- **Assignment 6: Accessibility—2 hours**
+- **Assignment 6: Accessibility—2 hours, in class**
 - **Portfolio website, part 2: Javascript-less version—10 hours**
 
 ---
@@ -276,7 +276,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **Homework**
 
-- **Assignment 9: 404 page—2 hours**
+- **Assignment 9: 404 page—2 hours, in class**
 - **Portfolio website, part 3: Details—8 hours**
 
 ---
