@@ -81,7 +81,6 @@ Below is the complete breakdown of everything that will be covered over the next
 **In class**
 
 - [*Exercise: writing for the web*](https://github.com/acgd-webdev-4/exercise-writing-for-the-web)
-- Video: [Start with why](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 - [*Exercise: writing with personality*](https://github.com/acgd-webdev-4/exercise-writing-with-personality)
 - Demo: Markdown syntax basics
 - [*Exercise: writing in Markdown*](https://github.com/acgd-webdev-4/exercise-writing-in-markdown)
@@ -91,6 +90,7 @@ Below is the complete breakdown of everything that will be covered over the next
 **Homework**
 
 - [**Assignment 3: Readme, why & system—completed in class**](https://github.com/acgd-webdev-4/assignment-3)
+- [*Start with why*](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 - [**Portfolio website, part 1: Interactive wireframes—10 hours**](https://github.com/acgd-webdev-4/portfolio-part-1-wireframes)
 
 ---
@@ -188,7 +188,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **Homework**
 
-- **Assignment 6: Accessibility—3 hours**
+- **Assignment 6: Accessibility—2 hours**
 - **Portfolio website, part 2: Javascript-less version—10 hours**
 
 ---
@@ -276,7 +276,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **Homework**
 
-- **Assignment 9: 404 page—3 hours**
+- **Assignment 9: 404 page—2 hours**
 - **Portfolio website, part 3: Details—8 hours**
 
 ---
