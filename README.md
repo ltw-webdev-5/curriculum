@@ -99,7 +99,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **In class**
 
-- *Activity: Domain Destroyer*
+- [*Activity: Domain Destroyer*](http://activities.learn-the-web.algonquindesign.ca/domain-destroyer/)
 - Work time, Q&A time, one-on-one feedback
 
 **Homework**
