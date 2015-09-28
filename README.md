@@ -123,7 +123,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **In class**
 
-- Browser testing, peer testing, accessibility testing
+- [*Peer testing sprint*](https://github.com/acgd-learn-the-web/peer-testing-sprint)
 
 ---
 
@@ -222,7 +222,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **In class**
 
-- Browser testing, performance testing, peer testing, accessibility testing
+- [*Peer testing sprint*](https://github.com/acgd-learn-the-web/peer-testing-sprint)
 
 ---
 
@@ -307,11 +307,11 @@ Below is the complete breakdown of everything that will be covered over the next
 - [Browser testing checklist](http://learn-the-web.algonquindesign.ca/topics/browser-testing-checklist/)
 - [Advanced performance checklist](http://learn-the-web.algonquindesign.ca/topics/advanced-performance-checklist/)
 - [Accessibility checklist](http://learn-the-web.algonquindesign.ca/topics/accessibility-checklist/)
-- **[Launch checklist, Web Dev 4](http://learn-the-web.algonquindesign.ca/topics/launch-checklist-web-dev-4/)**
+- [**Launch checklist, Web Dev 4**](http://learn-the-web.algonquindesign.ca/topics/launch-checklist-web-dev-4/)
 
 **In class**
 
-- Browser testing, performance testing, peer testing, accessibility testing
+- [*Peer testing sprint*](https://github.com/acgd-learn-the-web/peer-testing-sprint)
 
 ---
 ---
