@@ -111,6 +111,7 @@ Below is the complete breakdown of everything that will be covered over the next
   - [IE11 on Win8.1 for VirtualBox](https://dev.modern.ie/tools/vms/mac/)
   - [Microsoft Edge on Win10 for VirtualBox](https://dev.modern.ie/tools/vms/mac/)
 - Make sure the following browsers on your computer are up-to-date: Chrome, Safari, Firefox, Opera
+- If you have any other web connected devices (tablets, handheld gaming devices, etc.) bring those next week.
 
 ---
 
@@ -209,6 +210,7 @@ Below is the complete breakdown of everything that will be covered over the next
 **Homework**
 
 - Continue working on Portfolio, part 2
+- If you have any other web connected devices (tablets, handheld gaming devices, etc.) bring those next week.
 
 ---
 
@@ -297,6 +299,7 @@ Below is the complete breakdown of everything that will be covered over the next
 **Homework**
 
 - Continue working on Portfolio, part 3
+- If you have any other web connected devices (tablets, handheld gaming devices, etc.) bring those next week.
 
 ---
 
