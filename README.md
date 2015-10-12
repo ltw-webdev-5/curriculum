@@ -148,7 +148,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **Homework**
 
-- **Assignment 4: Layouts—3 hours**
+- [**Assignment 4: Layouts—3 hours**](https://github.com/acgd-webdev-4/assignment-4)
 
 ---
 
