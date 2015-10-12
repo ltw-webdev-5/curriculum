@@ -143,8 +143,8 @@ Below is the complete breakdown of everything that will be covered over the next
 - Installing Jekyll on your computer
 - Demos:
   - Setting up a basic website
-  - Creating layouts
-  - Jekyll & SEO
+  - Creating layouts with Markdown + YAML
+  - Creating data files with includes & loops
 
 **Homework**
 
@@ -172,6 +172,7 @@ Below is the complete breakdown of everything that will be covered over the next
   - Robots & humans
   - Microdata contact
   - Analytics packages
+  - Jekyll & SEO
 
 **Homework**
 
