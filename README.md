@@ -159,7 +159,12 @@ Below is the complete breakdown of everything that will be covered over the next
 - [Search engine optimization](http://learn-the-web.algonquindesign.ca/topics/search-engine-optimization/)
 - [Metadata & enhanced semantics](http://learn-the-web.algonquindesign.ca/topics/metadata-enhanced-semantics/)
 - [Analytics & monitoring](http://learn-the-web.algonquindesign.ca/topics/analytics-monitoring/)
-- [SEO checklist](http://learn-the-web.algonquindesign.ca/topics/seo-checklist/)
+- [**SEO checklist**](http://learn-the-web.algonquindesign.ca/topics/seo-checklist/)
+- Jekyll:
+  - [Jekyll: unique titles for every page](https://www.youtube.com/watch?v=ra9Td0DpK0s&list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-&index=31)
+  - [Jekyll: meta description](https://www.youtube.com/watch?v=FUL9SSgMZ8Y&list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-&index=32)
+  - [Jekyll: automatic sitemap.xml](https://www.youtube.com/watch?v=C49lhiX_JO0&list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-&index=33)
+  - [Jekyll: pretty URLs](https://www.youtube.com/watch?v=sc-4FywBPlg&list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-&index=34)
 
 **In class**
 
@@ -171,12 +176,11 @@ Below is the complete breakdown of everything that will be covered over the next
   - Sitemaps
   - Robots & humans
   - Microdata contact
-  - Analytics packages
   - Jekyll & SEO
 
 **Homework**
 
-- **Assignment 5: SEO & metadata—3 hours**
+- [**Assignment 5: SEO & metadata—3 hours**](https://github.com/acgd-webdev-4/assignment-5)
 
 ---
 
