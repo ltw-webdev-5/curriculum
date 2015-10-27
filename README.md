@@ -201,7 +201,7 @@ Below is the complete breakdown of everything that will be covered over the next
 **Homework**
 
 - [**Assignment 6: Accessibility—2 hours, in class**](https://github.com/acgd-webdev-4/assignment-6)
-- [**Portfolio website, part 2: Javascript-less version—10 hours**](https://github.com/acgd-webdev-4/project-2)
+- [**Portfolio website, part 2: Javascript-less version—10 hours**](https://github.com/acgd-webdev-4/portfolio-part-2-complete-site)
 
 ---
 
