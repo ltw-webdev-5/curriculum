@@ -233,7 +233,32 @@ Below is the complete breakdown of everything that will be covered over the next
 
 ---
 
-### **11. Progressive enhancement & accessibility**
+### **11. Performance**
+
+**Topics**
+
+- [Performance](http://learn-the-web.algonquindesign.ca/topics/performance/)
+- [Advanced performance](http://learn-the-web.algonquindesign.ca/topics/advanced-performance/)
+- [Advanced performance checklist](http://learn-the-web.algonquindesign.ca/topics/advanced-performance-checklist/)
+
+**In class**
+
+- Launching your portfolio website
+- Performance budgets
+- Demos:
+  - Testing tools: WebPageTest, Google PageSpeed, Mobile Friendly
+  - CloudFlare performance settings
+  - ImageOptim, SVGO, Image Alpha + PNG-8s
+  - Async font loading
+  - Jekyll concatenation & minification
+
+**Homework**
+
+- [**Assignment 7: Performance—3 hours**](https://github.com/acgd-webdev-4/assignment-7)
+
+---
+
+### **12. Progressive enhancement & accessibility**
 
 **Topics**
 
@@ -249,30 +274,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **Homework**
 
-- **Assignment 7: Progressive enhancement—3 hours**
-
----
-
-### **12. Performance**
-
-**Topics**
-
-- [Performance](http://learn-the-web.algonquindesign.ca/topics/performance/)
-- [Advanced performance](http://learn-the-web.algonquindesign.ca/topics/advanced-performance/)
-- [Advanced performance checklist](http://learn-the-web.algonquindesign.ca/topics/advanced-performance-checklist/)
-
-**In class**
-
-- Performance and the web
-- Demos:
-  - Image Alpha + PNG-8s
-  - Blurring JPGs
-  - Optimizing favicons
-  - CloudFlare performance settings
-
-**Homework**
-
-- **Assignment 8: Performance—3 hours**
+- **Assignment 8: Progressive enhancement—3 hours**
 
 ---
 
