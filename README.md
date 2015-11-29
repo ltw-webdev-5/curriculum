@@ -274,7 +274,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **Homework**
 
-- **Assignment 8: Progressive enhancement—3 hours**
+- [**Assignment 8: Progressive enhancement—3 hours**](https://github.com/acgd-webdev-4/assignment-8)
 
 ---
 
@@ -292,8 +292,8 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **Homework**
 
-- **Assignment 9: 404 page—2 hours, in class**
-- **Portfolio website, part 3: Details—8 hours**
+- [**Assignment 9: 404 page—2 hours, in class**](https://github.com/acgd-webdev-4/assignment-9)
+- [**Portfolio website, part 3: Details—8 hours**](https://github.com/acgd-webdev-4/portfolio-part-3-details)
 
 ---
 
