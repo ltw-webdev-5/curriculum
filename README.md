@@ -268,7 +268,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **In class**
 
-- Why progressive enhancement and accessibility
+- [*Exercise: progressive enhancement*](https://github.com/acgd-webdev-4/exercise-progressive-enhancement)
 - Demos:
   - Making something with & without Javascript
 
