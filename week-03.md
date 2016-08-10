@@ -14,9 +14,13 @@ tasks:
   - title: "License Liberator"
     type: activity
   - title: "Buying a domain"
-    type: activity
+    submit: show
+    type: basic
+    button: activity
   - title: "Hosting setup"
-    type: activity
+    submit: show
+    type: basic
+    button: activity
   - title: "Portfolio content"
     submit: show
     type: basic

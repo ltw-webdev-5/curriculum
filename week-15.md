@@ -29,6 +29,8 @@ tasks:
     url: "/courses/web-dev-1/browser-testing/"
     submit: show
     pair: true
-  - title: "Finalization"
+  - title: "Request for grade"
+    type: basic
+  - title: "Final portfolio website"
     submit: online
 ---

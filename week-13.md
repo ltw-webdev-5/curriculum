@@ -15,6 +15,7 @@ tasks:
   - type: blank
   - title: "404 page"
     submit: show
-  - title: "Details"
+  - title: "Final portfolio website"
     submit: show
+  - type: blank
 ---

@@ -34,7 +34,5 @@ tasks:
   - title: "Structured content"
     submit: show
   - title: "Paper wireframes"
-    submit: show
-    type: basic
-    button: print
+    type: paper
 ---

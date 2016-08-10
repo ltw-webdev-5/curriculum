@@ -22,7 +22,9 @@ tasks:
   - title: "YAML Yodeller"
     type: activity
   - title: "Installing Jekyll"
-    type: activity
+    type: basic
+    submit: show
+    button: activity
   - title: "Basic Jekyll site"
     submit: show
   - title: "Jekyll portfolio"

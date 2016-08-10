@@ -18,6 +18,7 @@ tasks:
   - type: blank
   - title: "Portfolio check-in"
     submit: show
-  - title: "Finalization"
+  - title: "Final portfolio website"
     submit: online
+  - type: blank
 ---
