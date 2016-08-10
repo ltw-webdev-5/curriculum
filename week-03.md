@@ -3,14 +3,9 @@ topic: "Domains, e-mails, hosting"
 desc: "Look at how domains and DNS work, purchase portfolio website domain and set everything up."
 
 video_tutorials:
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
+  - title: "Domains & DNS"
+    url: domains
+    highlight: true
 
 slides:
   - title: "Domains & DNS"

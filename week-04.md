@@ -3,14 +3,20 @@ topic: "Writing for the web"
 desc: "Techniques & styles when writing text for the web as well as looking at web writing formats: Markdown & YAML."
 
 video_tutorials:
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
+  - title: "Writing for the Web"
+    url: writing-for-the-web
+  - title: "Writing checklist"
+    url: writing-checklist
+    highlight: true
+  - title: "Markdown"
+    url: markdown
+  - title: "YAML"
+    url: yaml
+  - title: "Markdown & YAML cheat sheet"
+    url: markdown-yaml-cheat-sheet
+    highlight: true
+  - title: "Writing a readme"
+    url: writing-a-readme
 
 slides:
   - title: "The web of text"

@@ -3,14 +3,14 @@ topic: "Portfolio milestone 3 work period"
 desc: "In class work time to spend sweating the details on your finalized portfolio website."
 
 video_tutorials:
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
+  - title: "Browser testing"
+    url: browser-testing
+  - title: "Browser testing checklist"
+    url: browser-testing-checklist
+    highlight: true
+  - title: "Launch checklist, Web Dev 5"
+    url: launch-checklist-web-dev-5
+    highlight: true
 
 tasks:
   - title: "HTTP Hoodwinker"

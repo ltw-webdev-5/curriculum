@@ -3,14 +3,8 @@ topic: "Progressive enhancement & accessibility"
 desc: "Introduction to making Javascript optional and not ruining accessibility by adding Javascript."
 
 video_tutorials:
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
+  - title: "Progressive enhancement"
+    url: "progressive-enhancement"
 
 slides:
   - title: "PE & a11y"

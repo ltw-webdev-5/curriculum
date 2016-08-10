@@ -3,14 +3,8 @@ topic: "Video"
 desc: "A look at compressing video formats and embedding video into websites—as well as hosting video on global servers."
 
 video_tutorials:
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
+  - title: "Video & audio"
+    url: video-audio
 
 slides:
   - title: "Video"

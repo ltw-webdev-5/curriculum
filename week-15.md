@@ -3,14 +3,14 @@ topic: "Portfolio final testing"
 desc: "Browser and peer testing for your final portfolio website on lots of different devices and in lots of situations."
 
 video_tutorials:
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
+  - title: "Browser testing"
+    url: browser-testing
+  - title: "Browser testing checklist"
+    url: browser-testing-checklist
+    highlight: true
+  - title: "Launch checklist, Web Dev 5"
+    url: launch-checklist-web-dev-5
+    highlight: true
 
 slides:
   - title: "Preview next term"

@@ -3,14 +3,8 @@ topic: "404 pages"
 desc: "Make a fun & personality-appropriate 404 page for your portfolio website."
 
 video_tutorials:
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
+  - title: "404 pages"
+    url: "404-pages"
 
 slides:
   - title: "Great 404 pages"
