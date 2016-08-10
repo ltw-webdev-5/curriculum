@@ -9,6 +9,12 @@ video_tutorials:
     url: images-cheat-sheet
   - title: "SVG cheat sheet"
     url: svg-cheat-sheet
+  - title: "Browser testing checklist"
+    url: browser-testing-checklist
+  - title: "Accessibility checklist"
+    url: accessibility-checklist
+  - title: "Performance checklist"
+    url: performance-checklist
 
 tasks:
   - title: "Video Venturer"

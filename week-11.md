@@ -3,6 +3,8 @@ topic: "Performance"
 desc: "Dig into making your portfolio website load quickly on all devices and networks."
 
 video_tutorials:
+  - title: "Performance"
+    url: performance
   - title: "Advanced performance"
     url: advanced-performance
   - title: "Advanced performance checklist"

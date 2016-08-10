@@ -4,7 +4,14 @@ desc: "Introduction to making Javascript optional and not ruining accessibility 
 
 video_tutorials:
   - title: "Progressive enhancement"
-    url: "progressive-enhancement"
+    url: progressive-enhancement
+    highlight: true
+  - title: "Accessibility"
+    url: accessibility
+  - title: "Accessibility checklist"
+    url: accessibility-checklist
+  - title: "Javascript & accessibility"
+    url: javascript-accessibility
 
 slides:
   - title: "PE & a11y"
