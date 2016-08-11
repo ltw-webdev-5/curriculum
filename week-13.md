@@ -17,5 +17,6 @@ tasks:
     submit: show
   - title: "Final portfolio website"
     submit: show
+    graded-as: final-portfolio
   - type: blank
 ---

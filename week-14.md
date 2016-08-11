@@ -16,9 +16,10 @@ tasks:
   - title: "HTTP Hoodwinker"
     type: activity
   - type: blank
-  - title: "Portfolio check-in"
+  - title: "Final portfolio check-in"
     submit: show
   - title: "Final portfolio website"
     submit: online
+    graded-as: final-portfolio
   - type: blank
 ---

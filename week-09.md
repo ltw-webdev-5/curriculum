@@ -20,8 +20,9 @@ tasks:
   - title: "Video Venturer"
     type: activity
   - type: blank
-  - title: "Portfolio check-in"
+  - title: "Basic portfolio check-in"
     submit: show
   - title: "Basic portfolio"
     submit: online
+    graded-as: basic-portfolio
 ---

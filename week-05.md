@@ -16,8 +16,9 @@ tasks:
   - title: "Markdown Manipulator"
     type: activity
   - type: blank
-  - title: "Portfolio check-in"
+  - title: "Wireframe check-in"
     submit: show
   - title: "Interactive wireframe"
     submit: show
+    graded-as: interactive-wireframe
 ---

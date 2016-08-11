@@ -30,6 +30,8 @@ tasks:
     pair: true
   - title: "Request for grade"
     type: basic
+    graded-as: false
   - title: "Final portfolio website"
+    graded-as: final-portfolio
     submit: online
 ---

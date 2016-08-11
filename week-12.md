@@ -23,6 +23,6 @@ tasks:
     type: lesson
   - title: "ARIA controls"
     type: lesson
-  - title: "Javascript"
+  - title: "Portfolio Javascript"
     submit: show
 ---
