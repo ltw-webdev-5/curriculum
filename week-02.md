@@ -16,6 +16,7 @@ video_tutorials:
 
 slides:
   - title: "Web Dev 5 intro"
+    url: intro
   - title: "Your portfolio"
 
 tasks:
