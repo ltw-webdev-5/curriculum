@@ -10,7 +10,7 @@ slides:
 
   - content: |
       ## Eric Adamski
-      *SOMETHING HERE*
+      *Bath bomb enthusiast*
 
       [adamske@algonquincollege.com](mailto:adamske@algonquincollege.com)
 
