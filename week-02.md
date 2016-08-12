@@ -21,7 +21,11 @@ slides:
 
 tasks:
   - type: blank
-  - type: blank
+  - title: "Update your computer!"
+    type: basic
+    submit: show
+    button: activity
+    url: update-your-computer
   - title: "Portfolio inspiration"
     type: basic
     submit: show
