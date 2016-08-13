@@ -17,21 +17,25 @@ video_tutorials:
 slides:
   - title: "Web Dev 5 intro"
     url: intro
-  - title: "Your portfolio"
+  - title: "Portfolio overview"
+    url: portfolio-overview
 
 tasks:
   - type: blank
   - title: "Update your computer!"
-    type: basic
-    submit: show
-    button: activity
     url: update-your-computer
-  - title: "Portfolio inspiration"
     type: basic
     submit: show
     button: activity
-  - title: "Coming soon page"
-    submit: show
-  - title: "Researching your domain"
+  - title: "Portfolio inspiration"
+    url: https://github.com/acgd-webdev-5/portfolio-inspiration
     type: basic
+    submit: show
+    button: activity
+  - title: "Choosing a domain"
+    url: https://github.com/acgd-webdev-5/choosing-a-domain
+    type: basic
+  - title: "Coming soon page"
+    url: https://github.com/acgd-webdev-5/coming-soon-page
+    submit: show
 ---
