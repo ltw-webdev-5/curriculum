@@ -27,7 +27,7 @@ slides:
   - content: |
       ## Every week will add…
 
-      - Each week will add onto what as completed before.
+      - Each week will add onto what was completed before.
       - Some weeks will provide in class Q&A and work time.
       - Some weeks will add new features like SEO, accessibility, video, etc.
       - Some weeks will concentrate on testing.
