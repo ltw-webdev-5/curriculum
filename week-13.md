@@ -1,22 +1,25 @@
 ---
-topic: "404 pages"
-desc: "Make a fun & personality-appropriate 404 page for your portfolio website."
+topic: "Portfolio milestone 3 work period"
+desc: "In class work time to spend sweating the details on your finalized portfolio website."
 
 video_tutorials:
-  - title: "404 pages"
-    url: "404-pages"
-
-slides:
-  - title: "Great 404 pages"
+  - title: "Browser testing"
+    url: browser-testing
+  - title: "Browser testing checklist"
+    url: browser-testing-checklist
+    highlight: true
+  - title: "Launch checklist, Web Dev 5"
+    url: launch-checklist-web-dev-5
+    highlight: true
 
 tasks:
-  - title: "Enhancement Enactor"
+  - title: "HTTP Hoodwinker"
     type: activity
   - type: blank
-  - title: "404 page"
+  - title: "Final portfolio check-in"
     submit: show
   - title: "Final portfolio website"
-    submit: show
+    submit: online
     graded-as: final-portfolio
   - type: blank
 ---

@@ -1,27 +1,29 @@
 ---
-topic: "Performance"
-desc: "Dig into making your portfolio website load quickly on all devices and networks."
+topic: "Progressive enhancement & accessibility"
+desc: "Introduction to making Javascript optional and not ruining accessibility by adding Javascript."
 
 video_tutorials:
-  - title: "Performance"
-    url: performance
-  - title: "Advanced performance"
-    url: advanced-performance
-    videos: true
-  - title: "Advanced performance checklist"
-    url: advanced-performance-checklist
+  - title: "Progressive enhancement"
+    url: progressive-enhancement
     highlight: true
+    videos: true
+  - title: "Accessibility"
+    url: accessibility
+  - title: "Accessibility checklist"
+    url: accessibility-checklist
+  - title: "Javascript & accessibility"
+    url: javascript-accessibility
 
 slides:
-  - title: "Performance"
+  - title: "PE & a11y"
 
 tasks:
-  - title: "Liquid Locomotor"
+  - title: "Performance Perfector"
     type: activity
-  - title: "Passing WebPageTest"
+  - title: "Without & with Javascript"
     type: lesson
-  - title: "CSS concatenation"
+  - title: "ARIA controls"
     type: lesson
-  - title: "Portfolio performance"
+  - title: "Portfolio Javascript"
     submit: show
 ---

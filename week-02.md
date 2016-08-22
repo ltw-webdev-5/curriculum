@@ -1,41 +1,29 @@
 ---
-topic: "Intro & review"
-desc: "An overview of the course this term, portfolio website process & starting a coming soon page."
+topic: "Domains, e-mails, hosting"
+desc: "Look at how domains and DNS work, purchase portfolio website domain and set everything up."
 
 video_tutorials:
-  - title: "Everything from Set up"
-    url: "#setup"
-  - title: "Everything from Web Dev 1"
-    url: "#web-dev-1"
-  - title: "Everything from Web Dev 2"
-    url: "#web-dev-2"
-  - title: "Everything from Web Dev 3"
-    url: "#web-dev-3"
-  - title: "Everything from Web Dev 4"
-    url: "#web-dev-4"
+  - title: "Domains & DNS"
+    url: domains
+    highlight: true
+    videos: true
 
 slides:
-  - title: "Web Dev 5 intro"
-    url: intro
-  - title: "Portfolio overview"
-    url: portfolio-overview
+  - title: "Domains & DNS"
 
 tasks:
-  - type: blank
-  - title: "Update your computer!"
-    url: update-your-computer
-    type: basic
+  - title: "License Liberator"
+    type: activity
+  - title: "Buying a domain"
     submit: show
+    type: basic
     button: activity
-  - title: "Portfolio inspiration"
-    url: https://github.com/acgd-webdev-5/portfolio-inspiration
-    type: basic
+  - title: "Hosting setup"
     submit: show
+    type: basic
     button: activity
-  - title: "Choosing a domain"
-    url: https://github.com/acgd-webdev-5/choosing-a-domain
-    type: basic
-  - title: "Coming soon page"
-    url: https://github.com/acgd-webdev-5/coming-soon-page
+  - title: "Portfolio content"
     submit: show
+    type: basic
+    button: activity
 ---

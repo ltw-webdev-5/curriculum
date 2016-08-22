@@ -1,6 +1,6 @@
 ---
 topic: "Portfolio final testing"
-desc: "Browser and peer testing for your final portfolio website on lots of different devices and in lots of situations."
+desc: "Browser and peer testing for your final portfolio on lots of different devices and in lots of situations."
 
 video_tutorials:
   - title: "Browser testing"
@@ -21,8 +21,7 @@ group_activities:
     type: star
 
 tasks:
-  - title: "Security Sniper"
-    type: activity
+  - type: blank
   - type: blank
   - title: "Browser testing"
     url: "/courses/web-dev-1/browser-testing/"

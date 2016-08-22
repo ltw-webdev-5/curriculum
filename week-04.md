@@ -1,41 +1,24 @@
 ---
-topic: "Writing for the web"
-desc: "Techniques & styles when writing text for the web as well as looking at web writing formats: Markdown & YAML."
+topic: "Portfolio milestone 1 work period"
+desc: "In class work time to spend on coding the interactive wireframe for your portfolio website."
 
 video_tutorials:
-  - title: "Writing for the Web"
-    url: writing-for-the-web
-    videos: true
-  - title: "Writing checklist"
-    url: writing-checklist
-    highlight: true
-  - title: "Markdown"
-    url: markdown
-    videos: true
-  - title: "YAML"
-    url: yaml
-    videos: true
-  - title: "Markdown & YAML cheat sheet"
-    url: markdown-yaml-cheat-sheet
-    highlight: true
-  - title: "Writing a readme"
-    url: writing-a-readme
-
-slides:
-  - title: "The web of text"
-
-group_activities:
-  - title: "Writing with personality"
-    type: pencil
+  - title: "Screen sizes cheat sheet"
+    url: screen-sizes-cheat-sheet
+  - title: "Gridifier cheat sheet"
+    url: gridifier-cheat-sheet
+  - title: "Typografier cheat sheet"
+    url: typografier-cheat-sheet
+  - title: "Modulifier cheat sheet"
+    url: modulifier-cheat-sheet
 
 tasks:
-  - title: "Domain Destroyer"
-    url: https://activities.learn-the-web.algonquindesign.ca/domain-destroyer/
+  - title: "Markdown Manipulator"
     type: activity
-  - title: "Writing a Readme"
-    type: lesson
-  - title: "Structured content"
+  - type: blank
+  - title: "Wireframe check-in"
     submit: show
-  - title: "Paper wireframes"
-    type: paper
+  - title: "Interactive wireframe"
+    submit: show
+    graded-as: interactive-wireframe
 ---
