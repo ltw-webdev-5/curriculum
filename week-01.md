@@ -1,5 +1,5 @@
 ---
-topic: "Intro & review"
+topic: "Introduction"
 desc: "An overview of the course this term, assignments, projects and weekly tasks."
 
 slides:

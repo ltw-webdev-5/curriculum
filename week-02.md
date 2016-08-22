@@ -1,5 +1,5 @@
 ---
-topic: "Intro & review"
+topic: "Portfolio overview"
 desc: "An overview of your portfolio website process & starting a coming soon page."
 
 video_tutorials:
