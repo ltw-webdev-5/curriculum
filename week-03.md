@@ -1,41 +1,29 @@
 ---
-topic: "Writing for the web"
-desc: "Techniques & styles when writing text for the web as well as looking at web writing formats: Markdown & YAML."
+topic: "Domains, e-mails, hosting"
+desc: "Look at how domains and DNS work, purchase portfolio website domain and set everything up."
 
 video_tutorials:
-  - title: "Writing for the Web"
-    url: writing-for-the-web
-    videos: true
-  - title: "Writing checklist"
-    url: writing-checklist
+  - title: "Domains & DNS"
+    url: domains
     highlight: true
-  - title: "Markdown"
-    url: markdown
     videos: true
-  - title: "YAML"
-    url: yaml
-    videos: true
-  - title: "Markdown & YAML cheat sheet"
-    url: markdown-yaml-cheat-sheet
-    highlight: true
-  - title: "Writing a readme"
-    url: writing-a-readme
 
 slides:
-  - title: "The web of text"
-
-group_activities:
-  - title: "Writing with personality"
-    type: pencil
+  - title: "Domains & DNS"
 
 tasks:
-  - title: "Domain Destroyer"
-    url: https://activities.learn-the-web.algonquindesign.ca/domain-destroyer/
+  - title: "License Liberator"
     type: activity
-  - title: "Writing a Readme"
-    type: lesson
-  - title: "Structured content"
+  - title: "Buying a domain"
     submit: show
-  - title: "Paper wireframes"
-    type: paper
+    type: basic
+    button: activity
+  - title: "Hosting setup"
+    submit: show
+    type: basic
+    button: activity
+  - title: "Portfolio content"
+    submit: show
+    type: basic
+    button: activity
 ---

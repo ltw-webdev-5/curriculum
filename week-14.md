@@ -1,6 +1,6 @@
 ---
-topic: "Portfolio work period"
-desc: "Work time to fill all the remaining content & finalize the remaining details of your portfolio website."
+topic: "Portfolio milestone 3 work period"
+desc: "In class work time to spend sweating the details on your finalized portfolio website."
 
 video_tutorials:
   - title: "Browser testing"
@@ -13,12 +13,13 @@ video_tutorials:
     highlight: true
 
 tasks:
-  - title: "Security Sniper"
+  - title: "HTTP Hoodwinker"
     type: activity
   - type: blank
-  - type: blank
+  - title: "Final portfolio check-in"
+    submit: show
   - title: "Final portfolio website"
-    graded-as: final-portfolio
     submit: online
+    graded-as: final-portfolio
   - type: blank
 ---

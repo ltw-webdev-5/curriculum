@@ -21,7 +21,8 @@ group_activities:
     type: star
 
 tasks:
-  - type: blank
+  - title: "Security Sniper"
+    type: activity
   - type: blank
   - title: "Browser testing"
     url: "/courses/web-dev-1/browser-testing/"

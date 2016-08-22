@@ -1,22 +1,38 @@
 ---
-topic: "Video"
-desc: "A look at compressing video formats and embedding video into websites—as well as hosting video on global servers."
+topic: "SEO, enhanced metadata & analytics"
+desc: "Enhance our websites with some honest search engine optimization, social media metadata & tracking analytics."
 
 video_tutorials:
-  - title: "Video & audio"
-    url: video-audio
+  - title: "Search engine optimization"
+    url: search-engine-optimization
     videos: true
+  - title: "Metadata & enhanced semantics"
+    url: metadata-enhanced-semantics
+    videos: true
+  - title: "Analytics & monitoring"
+    url: analytics-monitoring
+  - title: "SEO checklist"
+    url: seo-checklist
+    highlight: true
+  - title: "Jekyll: unique titles for every page"
+    url: "https://www.youtube.com/watch?v=ra9Td0DpK0s&list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-&index=31"
+  - title: "Jekyll: meta description"
+    url: "https://www.youtube.com/watch?v=FUL9SSgMZ8Y&list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-&index=32"
+  - title: "Jekyll: automatic sitemap.xml"
+    url: "https://www.youtube.com/watch?v=C49lhiX_JO0&list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-&index=33"
+  - title: "Jekyll: pretty URLs"
+    url: "https://www.youtube.com/watch?v=sc-4FywBPlg&list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-&index=34"
 
 slides:
-  - title: "Video"
+  - title: "SEO & metadata"
 
 tasks:
-  - title: "Search Seer"
+  - title: "Jekyll Judger"
     type: activity
-  - title: "Video embed"
+  - title: "SEO-ing some content"
     type: lesson
-  - title: "Video + Javascript"
+  - title: "Content microdata"
     type: lesson
-  - title: "Accessibility"
+  - title: "SEO & microdata"
     submit: show
 ---

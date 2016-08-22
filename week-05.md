@@ -1,33 +1,24 @@
 ---
-topic: "Layouts & Jekyll"
-desc: "Looking at shared headers and footers on websites, like InDesign master pages, using the Jekyll site generator."
+topic: "Portfolio milestone 1 work period"
+desc: "In class work time to spend on coding the interactive wireframe for your portfolio website."
 
 video_tutorials:
-  - title: "Jekyll"
-    url: jekyll
-    videos: true
-  - title: "Jekyll installation"
-    url: jekyll-installation
-  - title: "Install Jekyll on older Macs"
-    url: jekyll-installation-older-mac
-  - title: "Jekyll terminal guide"
-    url: jekyll-terminal-guide
-  - title: "Jekyll cheat sheet"
-    url: jekyll-cheat-sheet
-    highlight: true
-
-slides:
-  - title: "Jekyll: web masterpages"
+  - title: "Screen sizes cheat sheet"
+    url: screen-sizes-cheat-sheet
+  - title: "Gridifier cheat sheet"
+    url: gridifier-cheat-sheet
+  - title: "Typografier cheat sheet"
+    url: typografier-cheat-sheet
+  - title: "Modulifier cheat sheet"
+    url: modulifier-cheat-sheet
 
 tasks:
-  - title: "YAML Yodeller"
+  - title: "Markdown Manipulator"
     type: activity
-  - title: "Installing Jekyll"
-    type: basic
+  - type: blank
+  - title: "Wireframe check-in"
     submit: show
-    button: activity
-  - title: "Basic Jekyll site"
+  - title: "Interactive wireframe"
     submit: show
-  - title: "Jekyll portfolio"
-    submit: show
+    graded-as: interactive-wireframe
 ---

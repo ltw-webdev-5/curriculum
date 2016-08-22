@@ -1,28 +1,22 @@
 ---
-topic: "Portfolio milestone 2 work period"
-desc: "In class work time to spend on finalizing the basic—Javascript free—version of your portfolio website."
+topic: "Video"
+desc: "A look at compressing video formats and embedding video into websites—as well as hosting video on global servers."
 
 video_tutorials:
-  - title: "Validators"
-    url: validators
-  - title: "Images cheat sheet"
-    url: images-cheat-sheet
-  - title: "SVG cheat sheet"
-    url: svg-cheat-sheet
-  - title: "Browser testing checklist"
-    url: browser-testing-checklist
-  - title: "Accessibility checklist"
-    url: accessibility-checklist
-  - title: "Performance checklist"
-    url: performance-checklist
+  - title: "Video & audio"
+    url: video-audio
+    videos: true
+
+slides:
+  - title: "Video"
 
 tasks:
-  - title: "Video Venturer"
+  - title: "Search Seer"
     type: activity
-  - type: blank
-  - title: "Basic portfolio check-in"
+  - title: "Video embed"
+    type: lesson
+  - title: "Video + Javascript"
+    type: lesson
+  - title: "Accessibility"
     submit: show
-  - title: "Basic portfolio"
-    submit: online
-    graded-as: basic-portfolio
 ---
