@@ -30,7 +30,7 @@ group_activities:
 
 tasks:
   - title: "Domain Destroyer"
-    url: http://activities.learn-the-web.algonquindesign.ca/domain-destroyer/
+    url: https://activities.learn-the-web.algonquindesign.ca/domain-destroyer/
     type: activity
   - title: "Writing a Readme"
     type: lesson
