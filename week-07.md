@@ -5,8 +5,10 @@ desc: "Enhance our websites with some honest search engine optimization, social 
 video_tutorials:
   - title: "Search engine optimization"
     url: search-engine-optimization
+    videos: true
   - title: "Metadata & enhanced semantics"
     url: metadata-enhanced-semantics
+    videos: true
   - title: "Analytics & monitoring"
     url: analytics-monitoring
   - title: "SEO checklist"

@@ -5,13 +5,16 @@ desc: "Techniques & styles when writing text for the web as well as looking at w
 video_tutorials:
   - title: "Writing for the Web"
     url: writing-for-the-web
+    videos: true
   - title: "Writing checklist"
     url: writing-checklist
     highlight: true
   - title: "Markdown"
     url: markdown
+    videos: true
   - title: "YAML"
     url: yaml
+    videos: true
   - title: "Markdown & YAML cheat sheet"
     url: markdown-yaml-cheat-sheet
     highlight: true

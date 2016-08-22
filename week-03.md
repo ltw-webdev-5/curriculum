@@ -6,6 +6,7 @@ video_tutorials:
   - title: "Domains & DNS"
     url: domains
     highlight: true
+    videos: true
 
 slides:
   - title: "Domains & DNS"

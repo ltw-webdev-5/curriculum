@@ -5,6 +5,7 @@ desc: "A look at compressing video formats and embedding video into websites—a
 video_tutorials:
   - title: "Video & audio"
     url: video-audio
+    videos: true
 
 slides:
   - title: "Video"

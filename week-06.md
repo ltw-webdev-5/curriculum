@@ -5,6 +5,7 @@ desc: "Looking at shared headers and footers on websites, like InDesign master p
 video_tutorials:
   - title: "Jekyll"
     url: jekyll
+    videos: true
   - title: "Jekyll installation"
     url: jekyll-installation
   - title: "Install Jekyll on older Macs"
