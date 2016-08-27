@@ -1,6 +1,7 @@
 ---
 topic: "Portfolio overview"
 desc: "An overview of your portfolio website process & starting a coming soon page."
+clr: "7"
 
 video_tutorials:
   - title: "Everything from Set up"

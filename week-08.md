@@ -1,6 +1,7 @@
 ---
 topic: "Video"
 desc: "A look at compressing video formats and embedding video into websites—as well as hosting video on global servers."
+clr: "5, 7"
 
 video_tutorials:
   - title: "Video & audio"

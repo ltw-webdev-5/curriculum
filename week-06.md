@@ -1,6 +1,7 @@
 ---
 topic: "Layouts & Jekyll"
 desc: "Looking at shared headers and footers on websites, like InDesign master pages, using the Jekyll site generator."
+clr: "2, 7"
 
 video_tutorials:
   - title: "Jekyll"

@@ -1,6 +1,7 @@
 ---
 topic: "Progressive enhancement & accessibility"
 desc: "Introduction to making Javascript optional and not ruining accessibility by adding Javascript."
+clr: "2, 3, 5, 6, 7"
 
 video_tutorials:
   - title: "Progressive enhancement"

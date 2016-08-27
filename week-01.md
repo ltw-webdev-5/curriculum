@@ -1,6 +1,7 @@
 ---
 topic: "Introduction"
 desc: "An overview of the course this term, assignments, projects and weekly tasks."
+clr: ""
 
 slides:
   - title: "Web Dev 5 intro"

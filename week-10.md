@@ -1,6 +1,7 @@
 ---
 topic: "Portfolio testing"
 desc: "Browser and peer testing for your portfolio website on lots of different devices and in lots of situations."
+clr: "2, 3, 5, 7"
 
 video_tutorials:
   - title: "Browser testing"

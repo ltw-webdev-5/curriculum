@@ -1,6 +1,7 @@
 ---
 topic: "Performance"
 desc: "Dig into making your portfolio website load quickly on all devices and networks."
+clr: "2, 3, 5, 6, 7"
 
 video_tutorials:
   - title: "Performance"

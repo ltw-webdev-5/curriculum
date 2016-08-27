@@ -1,6 +1,7 @@
 ---
 topic: "Portfolio milestone 2 work period"
 desc: "In class work time to spend on finalizing the basic—Javascript free—version of your portfolio website."
+clr: "2, 3, 5, 7"
 
 video_tutorials:
   - title: "Validators"

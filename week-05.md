@@ -1,6 +1,7 @@
 ---
 topic: "Portfolio milestone 1 work period"
 desc: "In class work time to spend on coding the interactive wireframe for your portfolio website."
+clr: "3, 7"
 
 video_tutorials:
   - title: "Screen sizes cheat sheet"

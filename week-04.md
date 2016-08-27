@@ -1,6 +1,7 @@
 ---
 topic: "Writing for the web"
 desc: "Techniques & styles when writing text for the web as well as looking at web writing formats: Markdown & YAML."
+clr: "2, 3, 7"
 
 video_tutorials:
   - title: "Writing for the Web"

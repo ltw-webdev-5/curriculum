@@ -1,6 +1,7 @@
 ---
 topic: "SEO, enhanced metadata & analytics"
 desc: "Enhance our websites with some honest search engine optimization, social media metadata & tracking analytics."
+clr: "4, 7"
 
 video_tutorials:
   - title: "Search engine optimization"

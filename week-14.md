@@ -1,6 +1,7 @@
 ---
 topic: "Portfolio milestone 3 work period"
 desc: "In class work time to spend sweating the details on your finalized portfolio website."
+clr: "2, 3, 5, 6, 7"
 
 video_tutorials:
   - title: "Browser testing"

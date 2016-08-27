@@ -1,6 +1,7 @@
 ---
 topic: "404 pages"
 desc: "Make a fun & personality-appropriate 404 page for your portfolio website."
+clr: "2, 3, 5, 6, 7"
 
 video_tutorials:
   - title: "404 pages"
