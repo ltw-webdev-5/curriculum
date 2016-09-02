@@ -72,6 +72,6 @@ slides:
   - content: |
       ## Videos & tutorials
 
-      - [Domains & DNS](/topics/domains/)
+      - [Domains & DNS ➔](/topics/domains/)
 
 ---
