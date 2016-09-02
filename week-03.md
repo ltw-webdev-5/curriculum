@@ -11,6 +11,7 @@ video_tutorials:
 
 slides:
   - title: "Domains & DNS"
+    url: domains-dns
 
 tasks:
   - title: "License Liberator"
