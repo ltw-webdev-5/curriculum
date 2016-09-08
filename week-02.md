@@ -19,6 +19,9 @@ slides:
   - title: "Portfolio overview"
     url: portfolio-overview
 
+next_week_notes:
+  - "Bring a credit card for purchasing your domain & email. Most of the services also support PayPal."
+
 tasks:
   - type: blank
   - title: "Portfolio inspiration"

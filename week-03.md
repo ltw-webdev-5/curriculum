@@ -16,7 +16,7 @@ slides:
 tasks:
   - title: "License Liberator"
     type: activity
-  - title: "Buying a domain"
+  - title: "Buying a domain & email"
     submit: show
     type: basic
     button: activity
