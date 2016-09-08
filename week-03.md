@@ -17,10 +17,12 @@ tasks:
   - title: "License Liberator"
     type: activity
   - title: "Buying a domain & email"
+    url: buying-a-domain-and-email
     submit: show
     type: basic
     button: activity
   - title: "Hosting setup"
+    url: hosting-setup
     submit: show
     type: basic
     button: activity
