@@ -14,6 +14,8 @@ steps:
     before: |
       We’re going to be purchasing domains from [**Hover**](https://www.hover.com/), a small Canadian domain registrar with amazing customer service.
 
+      ### [Go to Hover & make an account](https://www.hover.com/)
+
       ![](search.jpg)
 
       *Go to the website and search for the domain you want.*

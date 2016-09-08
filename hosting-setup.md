@@ -12,11 +12,13 @@ extra_tutorials:
 steps:
   - title: "Create a CloudFlare account"
     before: |
-      CloudFlare is a free service to add an extra level of security and performance to your website. They’re a DNS routing system with the added benefit of stopping security threats to your website and performance enhancements—and SSL.
+      [**CloudFlare**](https://www.cloudflare.com/) is a free service to add an extra level of security and performance to your website. They’re a DNS routing system with the added benefit of stopping security threats to your website and performance enhancements—and SSL.
+
+      ### [Go to CloudFlare & make an account](https://www.cloudflare.com/)
 
       ![](cloudflare-domain.jpg)
 
-      First create your CloudFlare account and put in your domain name. CloudFlare will search your domain for DNS records.
+      After creating your CloudFlare account, put in your domain name. CloudFlare will search your domain for DNS records.
 
       ![](cloudflare-dns.jpg)
 
