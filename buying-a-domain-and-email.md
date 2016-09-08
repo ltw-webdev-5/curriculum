@@ -5,6 +5,10 @@ desc: "Walk through the process of leasing a domain from Hover and purchasing an
 
 hide_markbot: true
 
+extra_tutorials:
+  - title: "Domains & DNS"
+    url: domains
+
 steps:
   - title: "Search for domain"
     before: |
@@ -20,7 +24,7 @@ steps:
 
       Ideally you want to choose `.ca` because it will give you better search results juice for Canadian searchers.
 
-      If you want, you could also get the `.com` and forward it to the `.ca` to they act as the same website.
+      If you want, you could also get the `.com` and forward it to the `.ca` so they act as the same website.
 
   - title: "Add to cart & start checkout"
     before: |
@@ -64,14 +68,16 @@ steps:
 
   - title: "Buying email"
     before: |
+      It’s best to buy email from a service provider so you can get an email address for your custom domain. I often buy my e-mail services from FastMail because they are independent and have great customer service.
+
       There are two different ways to get a custom email address:
 
       1. **Buy a forwarder from Hover** — a forwarder will send the email to another address, like Gmail or something. But you can never respond from the custom email address.
       2. **Buy email from a service provider, like FastMail** — this is what I would recommend, it will give you a completely separate, business account tied to your domain.
 
-      *If you choose the Hover fowarder, go ahead and do that right in your Hover account—then you’re done.*
+      - **If you choose the Hover fowarder, go ahead and do that right in your Hover account—then you’re done—don’t continue this lesson.**
 
-      If you choose the better option of FastMail, continue following along.
+      If you choose the FastMail option, continue following along…
 
   - title: "Setting up FastMail"
     before: |
@@ -120,5 +126,34 @@ steps:
       ![](hover-add-new.jpg)
 
       *For each of the following items you’ll press the “Add New” button then “Save”.*
+    image_steps:
+      - url: fastmail-mx-10.jpg
+        text: "Point the first `MX` record: `@  MX  10  in1-smtp.messagingengine.com`"
+      - url: fastmail-mx-20.jpg
+        text: "Point the second `MX` record: `@  MX  20  in2-smtp.messagingengine.com`"
+      - url: fastmail-dkim-1.jpg
+        text: "Add spam protection with a `TXT` record: `mesmtp._domainkey  TXT  v=DKIM1; k=rsa; p=…`"
+      - url: fastmail-dkim-2.jpg
+        text: "More spam protection: `_adsp._domainkey  TXT  dkim=unknown`"
+      - url: fastmail-spf.jpg
+        text: "And more spam protection: `@  TXT  v=spf1 include:…`"
+
+  - title: "Choose your email address"
+    before: |
+      The last step in this whole process is to actually choose your email address—what comes before the `@` symbol.
+
+      ![](fastmail-alias.jpg)
+
+      Go to FastMail’s “Aliases” page.
+
+      ![](fastmail-alias-new.jpg)
+
+      Add a new alias for your email address.
+
+      ![](fastmail-alias-write.jpg)
+
+      *Choose what you want your email address to be by typing in the field.* I would choose something like `hey` or `hello` or `thomas` or something friendly.
+
+      **That’s it—your email should start working any time now, but could take up to 24 hours.**
 
 ---
