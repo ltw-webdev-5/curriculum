@@ -15,6 +15,7 @@ slides:
 
 tasks:
   - title: "License Liberator"
+    url: https://activities.learn-the-web.algonquindesign.ca/license-liberator/
     type: activity
   - title: "Buying a domain & email"
     url: buying-a-domain-and-email
@@ -27,6 +28,7 @@ tasks:
     type: basic
     button: activity
   - title: "Portfolio content"
+    url: https://github.com/acgd-webdev-5/portfolio-content
     submit: show
     type: basic
     button: activity
