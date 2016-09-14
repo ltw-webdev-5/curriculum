@@ -38,5 +38,11 @@ tasks:
   - title: "Structured content"
     submit: show
   - title: "Paper wireframes"
+    url: https://github.com/acgd-webdev-5/paper-wireframes
     type: paper
+  - title: "Interactive wireframes"
+    url: https://github.com/acgd-webdev-5/interactive-wireframes
+    submit: online
+    graded-as: interactive-wireframes
+    due: "Start of class, week 6"
 ---

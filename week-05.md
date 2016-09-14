@@ -19,7 +19,11 @@ tasks:
   - type: blank
   - title: "Wireframe check-in"
     submit: show
-  - title: "Interactive wireframe"
+  - title: "Interactive wireframes"
+    url: https://github.com/acgd-webdev-5/interactive-wireframes
     submit: show
-    graded-as: interactive-wireframe
+    graded-as: interactive-wireframes
+    url: https://github.com/acgd-webdev-5/interactive-wireframes
+    due: "Start of class, week 6"
+    submit: online
 ---
