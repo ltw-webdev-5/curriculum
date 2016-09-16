@@ -1,6 +1,6 @@
 ---
 topic: "Writing for the web"
-desc: "Techniques & styles when writing text for the web as well as looking at web writing formats: Markdown & YAML."
+desc: "Techniques, styles and formats, like Markdown & YAML, used when writing text for the web."
 clr: "2, 3, 7"
 
 video_tutorials:
@@ -34,9 +34,8 @@ tasks:
     url: https://activities.learn-the-web.algonquindesign.ca/domain-destroyer/
     type: activity
   - title: "Writing a Readme"
+    url: writing-a-readme
     type: lesson
-  - title: "Structured content"
-    submit: show
   - title: "Paper wireframes"
     url: https://github.com/acgd-webdev-5/paper-wireframes
     type: paper
