@@ -23,10 +23,14 @@ video_tutorials:
     url: writing-a-readme
 
 slides:
-  - title: "The web of text"
 
 group_activities:
+  - title: "The web of text"
+    url: the-web-of-text
+    type: pencil
+    pair: true
   - title: "Writing with personality"
+    url: writing-with-personality
     type: pencil
 
 tasks:
