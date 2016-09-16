@@ -43,6 +43,61 @@ steps:
         <br>*or*
       2. Go to the “Settings” for your `portfolio` repo, scroll down to “GitHub Pages” and select “master branch”—then press “Save”.
 
+  - title: "Writing your “Why”"
+    before: |
+      When writing about yourself for the Web you want the text to follow the standards we discussed at the start to the class—but you also what your text to have personality.
+
+      One way to help reach people and get people to understand your personality—which is really what you want for your portfolio—is to tell them *why* you’re a graphic designer not *what* you are as a graphic designer.
+
+      *Watch this video to see it explained a little more thoroughly:*
+    video: "sioZd3AxmnE"
+    after: |
+      &nbsp;
+
+      You need to write yourself a “why”—to get the right job and work with the right people.
+
+      ### Poor examples of “what” descriptions
+
+      ```
+      Thomas J Bradley
+
+      Graphic designer.
+      ```
+
+      *Boring…*
+
+      ```
+      Thomas J Bradley
+
+      I like to design pretty things!
+      ```
+
+      *No duh—so does every other graphic designer.*
+
+      ### Good examples of “why” descriptions
+
+      ```
+      Thomas J Bradley, Professor
+
+      Learning new stuff kicks ass. I want to inspire the passion for learning and creating in others—the best way to do that is to teach.
+      ```
+
+      *Now you can understand a little bit about who I am and why I do what I do.*
+
+      ```
+      elizabeth&jane photography
+
+      Growing up, my father always had a camera in his hand. He captured everything — there are thousands of images from our lives.
+
+      I feel so lucky that I have these moments to look back on: pictures of my parents’ love, images of their happiness, and photos of their joy seeing their kids grow up.
+
+      I believe that capturing life stories and moments is so important, not only for you, but for those to whom you mean the most.
+      ```
+
+      *Understanding Liz’s personality & why she’s passionate about photography.*
+
+      **Write your “why” before moving onto the rest of this lesson.** Your “why” should guide every decision you make about your portfolio website.
+
   - title: "Edit the readme"
     before: |
       We’re going to use Markdown to write a simple readme to store in your repository.
