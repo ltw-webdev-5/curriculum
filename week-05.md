@@ -15,9 +15,11 @@ video_tutorials:
 
 tasks:
   - title: "Markdown Manipulator"
+    url: "https://activities.learn-the-web.algonquindesign.ca/markdown-manipulator/"
     type: activity
   - type: blank
-  - title: "Wireframe check-in"
+  - title: "Interactive wireframe check-in"
+    url: https://github.com/acgd-webdev-5/interactive-wireframe-check-in
     submit: show
   - title: "Interactive wireframes"
     url: https://github.com/acgd-webdev-5/interactive-wireframes
