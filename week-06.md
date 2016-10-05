@@ -9,8 +9,6 @@ video_tutorials:
     videos: true
   - title: "Jekyll installation"
     url: jekyll-installation
-  - title: "Install Jekyll on older Macs"
-    url: jekyll-installation-older-mac
   - title: "Jekyll terminal guide"
     url: jekyll-terminal-guide
   - title: "Jekyll cheat sheet"
@@ -23,7 +21,8 @@ slides:
 tasks:
   - title: "YAML Yodeller"
     type: activity
-  - title: "Installing Jekyll"
+  - title: "Install Jekyll"
+    url: install-jekyll
     type: basic
     submit: show
     button: activity
