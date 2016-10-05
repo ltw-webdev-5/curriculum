@@ -7,6 +7,7 @@ video_tutorials:
   - title: "Jekyll"
     url: jekyll
     videos: true
+    video_percent: 50
   - title: "Jekyll installation"
     url: jekyll-installation
   - title: "Jekyll terminal guide"
@@ -27,6 +28,7 @@ tasks:
     submit: show
     button: activity
   - title: "Basic Jekyll site"
+    url: basic-jekyll-site
     submit: show
   - title: "Jekyll portfolio"
     submit: show
