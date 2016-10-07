@@ -18,9 +18,11 @@ video_tutorials:
 
 slides:
   - title: "Jekyll: web master pages"
+    url: jekyll-web-master-pages
 
 tasks:
   - title: "YAML Yodeller"
+    url: "https://activities.learn-the-web.algonquindesign.ca/yaml-yodeller/"
     type: activity
   - title: "Install Jekyll"
     url: install-jekyll
