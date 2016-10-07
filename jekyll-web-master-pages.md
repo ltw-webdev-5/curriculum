@@ -11,14 +11,36 @@ slides:
   - content: |
       ## What does Jekyll solve?
 
+      *There’s a lot of repeated HTML on larger websites*
+
+      - Same header & footer HTML on every page
+      - Same column layout on all the inner pages
+      - The HTML for cards is repeated multiple times
+      - etc.
+
+      **Jekyll: resuse HTML without copy-and-paste.**
+
   - content: |
-      ## Master pages for the web
+      ## Page generation & shared HTML
+
+      - Shared components between pages, like InDesign
+        <br>*If you change the master page, every page changes*
+
+      - Variable data, like Illustrator & Photoshop
+        <br>*Create whole layouts from data files*
+
+  - content: |
+      ## Master pages (layouts)
+
+      ![](layouts.svg)
 
   - content: |
       ## Automatically populating data
 
-  - content: |
-      ## Developer tool
+      ![](data.svg)
+
+  - type: image
+    image: "terminal.jpg"
 
   - type: folders
     folders:
@@ -33,7 +55,7 @@ slides:
       - label: "_site"
         type: folder
         indent: 1
-        notes: "The generated files output in here—it’s temporary"
+        notes: "The generated files are output to here—it’s temporary"
         fade: true
       - label: "css"
         type: folder
