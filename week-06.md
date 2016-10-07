@@ -17,7 +17,7 @@ video_tutorials:
     highlight: true
 
 slides:
-  - title: "Jekyll: web masterpages"
+  - title: "Jekyll: web master pages"
 
 tasks:
   - title: "YAML Yodeller"
@@ -31,5 +31,6 @@ tasks:
     url: basic-jekyll-site
     submit: show
   - title: "Jekyll portfolio"
+    url: "https://github.com/acgd-webdev-5/jekyll-portfolio"
     submit: show
 ---
