@@ -102,6 +102,48 @@ steps:
 
       And now we’re ready to start Jekyll!
 
+  - title: "Set Git to ignore Jekyll files"
+    before: |
+      When Jekyll is running it generates a few files that we **never** want in our Git repo—they should never be visible on GitHub.
+
+      - The folder `_site` is important because it’s the final output of your website—but it’s temporary and should never be committed.
+      - Jekyll stores temporary information in the `.jekyll-metadata` file while it’s running—this should also never appear on GitHub.
+
+      We want Git to ignore these files and we can define what files to ignore using the `.gitignore` file. Let’s create that. Create new file in your code editor and name it exactly `.gitignore`—yes that’s a dot at the start.
+
+      If the OS gives you a warning about “dot” files being reserved, press: “Use '.'”.
+
+      ![](use-dot.jpg)
+    folders:
+      - label: "basic-jekyll-site"
+        type: folder
+      - label: ".gitignore"
+        indent: 1
+      - label: "_config.yml"
+        indent: 1
+        fade: true
+      - label: "index.html"
+        indent: 1
+        fade: true
+      - label: "css"
+        type: folder
+        indent: 1
+        fade: true
+      - continue: true
+    code_before: "Type the following code in your `.gitignore` to hide the Jekyll files."
+    code_lang: bash
+    code_file: ".gitignore"
+    code: |
+      _site
+      .jekyll-metadata
+    lines:
+      - num: 1
+        text: "Hide the `_site` folder from Git & GitHub."
+      - num: 2
+        text: "Hide Jekyll’s temporary `.jekyll-metadata` file from Git & GitHub."
+    after: |
+      Make sure to save.
+
   - title: "Start Jekyll"
     before: |
       Jekyll is a developer tool—and developers **love** the command line (me included). So, that means the interface to start and stop Jekyll is through Terminal.
