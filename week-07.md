@@ -21,11 +21,10 @@ video_tutorials:
     url: "https://www.youtube.com/watch?v=FUL9SSgMZ8Y&list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-&index=32"
   - title: "Jekyll: automatic sitemap.xml"
     url: "https://www.youtube.com/watch?v=C49lhiX_JO0&list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-&index=33"
-  - title: "Jekyll: pretty URLs"
-    url: "https://www.youtube.com/watch?v=sc-4FywBPlg&list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-&index=34"
 
 slides:
   - title: "SEO & metadata"
+    url: seo-metadata
 
 tasks:
   - title: "Jekyll Judger"
@@ -35,5 +34,6 @@ tasks:
   - title: "Content microdata"
     type: lesson
   - title: "SEO & microdata"
+    url: "https://github.com/acgd-webdev-5/seo-microdata"
     submit: show
 ---
