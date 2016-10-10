@@ -32,6 +32,7 @@ tasks:
   - title: "SEO-ing some content"
     type: lesson
   - title: "Content microdata"
+    url: content-microdata
     type: lesson
   - title: "SEO & microdata"
     url: "https://github.com/acgd-webdev-5/seo-microdata"
