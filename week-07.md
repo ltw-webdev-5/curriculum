@@ -29,10 +29,11 @@ slides:
 tasks:
   - title: "Jekyll Judger"
     type: activity
-  - title: "SEO-ing some content"
+  - title: "Robot Parts Co."
+    url: robot-parts-co
     type: lesson
-  - title: "Content microdata"
-    url: content-microdata
+  - title: "Portfolio microdata"
+    url: portfolio-microdata
     type: lesson
   - title: "SEO & microdata"
     url: "https://github.com/acgd-webdev-5/seo-microdata"

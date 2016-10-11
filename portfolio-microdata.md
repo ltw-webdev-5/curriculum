@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: "Content microdata"
+title: "Portfolio microdata"
 desc: "Look at writing the code necessary for describing portfolio piece using Microdata and Schema.org."
 
 hide_markbot: true
@@ -14,12 +14,12 @@ steps:
     before: |
       We’re going to write the HTML necessary for marking up a [WebSite](https://schema.org/WebSite) portfolio piece using Schema.org.
     folders:
-      - label: "portfolio-piece-metadata"
+      - label: "portfolio-microdata"
         type: folder
       - label: "index.html"
         indent: 1
     after: |
-      1. Drag the `portfolio-piece-metadata` folder to your code editor
+      1. Drag the `portfolio-microdata` folder to your code editor
       2. Make a new `index.html` file
       3. Populate the `index.html` with the boilerplate code
     notes:
