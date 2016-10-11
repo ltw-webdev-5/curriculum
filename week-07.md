@@ -28,6 +28,7 @@ slides:
 
 tasks:
   - title: "Jekyll Judger"
+    url: "https://activities.learn-the-web.algonquindesign.ca/jekyll-judger/"
     type: activity
   - title: "Robot Parts Co."
     url: robot-parts-co
