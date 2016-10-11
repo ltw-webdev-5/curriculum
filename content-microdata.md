@@ -8,7 +8,6 @@ hide_markbot: true
 extra_tutorials:
   - title: "Metadata & enhanced semantics"
     url: metadata-enhanced-semantics
-    videos: true
 
 steps:
   - title: "Set up the project"
@@ -59,7 +58,7 @@ steps:
     lines:
       - num: 2
         fade: true
-      - num: "15-16"
+      - num: "16-17"
         fade: true
     after: |
       This is an example of a really basic portfolio piece you might see on your website.
@@ -98,7 +97,11 @@ steps:
     lines:
       - num: 2
         fade: true
-      - num: "15-16"
+      - num: 6
+        fade: true
+      - num: 9
+        fade: true
+      - num: "13-17"
         fade: true
       - num: 4
         text: |
@@ -166,6 +169,8 @@ steps:
       </html>
     lines:
       - num: 2
+        fade: true
+      - num: "5-14"
         fade: true
       - num: "26-27"
         fade: true
