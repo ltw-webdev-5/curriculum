@@ -1,28 +1,23 @@
 ---
-topic: "Performance"
-desc: "Dig into making your portfolio website load quickly on all devices and networks."
-clr: "2, 3, 5, 6, 7"
+topic: "Portfolio testing"
+desc: "Browser and peer testing for your portfolio website on lots of different devices and in lots of situations."
+clr: "2, 3, 5, 7"
 
 video_tutorials:
-  - title: "Performance"
-    url: performance
-  - title: "Advanced performance"
-    url: advanced-performance
-    # videos: true
-  - title: "Advanced performance checklist"
-    url: advanced-performance-checklist
+  - title: "Browser testing"
+    url: browser-testing
+  - title: "Browser testing checklist"
+    url: browser-testing-checklist
     highlight: true
 
-slides:
-  - title: "Performance"
-
 tasks:
-  - title: "Liquid Locomotor"
+  - title: "Server Scraper"
     type: activity
-  - title: "Passing WebPageTest"
-    type: lesson
-  - title: "CSS concatenation"
-    type: lesson
-  - title: "Portfolio performance"
+  - type: blank
+  - title: "Browser testing"
+    url: "/courses/web-dev-1/browser-testing/"
+    submit: show
+    pair: true
+  - title: "Portfolio fixes"
     submit: show
 ---

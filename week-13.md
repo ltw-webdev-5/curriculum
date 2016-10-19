@@ -1,23 +1,31 @@
 ---
-topic: "404 pages"
-desc: "Make a fun & personality-appropriate 404 page for your portfolio website."
+topic: "Progressive enhancement & accessibility"
+desc: "Introduction to making Javascript optional and not ruining accessibility by adding Javascript."
 clr: "2, 3, 5, 6, 7"
 
 video_tutorials:
-  - title: "404 pages"
-    url: "404-pages"
+  - title: "Progressive enhancement"
+    url: progressive-enhancement
+    highlight: true
+    # videos: true
+  - title: "Accessibility"
+    url: accessibility
+  - title: "Accessibility checklist"
+    url: accessibility-checklist
+  - title: "Javascript & accessibility"
+    url: javascript-accessibility
 
 slides:
-  - title: "Great 404 pages"
+  - title: "PE & a11y"
 
 tasks:
-  - title: "Enhancement Enactor"
+  - title: "Performance Perfector"
     type: activity
-  - type: blank
-  - title: "404 page"
-    submit: show
+  - title: "Without & with Javascript"
+    type: lesson
+  - title: "ARIA controls"
+    type: lesson
   - title: "Final portfolio website"
-    submit: show
     graded-as: final-portfolio
-  - type: blank
+    submit: online
 ---

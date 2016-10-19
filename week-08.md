@@ -20,4 +20,7 @@ tasks:
     type: lesson
   - title: "Accessibility"
     submit: show
+  - title: "Basic portfolio"
+    submit: online
+    graded-as: basic-portfolio
 ---

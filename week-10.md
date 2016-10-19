@@ -1,23 +1,29 @@
 ---
-topic: "Portfolio testing"
-desc: "Browser and peer testing for your portfolio website on lots of different devices and in lots of situations."
+topic: "Portfolio milestone 2 work period"
+desc: "In class work time to spend on finalizing the basic—Javascript free—version of your portfolio website."
 clr: "2, 3, 5, 7"
 
 video_tutorials:
-  - title: "Browser testing"
-    url: browser-testing
+  - title: "Validators"
+    url: validators
+  - title: "Images cheat sheet"
+    url: images-cheat-sheet
+  - title: "SVG cheat sheet"
+    url: svg-cheat-sheet
   - title: "Browser testing checklist"
     url: browser-testing-checklist
-    highlight: true
+  - title: "Accessibility checklist"
+    url: accessibility-checklist
+  - title: "Performance checklist"
+    url: performance-checklist
 
 tasks:
-  - title: "Server Scraper"
+  - title: "Video Venturer"
     type: activity
   - type: blank
-  - title: "Browser testing"
-    url: "/courses/web-dev-1/browser-testing/"
+  - title: "Basic portfolio check-in"
     submit: show
-    pair: true
-  - title: "Portfolio fixes"
-    submit: show
+  - title: "Basic portfolio"
+    submit: online
+    graded-as: basic-portfolio
 ---
