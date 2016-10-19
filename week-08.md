@@ -6,7 +6,7 @@ clr: "5, 7"
 video_tutorials:
   - title: "Video & audio"
     url: video-audio
-    videos: true
+    # videos: true
 
 slides:
   - title: "Video"

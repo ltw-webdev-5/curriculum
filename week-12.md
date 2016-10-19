@@ -7,7 +7,7 @@ video_tutorials:
   - title: "Progressive enhancement"
     url: progressive-enhancement
     highlight: true
-    videos: true
+    # videos: true
   - title: "Accessibility"
     url: accessibility
   - title: "Accessibility checklist"
