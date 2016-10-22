@@ -11,7 +11,9 @@ tasks:
   - type: blank
   - type: blank
   - type: blank
-  - title: "Basic portfolio"
+  - title: "Portfolio design & content"
+    url: "https://github.com/acgd-webdev-5/portfolio-design-and-content"
     submit: online
-    graded-as: basic-portfolio
+    graded-as: portfolio-design-and-content
+
 ---

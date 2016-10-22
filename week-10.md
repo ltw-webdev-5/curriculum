@@ -21,9 +21,11 @@ tasks:
   - title: "Video Venturer"
     type: activity
   - type: blank
-  - title: "Basic portfolio check-in"
+  - title: "Portfolio check-in"
     submit: show
-  - title: "Basic portfolio"
+  - title: "Portfolio design & content"
+    url: "https://github.com/acgd-webdev-5/portfolio-design-and-content"
     submit: online
-    graded-as: basic-portfolio
+    graded-as: portfolio-design-and-content
+
 ---

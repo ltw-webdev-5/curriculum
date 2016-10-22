@@ -16,6 +16,7 @@ slides:
 
 tasks:
   - title: "Search Seer"
+    url: "https://activities.learn-the-web.algonquindesign.ca/search-seer/"
     type: activity
   - title: "Video background"
     url: video-background
@@ -23,9 +24,8 @@ tasks:
   - title: "Video controls"
     url: video-controls
     type: lesson
-  - title: "Accessibility"
-    submit: show
-  - title: "Basic portfolio"
+  - title: "Portfolio design & content"
+    url: "https://github.com/acgd-webdev-5/portfolio-design-and-content"
     submit: online
-    graded-as: basic-portfolio
+    graded-as: portfolio-design-and-content
 ---
