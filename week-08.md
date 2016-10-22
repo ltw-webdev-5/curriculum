@@ -21,6 +21,7 @@ tasks:
     url: video-background
     type: lesson
   - title: "Video controls"
+    url: video-controls
     type: lesson
   - title: "Accessibility"
     submit: show
