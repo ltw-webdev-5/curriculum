@@ -32,6 +32,7 @@ tasks:
     submit: show
     pair: true
   - title: "Request for grade"
+    url: "https://github.com/acgd-webdev-5/request-for-grade"
     type: basic
     graded-as: false
   - title: "Final portfolio website"
