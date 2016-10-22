@@ -7,6 +7,8 @@ video_tutorials:
   - title: "Video & audio"
     url: video-audio
     # videos: true
+  - title: "Accessibility checklist"
+    url: accessibility-checklist
 
 slides:
   - title: "Video"
@@ -15,9 +17,10 @@ slides:
 tasks:
   - title: "Search Seer"
     type: activity
-  - title: "Video embed"
+  - title: "Video background"
+    url: video-background
     type: lesson
-  - title: "Video + Javascript"
+  - title: "Video controls"
     type: lesson
   - title: "Accessibility"
     submit: show
