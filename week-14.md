@@ -15,6 +15,7 @@ tasks:
     type: activity
   - type: blank
   - title: "404 page"
+    url: "https://github.com/acgd-webdev-5/404-page"
     submit: show
   - title: "Final portfolio website"
     submit: show
