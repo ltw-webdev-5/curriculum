@@ -10,6 +10,7 @@ video_tutorials:
 
 slides:
   - title: "Video"
+    url: video
 
 tasks:
   - title: "Search Seer"
