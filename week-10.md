@@ -19,6 +19,7 @@ video_tutorials:
 
 tasks:
   - title: "Video Venturer"
+    url: "https://activities.learn-the-web.algonquindesign.ca/video-venturer/"
     type: activity
   - type: blank
   - title: "Portfolio check-in"
