@@ -11,7 +11,8 @@ video_tutorials:
     highlight: true
 
 tasks:
-  - title: "Server Scraper"
+  - title: "Alignment Actuator"
+    url: "https://activities.learn-the-web.algonquindesign.ca/alignment-actuator/"
     type: activity
   - type: blank
   - title: "Browser testing"
