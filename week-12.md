@@ -12,6 +12,8 @@ video_tutorials:
   - title: "Advanced performance checklist"
     url: advanced-performance-checklist
     highlight: true
+  - title: "Jekyll: many CSS files"
+    url: "https://www.youtube.com/watch?v=H4Fc2xL79nU&list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-&index=30"
 
 slides:
   - title: "Advanced performance"
@@ -24,6 +26,7 @@ tasks:
     submit: "Submit nothing."
     type: lesson
   - title: "CSS concatenation"
+    url: css-concatenation
     type: lesson
   - title: "Portfolio performance"
     submit: show
