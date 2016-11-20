@@ -21,6 +21,7 @@ slides:
 
 tasks:
   - title: "Liquid Locomotor"
+    url: "https://activities.learn-the-web.algonquindesign.ca/liquid-locomotor/"
     type: activity
   - title: "Performance, CloudFlare & web fonts"
     url: performance-cloudflare-web-fonts
@@ -30,5 +31,6 @@ tasks:
     url: css-concatenation
     type: lesson
   - title: "Portfolio performance"
+    url: "https://github.com/acgd-webdev-5/portfolio-performance"
     submit: show
 ---
