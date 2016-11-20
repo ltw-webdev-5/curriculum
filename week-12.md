@@ -14,12 +14,14 @@ video_tutorials:
     highlight: true
 
 slides:
-  - title: "Performance"
+  - title: "Advanced performance"
 
 tasks:
   - title: "Liquid Locomotor"
     type: activity
-  - title: "Passing WebPageTest"
+  - title: "Performance, CloudFlare & web fonts"
+    url: performance-cloudflare-web-fonts
+    submit: "Submit nothing."
     type: lesson
   - title: "CSS concatenation"
     type: lesson
