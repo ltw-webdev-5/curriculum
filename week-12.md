@@ -17,6 +17,7 @@ video_tutorials:
 
 slides:
   - title: "Advanced performance"
+    url: advanced-performance
 
 tasks:
   - title: "Liquid Locomotor"
