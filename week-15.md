@@ -16,11 +16,6 @@ video_tutorials:
 slides:
   - title: "Preview next term"
 
-group_activities:
-  - title: "Course feedback"
-    url: https://www.algonquincollege.com/studentfeedback/
-    type: star
-
 tasks:
   - title: "Security Sniper"
     type: activity

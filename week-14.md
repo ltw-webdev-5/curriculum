@@ -10,6 +10,11 @@ video_tutorials:
 slides:
   - title: "Great 404 pages"
 
+group_activities:
+  - title: "Course feedback"
+    url: https://www.algonquincollege.com/studentfeedback/
+    type: star
+
 tasks:
   - title: "Enhancement Enactor"
     type: activity
