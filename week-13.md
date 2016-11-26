@@ -22,10 +22,10 @@ slides:
 tasks:
   - title: "Performance Perfector"
     type: activity
-  - title: "Without & with Javascript"
+  - title: "Lazy-loading images"
+    url: lazy-loading-images
     type: lesson
-  - title: "ARIA controls"
-    type: lesson
+  - type: blank
   - title: "Final portfolio website"
     graded-as: final-portfolio
     submit: online
