@@ -28,9 +28,12 @@ tasks:
     pair: true
   - title: "Request for grade"
     url: "https://github.com/acgd-webdev-5/request-for-grade"
+    due: "Midnight, last day of term"
     type: basic
     graded-as: false
   - title: "Final portfolio website"
+    url: "https://github.com/acgd-webdev-5/final-portfolio-website"
+    due: "Midnight, last day of term"
     graded-as: final-portfolio
     submit: online
 ---
