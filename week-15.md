@@ -19,8 +19,6 @@ slides:
 tasks:
   - title: "Security Sniper"
     type: activity
-  # - title: "HTTP Hoodwinker"
-    # type: activity
   - type: blank
   - title: "Browser testing"
     url: "/courses/web-dev-1/browser-testing/"

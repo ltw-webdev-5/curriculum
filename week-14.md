@@ -16,7 +16,7 @@ group_activities:
     type: star
 
 tasks:
-  - title: "Enhancement Enactor"
+  - title: "HTTP Hoodwinker"
     type: activity
   - type: blank
   - title: "404 page"
