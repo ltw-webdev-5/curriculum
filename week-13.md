@@ -17,6 +17,7 @@ video_tutorials:
 
 slides:
   - title: "PE & a11y"
+    url: pe-a11y
 
 tasks:
   - title: "Performance Perfector"
