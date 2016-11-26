@@ -21,6 +21,7 @@ slides:
 
 tasks:
   - title: "Performance Perfector"
+    url: "https://activities.learn-the-web.algonquindesign.ca/performance-perfector/"
     type: activity
   - title: "Lazy-loading images"
     url: lazy-loading-images
