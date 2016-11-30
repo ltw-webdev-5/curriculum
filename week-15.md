@@ -15,6 +15,7 @@ video_tutorials:
 
 slides:
   - title: "Preview next term"
+    url: preview-next-term
 
 tasks:
   - title: "Security Sniper"
