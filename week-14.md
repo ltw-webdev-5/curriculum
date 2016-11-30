@@ -9,6 +9,7 @@ video_tutorials:
 
 slides:
   - title: "Great 404 pages"
+    url: great-404-pages
 
 group_activities:
   - title: "Course feedback"
@@ -27,5 +28,4 @@ tasks:
     due: "Midnight, last day of term"
     submit: online
     graded-as: final-portfolio
-  - type: blank
 ---
