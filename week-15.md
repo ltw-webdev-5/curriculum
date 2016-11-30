@@ -19,6 +19,7 @@ slides:
 
 tasks:
   - title: "Security Sniper"
+    url: "https://activities.learn-the-web.algonquindesign.ca/security-sniper/"
     type: activity
   - type: blank
   - title: "Browser testing"

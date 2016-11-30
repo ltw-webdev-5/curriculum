@@ -18,6 +18,7 @@ group_activities:
 
 tasks:
   - title: "HTTP Hoodwinker"
+    url: "https://activities.learn-the-web.algonquindesign.ca/http-hoodwinker/"
     type: activity
   - type: blank
   - title: "404 page"
