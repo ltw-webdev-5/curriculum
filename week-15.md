@@ -13,10 +13,6 @@ video_tutorials:
     url: launch-checklist-web-dev-5
     highlight: true
 
-slides:
-  - title: "Preview next term"
-    url: preview-next-term
-
 tasks:
   - title: "Security Sniper"
     url: "https://activities.learn-the-web.algonquindesign.ca/security-sniper/"
