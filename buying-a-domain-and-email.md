@@ -70,7 +70,7 @@ steps:
 
   - title: "Buying email"
     before: |
-      It’s best to buy email from a service provider so you can get an email address for your custom domain. I often buy my e-mail services from FastMail because they are independent and have great customer service.
+      It’s best to buy email from a service provider so you can get an email address for your custom domain. I often buy my e-mail services from [FastMail](https://www.fastmail.com/?STKI=12009945)† because they are independent and have great customer service.
 
       There are two different ways to get a custom email address:
 
@@ -83,7 +83,9 @@ steps:
 
   - title: "Setting up FastMail"
     before: |
-      Go to [**FastMail**](https://www.fastmail.com/signup/) and sign up for an account—you’ll need to pick the **Standard** account to be able to use your custom domain.
+      Go to [**FastMail**](https://www.fastmail.com/?STKI=12009945)† and sign up for an account—you’ll need to pick the **Standard** account to be able to use your custom domain.
+
+      *The FastMail link is a referral link, from me, that will get you 10% off your first year.*
 
       ![](fastmail-package.jpg)
 
