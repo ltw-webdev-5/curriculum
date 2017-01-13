@@ -118,9 +118,13 @@ steps:
 
       ![](virtualbox.jpg)
 
-  - title: "Update ImageOptim"
+  - title: "Update image minifiers"
     before: |
-      We always want to compress our images as small as possible—so let’s update ImageOptim to get the best smushing abilities.
+      We always want to compress our images as small as possible—so let’s update ImageOptim & Spritebot to get the best smushing abilities.
+
+      ### Update ImageOptim
+
+      - [*If you don’t have ImageOptim—download it here*](https://imageoptim.com/mac)
 
       ```
       ImageOptim > Check for Updates…
@@ -131,5 +135,16 @@ steps:
       Make sure you have the most recent version of ImageOptim or install the new one.
 
       ![](imageoptim.jpg)
+
+      ---
+
+      ### Update Spritebot
+
+      For Spritebot you’ll have to update it manually—it currently doesn’t have auto-updating capabilities.
+
+      [**For Spritebot go download a new version from the website.**](https://github.com/thomasjbradley/spritebot)
+
+      ![](spritebot.jpg)
+
 
 ---
