@@ -7,7 +7,6 @@ video_tutorials:
   - title: "Progressive enhancement"
     url: progressive-enhancement
     highlight: true
-    # videos: true
   - title: "Accessibility"
     url: accessibility
   - title: "Accessibility checklist"
@@ -26,7 +25,8 @@ tasks:
   - title: "Lazy-loading images"
     url: lazy-loading-images
     type: lesson
-  - type: blank
+  - title: "Accessibility testing"
+    type: activity
   - title: "Final portfolio website"
     url: "https://github.com/acgd-webdev-5/final-portfolio-website"
     due: "Midnight, last day of term"

@@ -28,4 +28,5 @@ tasks:
     url: https://github.com/acgd-webdev-5/interactive-wireframes
     due: "Start of class, week 6"
     submit: online
+  - type: watch-videos
 ---

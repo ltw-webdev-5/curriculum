@@ -15,4 +15,5 @@ tasks:
     type: basic
     submit: show
     button: activity
+  - type: blank
 ---

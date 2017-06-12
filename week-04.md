@@ -12,10 +12,8 @@ video_tutorials:
     highlight: true
   - title: "Markdown"
     url: markdown
-    videos: true
   - title: "YAML"
     url: yaml
-    videos: true
   - title: "Markdown & YAML cheat sheet"
     url: markdown-yaml-cheat-sheet
     highlight: true

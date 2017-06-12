@@ -32,4 +32,5 @@ tasks:
     submit: show
     type: basic
     button: activity
+  - type: watch-videos
 ---

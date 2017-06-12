@@ -39,4 +39,5 @@ tasks:
   - title: "SEO & microdata"
     url: "https://github.com/acgd-webdev-5/seo-microdata"
     submit: show
+  - type: watch-videos
 ---

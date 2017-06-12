@@ -8,7 +8,7 @@ video_tutorials:
     url: performance
   - title: "Advanced performance"
     url: advanced-performance
-    # videos: true
+    videos: true
   - title: "Advanced performance checklist"
     url: advanced-performance-checklist
     highlight: true

@@ -35,4 +35,5 @@ tasks:
   - title: "Coming soon page"
     url: https://github.com/acgd-webdev-5/coming-soon-page
     submit: show
+  - type: watch-videos
 ---

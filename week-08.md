@@ -6,7 +6,7 @@ clr: "5, 7"
 video_tutorials:
   - title: "Video & audio"
     url: video-audio
-    # videos: true
+    videos: true
   - title: "Accessibility checklist"
     url: accessibility-checklist
 
@@ -21,9 +21,7 @@ tasks:
   - title: "Video background"
     url: video-background
     type: lesson
-  - title: "Video controls"
-    url: video-controls
-    type: lesson
+  - type: blank
   - title: "Portfolio design & content"
     url: "https://github.com/acgd-webdev-5/portfolio-design-and-content"
     due: "Start of class, week 11"

@@ -7,7 +7,7 @@ video_tutorials:
   - title: "Jekyll"
     url: jekyll
     videos: true
-    video_percent: 50
+    notes: "Only watch until the video on “includes”"
   - title: "Jekyll installation"
     url: jekyll-installation
   - title: "Jekyll terminal guide"
@@ -35,4 +35,5 @@ tasks:
   - title: "Jekyll portfolio"
     url: "https://github.com/acgd-webdev-5/jekyll-portfolio"
     submit: show
+  - type: watch-videos
 ---
