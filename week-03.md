@@ -14,9 +14,7 @@ slides:
     url: domains-dns
 
 tasks:
-  - title: "License Liberator"
-    url: https://activities.learn-the-web.algonquindesign.ca/license-liberator/
-    type: activity
+  - type: blank
   - title: "Buying a domain & email"
     url: buying-a-domain-and-email
     submit: show

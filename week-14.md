@@ -26,7 +26,7 @@ tasks:
     submit: show
   - title: "Final portfolio website"
     url: "https://github.com/acgd-webdev-5/final-portfolio-website"
-    due: "Midnight, last day of term"
+    due: "Midnight, last day of class"
     submit: online
     graded-as: final-portfolio
 ---

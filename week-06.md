@@ -21,9 +21,7 @@ slides:
     url: jekyll-web-master-pages
 
 tasks:
-  - title: "YAML Yodeller"
-    url: "https://activities.learn-the-web.algonquindesign.ca/yaml-yodeller/"
-    type: activity
+  - type: blank
   - title: "Install Jekyll"
     url: install-jekyll
     type: basic

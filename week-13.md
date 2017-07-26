@@ -26,10 +26,9 @@ tasks:
     url: lazy-loading-images
     type: lesson
   - title: "Accessibility testing"
-    type: activity
   - title: "Final portfolio website"
     url: "https://github.com/acgd-webdev-5/final-portfolio-website"
-    due: "Midnight, last day of term"
+    due: "Midnight, last day of class"
     graded-as: final-portfolio
     submit: online
 ---
