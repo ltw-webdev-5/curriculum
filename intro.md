@@ -9,10 +9,10 @@ slides:
       **Web Dev 5**
 
   - content: |
-      ## Eric Adamski
-      *Bath bomb enthusiast*
+      ## Thomas J Bradley
+      *Super nerd*
 
-      [adamske@algonquincollege.com](mailto:adamske@algonquincollege.com)
+      [bradlet@algonquincollege.com](mailto:bradlet@algonquincollege.com)
 
   - content: |
       ## What we’re learning
@@ -29,10 +29,6 @@ slides:
       - Do all the work
       - Put in the effort
       - Watch the videos before class
-
-  - content: |
-      ## Office hours
-      *By appointment only.*
 
   - content: |
       ## Marking scheme

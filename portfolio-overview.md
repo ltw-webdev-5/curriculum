@@ -11,7 +11,7 @@ slides:
   - content: |
       ## The goal of this term is to make your portfolio website.
 
-      Every assignment & exercise supports that goal.
+      Every assignment & exercise supports that goal
 
   - content: |
       ## Multiple milestones
@@ -22,22 +22,22 @@ slides:
       4. Basic, Javascript-free, version — *Weeks 6–10*
       5. Final version — *End of term*
 
-      *With lots of small filler pieces in between.*
+      *With lots of small filler pieces in between*
 
   - content: |
       ## Every week will add…
 
-      - Each week will add onto what was completed before.
-      - Some weeks will provide in class Q&A and work time.
+      - Each week will add onto what was completed before
+      - Some weeks will provide in class Q&A and work time
       - Some weeks will add new features like SEO, accessibility, video, etc.
-      - Some weeks will concentrate on testing.
+      - Some weeks will concentrate on testing
 
-      *Everything is your portfolio.*
+      *Everything is your portfolio*
 
   - content: |
       ## Always be working
 
-      *Every week you should be working on your portfolio—period.*
+      *Every week you should be working on your portfolio—period*
 
   - content: |
       ## Start now!
@@ -47,7 +47,7 @@ slides:
       - your brand—fun? personal? corporate?
       - what pieces to include?
       - one page? many pages?
-      - how many pieces (~7–10)?
+      - how many pieces (~5–10)?
       - everything!
 
 ---
