@@ -17,6 +17,7 @@ video_tutorials:
 slides:
   - title: "PE & a11y"
     url: pe-a11y
+    disabled: true
 
 tasks:
   - title: "Performance Perfector"
@@ -25,10 +26,12 @@ tasks:
   - title: "Lazy-loading images"
     url: lazy-loading-images
     type: lesson
+    disabled: true
   - title: "Accessibility testing"
   - title: "Final portfolio website"
     url: "https://github.com/acgd-webdev-5/final-portfolio-website"
     due: "Midnight, last day of class"
     graded-as: final-portfolio
     submit: online
+    disabled: true
 ---

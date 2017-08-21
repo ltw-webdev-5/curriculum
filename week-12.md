@@ -18,6 +18,7 @@ video_tutorials:
 slides:
   - title: "Advanced performance"
     url: advanced-performance
+    disabled: true
 
 tasks:
   - title: "Liquid Locomotor"
@@ -27,10 +28,13 @@ tasks:
     url: performance-cloudflare-web-fonts
     submit: "Submit nothing."
     type: lesson
+    disabled: true
   - title: "CSS concatenation"
     url: css-concatenation
     type: lesson
+    disabled: true
   - title: "Portfolio performance"
     url: "https://github.com/acgd-webdev-5/portfolio-performance"
     submit: show
+    disabled: true
 ---

@@ -16,5 +16,6 @@ tasks:
     due: "Start of class, week 11"
     submit: online
     graded-as: portfolio-design-and-content
+    disabled: true
 
 ---

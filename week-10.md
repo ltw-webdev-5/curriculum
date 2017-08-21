@@ -25,10 +25,12 @@ tasks:
   - title: "Portfolio check-in"
     url: "https://github.com/acgd-webdev-5/portfolio-check-in"
     submit: show
+    disabled: true
   - title: "Portfolio design & content"
     url: "https://github.com/acgd-webdev-5/portfolio-design-and-content"
     due: "Start of class, week 11"
     submit: online
     graded-as: portfolio-design-and-content
+    disabled: true
 
 ---

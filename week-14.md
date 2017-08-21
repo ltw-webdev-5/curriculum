@@ -10,6 +10,7 @@ video_tutorials:
 slides:
   - title: "Great 404 pages"
     url: great-404-pages
+    disabled: true
 
 group_activities:
   - title: "Course feedback"
@@ -24,9 +25,11 @@ tasks:
   - title: "404 page"
     url: "https://github.com/acgd-webdev-5/404-page"
     submit: show
+    disabled: true
   - title: "Final portfolio website"
     url: "https://github.com/acgd-webdev-5/final-portfolio-website"
     due: "Midnight, last day of class"
     submit: online
     graded-as: final-portfolio
+    disabled: true
 ---

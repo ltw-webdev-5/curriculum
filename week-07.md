@@ -25,6 +25,7 @@ video_tutorials:
 slides:
   - title: "SEO & metadata"
     url: seo-metadata
+    disabled: true
 
 tasks:
   - title: "Jekyll Judger"
@@ -33,11 +34,14 @@ tasks:
   - title: "Robot Parts Co."
     url: robot-parts-co
     type: lesson
+    disabled: true
   - title: "Portfolio microdata"
     url: portfolio-microdata
     type: lesson
+    disabled: true
   - title: "SEO & microdata"
     url: "https://github.com/acgd-webdev-5/seo-microdata"
     submit: show
+    disabled: true
   - type: watch-videos
 ---

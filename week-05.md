@@ -19,6 +19,7 @@ tasks:
   - title: "Interactive wireframe check-in"
     url: https://github.com/acgd-webdev-5/interactive-wireframe-check-in
     submit: show
+    disabled: true
   - title: "Interactive wireframes"
     url: https://github.com/acgd-webdev-5/interactive-wireframes
     submit: show
@@ -26,5 +27,6 @@ tasks:
     url: https://github.com/acgd-webdev-5/interactive-wireframes
     due: "Start of class, week 6"
     submit: online
+    disabled: true
   - type: watch-videos
 ---

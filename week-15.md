@@ -27,9 +27,11 @@ tasks:
     due: "Midnight, last day of class"
     type: basic
     graded-as: false
+    disabled: true
   - title: "Final portfolio website"
     url: "https://github.com/acgd-webdev-5/final-portfolio-website"
     due: "Midnight, last day of class"
     graded-as: final-portfolio
     submit: online
+    disabled: true
 ---
