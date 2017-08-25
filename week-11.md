@@ -9,6 +9,8 @@ video_tutorials:
   - title: "Browser testing checklist"
     url: browser-testing-checklist
     highlight: true
+  - title: "Jekyll cheat sheet"
+    url: jekyll-cheat-sheet
 
 tasks:
   - title: "Alignment Actuator"
@@ -19,6 +21,8 @@ tasks:
     url: "/courses/web-dev-1/browser-testing/"
     submit: "Submit nothing."
     pair: true
+    button: activity
+    type: basic
   - title: "Portfolio fixes"
     url: "https://github.com/acgd-webdev-5/portfolio-fixes"
     submit: show

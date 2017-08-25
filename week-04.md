@@ -19,8 +19,8 @@ video_tutorials:
     highlight: true
   - title: "Writing a readme"
     url: writing-a-readme
-
-slides:
+  - title: "Domains & DNS"
+    url: domains
 
 group_activities:
   - title: "The web of text"

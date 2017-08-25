@@ -7,8 +7,8 @@ video_tutorials:
   - title: "Video & audio"
     url: video-audio
     videos: true
-  - title: "Accessibility checklist"
-    url: accessibility-checklist
+  - title: "SEO checklist"
+    url: seo-checklist
 
 slides:
   - title: "Video"

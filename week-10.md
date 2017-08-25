@@ -16,6 +16,8 @@ video_tutorials:
     url: accessibility-checklist
   - title: "Performance checklist"
     url: performance-checklist
+  - title: "Jekyll cheat sheet"
+    url: jekyll-cheat-sheet
 
 tasks:
   - title: "Video Venturer"
@@ -24,7 +26,8 @@ tasks:
   - type: blank
   - title: "Portfolio check-in"
     url: "https://github.com/acgd-webdev-5/portfolio-check-in"
-    submit: show
+    button: activity
+    type: basic
     disabled: true
   - title: "Portfolio design & content"
     url: "https://github.com/acgd-webdev-5/portfolio-design-and-content"

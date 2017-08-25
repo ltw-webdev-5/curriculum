@@ -4,16 +4,18 @@ desc: "An overview of your portfolio website process & starting a coming soon pa
 clr: "7"
 
 video_tutorials:
-  - title: "Everything from Set up"
-    url: "#setup"
-  - title: "Everything from Web Dev 1"
-    url: "#web-dev-1"
-  - title: "Everything from Web Dev 2"
-    url: "#web-dev-2"
-  - title: "Everything from Web Dev 3"
-    url: "#web-dev-3"
-  - title: "Everything from Web Dev 4"
-    url: "#web-dev-4"
+  - title: "HTML semantics cheat sheet"
+    url: html-semantics-cheat-sheet
+  - title: "CSS selectors & units cheat sheet"
+    url: css-selectors-units-cheat-sheet
+  - title: "Screen sizes cheat sheet"
+    url: screen-sizes-cheat-sheet
+  - title: "Gridifier cheat sheet"
+    url: gridifier-cheat-sheet
+  - title: "Typografier cheat sheet"
+    url: typografier-cheat-sheet
+  - title: "Modulifier cheat sheet"
+    url: modulifier-cheat-sheet
 
 slides:
   - title: "Portfolio overview"

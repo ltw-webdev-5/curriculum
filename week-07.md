@@ -21,6 +21,8 @@ video_tutorials:
     url: "https://www.youtube.com/watch?v=FUL9SSgMZ8Y&list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-&index=32"
   - title: "Jekyll: automatic sitemap.xml"
     url: "https://www.youtube.com/watch?v=C49lhiX_JO0&list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-&index=33"
+  - title: "Jekyll cheat sheet"
+    url: jekyll-cheat-sheet
 
 slides:
   - title: "SEO & metadata"
