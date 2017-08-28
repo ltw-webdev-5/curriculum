@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Portfolio overview"
+desc: "Explain the process of creating your portfolio throughout the term, expectations, and requirements."
 
 slides:
   - type: super-big-text

@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Domains & DNS"
+desc: "A quick overview of how the Web works, how the DNS works, and how our computers access and download websites."
 
 slides:
   - type: super-big-text
