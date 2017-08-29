@@ -1,34 +1,16 @@
 ---
-topic: "Portfolio milestone 2 work period"
-desc: "In class work time to spend on finalizing the basic—Javascript free—version of your portfolio website."
+topic: "Reading week—no classes"
+during_class: "No class"
+desc: "No classes, labs or new homework this week—get caught up!"
 clr: "2, 3, 5, 7"
 
-video_tutorials:
-  - title: "Validators"
-    url: validators
-  - title: "Images cheat sheet"
-    url: images-cheat-sheet
-  - title: "SVG cheat sheet"
-    url: svg-cheat-sheet
-  - title: "Browser testing checklist"
-    url: browser-testing-checklist
-  - title: "Accessibility checklist"
-    url: accessibility-checklist
-  - title: "Performance checklist"
-    url: performance-checklist
-  - title: "Jekyll cheat sheet"
-    url: jekyll-cheat-sheet
+no_lab_times: true
+no_office_hours: true
 
 tasks:
-  - title: "Video Venturer"
-    url: "https://activities.learn-the-web.algonquindesign.ca/video-venturer/"
-    type: activity
   - type: blank
-  - title: "Portfolio check-in"
-    url: "https://github.com/acgd-webdev-5/portfolio-check-in"
-    button: activity
-    type: basic
-    disabled: true
+  - type: blank
+  - type: blank
   - title: "Portfolio design & content"
     url: "https://github.com/acgd-webdev-5/portfolio-design-and-content"
     due: "Start of class, week 11"
