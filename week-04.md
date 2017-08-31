@@ -50,5 +50,6 @@ tasks:
     submit: online
     graded-as: interactive-wireframes
     due: "Start of class, week 6"
+    due_week: 6
     disabled: true
 ---

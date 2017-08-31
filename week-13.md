@@ -41,8 +41,10 @@ tasks:
     type: basic
   - title: "Final portfolio website"
     url: "https://github.com/acgd-webdev-5/final-portfolio-website"
-    due: "Midnight, last day of class"
     graded-as: final-portfolio
+    due: "Midnight, last day of class"
+    due_week: 15
+    due_time: "23:59"
     submit: online
     disabled: true
 ---
