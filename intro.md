@@ -13,7 +13,7 @@ slides:
       ## Thomas J Bradley
       *Super nerd*
 
-      [bradlet@algonquincollege.com](mailto:bradlet@algonquincollege.com)
+      [thomas.bradley@algonquincollege.com](mailto:thomas.bradley@algonquincollege.com)
 
   - content: |
       ## What we’re learning
