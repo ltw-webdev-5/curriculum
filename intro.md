@@ -11,6 +11,7 @@ slides:
 
   - content: |
       ## Thomas J Bradley
+
       *Super nerd*
 
       [thomas.bradley@algonquincollege.com](mailto:thomas.bradley@algonquincollege.com)
