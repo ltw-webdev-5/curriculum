@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Writing with personality"
+desc: "An exercising in writing for the web with personality to help understand communicating messages with words."
 
 slides:
   - type: super-big-text

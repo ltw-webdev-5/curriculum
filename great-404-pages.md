@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Great 404 pages"
+desc: "An overview of what makes a great 404 page and some amazing examples."
 
 slides:
   - type: super-big-text

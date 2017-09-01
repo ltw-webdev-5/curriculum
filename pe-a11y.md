@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "PE & a11y"
+desc: "A quick introduction to progressive enhancement with Javascript and applications and how to detect browser features."
 
 slides:
   - type: super-big-text

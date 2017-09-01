@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "SEO & metadata"
+desc: "A quick overview of important SEO concerns for a website, important tags, and important data."
 
 slides:
   - type: super-big-text

@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Video"
+desc: "A quick introduction to using video on the web, how to export it, and where to upload it."
 
 slides:
   - type: super-big-text

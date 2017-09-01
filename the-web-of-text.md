@@ -1,7 +1,9 @@
 ---
 layout: slide-deck
-
 title: "The web of text"
+desc: "A group activity to help understand challenges and solutions for writing on the Open Web."
+
+group_work: true
 
 slides:
   - type: super-big-text

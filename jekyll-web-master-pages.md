@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Jekyll: web master pages"
+desc: "A small intro to Jekyll, it’s purpose as a template engine, and how the system works."
 
 slides:
   - type: super-big-text

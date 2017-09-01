@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Advanced performance"
+desc: "Some more complex performance metrics that should be taken into account when creating websites with lots of assets."
 
 slides:
   - type: super-big-text
