@@ -24,6 +24,7 @@ tasks:
     url: https://github.com/acgd-webdev-5/interactive-wireframe-check-in
     button: activity
     type: basic
+    submit: show
     disabled: true
   - title: "Interactive wireframes"
     url: https://github.com/acgd-webdev-5/interactive-wireframes

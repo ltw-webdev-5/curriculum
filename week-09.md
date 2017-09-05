@@ -28,6 +28,7 @@ tasks:
     url: "https://github.com/acgd-webdev-5/portfolio-check-in"
     button: activity
     type: basic
+    submit: show
     disabled: true
   - title: "Portfolio design & content"
     url: "https://github.com/acgd-webdev-5/portfolio-design-and-content"
