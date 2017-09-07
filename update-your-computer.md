@@ -146,5 +146,23 @@ steps:
 
       ![](spritebot.jpg)
 
+  - title: "Final checklist"
+    before: |
+      Double check you’ve updated everything on your computer.
+
+      *Here’s a checklist to help out:*
+    tasks:
+      - "MacOS"
+      - "AppStore apps"
+      - "Atom"
+      - "Atom packages"
+      - "GitHub Desktop"
+      - "Google Chrome"
+      - "Firefox"
+      - "Opera"
+      - "Adobe Creative Cloud apps"
+      - "VirtualBox"
+      - "ImageOptim"
+      - "Spritebot"
 
 ---
