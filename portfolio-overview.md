@@ -35,6 +35,51 @@ slides:
       *Everything is your portfolio*
 
   - content: |
+      ## Make it personal
+
+      - This is your **personal** website—you are not a company
+      - Nobody wants to hire a competing company for placement
+
+  - content: |
+      ## Have a goal
+
+      - You want to show off what *you* are capable of
+      - The more focused your pieces the better
+      - Remain honest: if you’re not interest in motion work, don’t show motion pieces
+
+      *Even think about your dream job/company and target them directly!*
+
+  - content: |
+      ## Don’t overextend your code skills
+
+      If you’re not confident with code, keep your site simple
+
+      With very little code you can make an amazing sit
+
+  - content: |
+      ## Fewer & better
+
+      - 5–10 of your absolute best work
+      - Even just 3 absolutely stunning case studies
+
+  - content: |
+      ## Case studies are best
+
+      The absolute best portfolio websites include case studies for every showcased work. **Case studies are what employers are looking for.**
+
+  - content: |
+      ## Employers want to see:
+
+      - the purpose & goal of the project
+      - your different ideas *& sketches*
+      - your process *& sketches*
+      - the steps you took to get to the final version (*& sketches*)
+      - feedback and thoughts for the different stages
+      - and maybe the final version—but it’s less important
+
+      (As a by-product, you also can prove that you are capable of writing—an extremely important trait for a designer.)
+
+  - content: |
       ## Always be working
 
       *Every week you should be working on your portfolio—period*
