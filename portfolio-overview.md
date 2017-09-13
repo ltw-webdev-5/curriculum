@@ -54,7 +54,7 @@ slides:
 
       If you’re not confident with code, keep your site simple
 
-      With very little code you can make an amazing sit
+      With very little code you can make an amazing site
 
   - content: |
       ## Fewer & better
