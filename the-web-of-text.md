@@ -32,4 +32,7 @@ slides:
 
       *Come up with a list of things and we’ll discuss together.*
 
+  - type: timer
+    minutes: 5
+
 ---

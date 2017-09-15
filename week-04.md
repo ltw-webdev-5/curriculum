@@ -27,11 +27,9 @@ group_activities:
     url: the-web-of-text
     type: pencil
     pair: true
-    disabled: true
   - title: "Writing with personality"
     url: writing-with-personality
     type: pencil
-    disabled: true
 
 tasks:
   - title: "Domain Destroyer"
@@ -40,16 +38,13 @@ tasks:
   - title: "Writing a Readme"
     url: writing-a-readme
     type: lesson
-    disabled: true
   - title: "Paper wireframes"
     url: https://github.com/acgd-webdev-5/paper-wireframes
     type: paper
-    disabled: true
   - title: "Interactive wireframes"
     url: https://github.com/acgd-webdev-5/interactive-wireframes
     submit: online
     graded-as: interactive-wireframes
     due: "Start of class, week 6"
     due_week: 6
-    disabled: true
 ---

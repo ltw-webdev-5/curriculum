@@ -39,9 +39,9 @@ steps:
 
       ![](gh-pages.jpg)
 
-      1. Do the whole `gh-pages` rigmarole,
-        <br>*or*
-      2. Go to the “Settings” for your `portfolio` repo, scroll down to “GitHub Pages” and select “master branch”—then press “Save”.
+      1. Go to the “Settings” for your `portfolio` repo
+      2. Scroll down to “GitHub Pages” and select “master branch”
+      3. Then press “Save”
 
   - title: "Writing your “Why”"
     before: |
@@ -98,9 +98,11 @@ steps:
 
       **Write your “why” before moving onto the rest of this lesson.** Your “why” should guide every decision you make about your portfolio website.
 
+      *Please call me over and we can read through it and discuss what you’re trying to communicate.*
+
   - title: "Edit the readme"
     before: |
-      We’re going to use Markdown to write a simple readme to store in your repository.
+      We’re going to use [Markdown](/topics/markdown-yaml-cheat-sheet/) to write a simple readme to store in your repository.
 
       The readme should contain this information:
 
@@ -132,13 +134,13 @@ steps:
 
       ---
 
-      © 2016 Thomas J Bradley
+      © Thomas J Bradley
     notes:
       - label: "Type it, type it real good"
         text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 
-  - title: "Commit & sync"
+  - title: "Commit & push"
     before: |
-      Once you’re happy with the readme content, commit and sync to GitHub.
+      Once you’re happy with the readme content, commit and push to GitHub.
 
 ---
