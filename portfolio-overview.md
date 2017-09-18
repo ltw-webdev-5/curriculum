@@ -80,6 +80,16 @@ slides:
       (As a by-product, you also can prove that you are capable of writing—an extremely important trait for a designer.)
 
   - content: |
+      ## Improve your work
+
+      What you currently have for a portfolio piece is not the best it can be.
+
+      - If your teacher gave you feedback—fix it!
+      - If you would do something differently & better—do it!
+
+      *Your portfolio is a representation of your best work—so improve every piece.*
+
+  - content: |
       ## Always be working
 
       *Every week you should be working on your portfolio—period*
