@@ -12,6 +12,8 @@ video_tutorials:
 slides:
   - title: "Domains & DNS"
     url: domains-dns
+  - title: "Email account types"
+    url: email-account-types
 
 tasks:
   - type: blank
