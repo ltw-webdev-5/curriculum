@@ -48,6 +48,7 @@ slides:
   - content: |
       ## DNS records
 
+      - `NS` — The authoritative DNS information server
       - `A` — The domain to IP mapping for the host
       - `MX` — The email server location
       - `CNAME` — A subdomain or alias for the `A` record
