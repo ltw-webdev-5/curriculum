@@ -26,6 +26,16 @@ slides:
 
       ### Maps Domains ⬌ IPs
 
+  - content: |
+      ## DNS records
+
+      Each registered domain has a bunch of information attached to it—here’s some important entries:
+
+      - `NS` — The authoritative DNS information server
+      - `A` — The domain to IP mapping for the host
+      - `MX` — The email server location
+      - `CNAME` — A subdomain or alias for the `A` record
+
   - type: image
     image: dns-1.svg
 
@@ -44,14 +54,6 @@ slides:
       - Leasing a domain registers it in the DNS
       - And points the domain to an IP address — the host
       - Also points to where email is sent and received
-
-  - content: |
-      ## DNS records
-
-      - `NS` — The authoritative DNS information server
-      - `A` — The domain to IP mapping for the host
-      - `MX` — The email server location
-      - `CNAME` — A subdomain or alias for the `A` record
 
   - content: |
       ## Don’t buy everything in one place
