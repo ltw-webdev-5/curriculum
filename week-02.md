@@ -36,6 +36,6 @@ tasks:
     type: basic
   - title: "Coming soon page"
     url: https://github.com/acgd-webdev-5/coming-soon-page
-    submit: show
+    submit: "Checked when domain works."
   - type: watch-videos
 ---
