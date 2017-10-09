@@ -27,7 +27,6 @@ video_tutorials:
 slides:
   - title: "SEO & metadata"
     url: seo-metadata
-    disabled: true
 
 tasks:
   - title: "Jekyll Judger"

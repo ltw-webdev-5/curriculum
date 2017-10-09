@@ -11,21 +11,21 @@ slides:
   - content: |
       ## Google is smart, but only so smart
 
-      - Google is smart about figuring out what content is good.
-      - And good at determining relevance.
+      - Google is smart about figuring out what content is good
+      - And good at determining relevance
 
-      *But with SEO we can give them a little help.*
+      *But with SEO we can give them a little help*
 
   - content: |
       ## Things that matters
 
-      - Human-friendly text—with minimal, semantic code.
-      - Clear information hierarchy.
-      - First line of first paragraph.
-      - Links to your site from reputable sources.
-      - Clean, meaningful URLs & filenames.
-      - Metadata: enhanced semantics, rich information.
-      - Speed, security & responsiveness.
+      - Human-friendly text—with minimal, semantic code
+      - Clear information hierarchy
+      - First line of first paragraph
+      - Links to your site from reputable sources
+      - Clean, meaningful URLs & filenames
+      - Metadata: enhanced semantics, rich information
+      - Speed, security & responsiveness
 
   - content: |
       ## Tags that matter
@@ -40,14 +40,23 @@ slides:
 
   - type: image
     image: "search-results.jpg"
+    notes: |
+      Google uses information from your website in its search results listings in the following ways:
+
+      1. The `<title>` of your page is the big blue link
+      2. The `<meta>` `description` or text from the first `<p>` is the description under the link
+      3. The page URLs are used to highlight keywords
+      4. Google can pull out important pages and links from navigation or breadcrumbs
+      5. Extra info like ratings, votes, times comes from your metadata
 
   - type: code
     html: |
-      <!-- The `<title>` tag is important, follow this pattern -->
-      <!-- Unique for every single page -->
-      <!-- On the homepage -->
+      <!-- The `<title>` tag is extremely important -->
+      <!-- The title must be unique for every single page -->
+
+      <!-- Homepage title pattern -->
       <title>Site/Company Name · Small keyword rich, catchy phrase · City, Country</title>
-      <!-- On inside pages -->
+      <!-- Inside page title pattern -->
       <title>Page Title · Site/Company Name</title>
 
       <!-- The `<meta>` `description` is sometimes used -->
@@ -88,6 +97,7 @@ slides:
       - [Search engine optimization ➔](/topics/search-engine-optimization/)
       - [Metadata & enhanced semantics ➔](/topics/metadata-enhanced-semantics/)
       - [Analytics & monitoring ➔](/topics/analytics-monitoring/)
+      - [SEO cheat sheet ➔](/topics/seo-cheat-sheet/)
       - [SEO checklist ➔](/topics/seo-checklist/)
       - [Jekyll: unique titles for every page »](https://www.youtube.com/watch?v=ra9Td0DpK0s&list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-&index=31)
       - [Jekyll: meta description »](https://www.youtube.com/watch?v=FUL9SSgMZ8Y&list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-&index=32)
