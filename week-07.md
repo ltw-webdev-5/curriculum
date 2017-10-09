@@ -12,6 +12,9 @@ video_tutorials:
     videos: true
   - title: "Analytics & monitoring"
     url: analytics-monitoring
+  - title: "SEO cheat sheet"
+    url: seo-cheat-sheet
+    highlight: true
   - title: "SEO checklist"
     url: seo-checklist
     highlight: true
@@ -21,8 +24,6 @@ video_tutorials:
     url: "https://www.youtube.com/watch?v=FUL9SSgMZ8Y&list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-&index=32"
   - title: "Jekyll: automatic sitemap.xml"
     url: "https://www.youtube.com/watch?v=C49lhiX_JO0&list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-&index=33"
-  - title: "Jekyll cheat sheet"
-    url: jekyll-cheat-sheet
 
 slides:
   - title: "SEO & metadata"
@@ -35,14 +36,11 @@ tasks:
   - title: "Robot Parts Co."
     url: robot-parts-co
     type: lesson
-    disabled: true
-  - title: "Portfolio microdata"
+  - title: "Portfolio MicroData"
     url: portfolio-microdata
     type: lesson
-    disabled: true
-  - title: "SEO & microdata"
+  - title: "SEO & MicroData"
     url: "https://github.com/acgd-webdev-5/seo-microdata"
     submit: show
-    disabled: true
   - type: watch-videos
 ---

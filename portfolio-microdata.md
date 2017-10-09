@@ -1,13 +1,24 @@
 ---
 layout: lesson
-title: "Portfolio microdata"
-desc: "Look at writing the code necessary for describing portfolio piece using Microdata and Schema.org."
+title: "Portfolio MicroData"
+desc: "Look at writing the code necessary for describing portfolio piece using MicroData and Schema.org."
 
 hide_markbot: true
 
 extra_tutorials:
   - title: "Metadata & enhanced semantics"
     url: metadata-enhanced-semantics
+
+goal:
+  before: |
+    We’re going to explore how to write MicroData for a CreativeWork on a fake website so we can look at the important concepts and how to implement them.
+
+    **All these techniques will later be applied to your portfolio website.**
+  no_image: true
+
+
+fork:
+  url: "https://github.com/acgd-webdev-5/portfolio-microdata"
 
 steps:
   - title: "Set up the project"
@@ -16,25 +27,30 @@ steps:
     folders:
       - label: "portfolio-microdata"
         type: folder
+      - label: "content.txt"
+        notes: "For copying-and-pasting"
+        indent: 1
+        fade: true
       - label: "index.html"
         indent: 1
     after: |
-      1. Drag the `portfolio-microdata` folder to your code editor
-      2. Make a new `index.html` file
-      3. Populate the `index.html` with the boilerplate code
+      1. Make a new `index.html` file
+      2. Populate the `index.html` with the boilerplate code
     notes:
       - label: "Type it, type it real good"
         text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
       - label: "Naming conventions"
         text: "Don’t forget to follow the [naming conventions](/topics/naming-paths-cheat-sheet/#naming-conventions)."
       - label: "HTML snippets"
-        text: "Create the boilerplate with `html5`, `viewport` & `css`"
+        text: "Create the boilerplate with `html5`, `viewport`"
 
   - title: "Add the basic HTML"
     before: |
-      Before we start adding the microdata, let’s add the basic HTML markup for a portfolio piece.
+      Before we start adding the microdata, let’s add the basic HTML markup for a portfolio piece. **Copy the text from `content.txt` to save some time.**
 
-      *For this we’re concentrating on a `WebSite` if it was a [visual artwork](https://schema.org/VisualArtwork) or a [photograph](https://schema.org/Photograph) there would be other specific properties.*
+      *For this we’re concentrating on a `WebSite`—if it was a [visual artwork](https://schema.org/VisualArtwork) or a [photograph](https://schema.org/Photograph) there would be other specific properties.*
+
+      **You may also want to check out the generic [CreativeWork](https://schema.org/CreativeWork) that can be applied to non-specific portfolio pieces.**
     code_lang: "html"
     code_file: "index.html"
     code: |
@@ -47,7 +63,7 @@ steps:
             <h2>Dinos ’R’ Us</h2>
             <p>A shop-at-home website dedicated to the many amazing dinosaur products.</p>
             <p>The goal of the project was create a pattern library for a large-scale website and show pattern examples on a few sample pages.</p>
-            <p itemprop="award"><em>Won the RGD Student Award 2015</em></p>
+            <p><em>Won the RGD Student Award 2015</em></p>
             <a href="#">View website</a>
             <aside>Web, Responsive, CSS, Mobile, Dinosaurs</aside>
           </figcaption>
@@ -69,7 +85,7 @@ steps:
     before: |
       We’re now going to add MicroData to the website to help search engines understand the content and display better results.
 
-      We’re specifically going to use the *MicroData* format but there are other formats like *RDFa* and *JSON-LD*.
+      We’re specifically going to use the *MicroData* format but there are other formats like *RDFa* and *JSON-LD*. I enjoy JSON-LD but the syntax is very different from what you’re used to. [See the JSON-LD tutorial.](/topics/metadata-enhanced-semantics/#structured-data-with-json-ld)
 
       **On the HTML tags that represent specific information we’re going to add a new property: `itemprop="…"`.**
 
@@ -156,7 +172,7 @@ steps:
         </figure>
 
         <footer id="data-author" itemprop="author" itemscope itemtype="https://schema.org/Person">
-          <p>© 2016 <span itemprop="name">Thomas J Bradley</span></p>
+          <p>© <span itemprop="name">Thomas J Bradley</span></p>
           <a itemprop="email" href="mailto:hey@thomasjbradley.ca">hey@thomasjbradley.ca</a>
           <p itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
             <span itemprop="addressLocality">Ottawa</span>,

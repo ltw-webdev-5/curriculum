@@ -9,12 +9,20 @@ extra_tutorials:
   - title: "Search engine optimization"
     url: search-engine-optimization
 
+goal:
+  before: |
+    We’re going to explore a bunch of SEO concepts on a fake website so we can look at the important tags & content and see how to improve the search engine juice.
+
+    **All these techniques will later be applied to your portfolio website.**
+  no_image: true
+
+fork:
+  url: "https://github.com/acgd-webdev-5/robot-parts-co"
+
 steps:
   - title: "Set up the project"
     before: |
       We’re going to take an mostly complete website and enhance it by adding better SEO and microdata to the code.
-
-      ### [Fork & clone this repo.](https://github.com/acgd-webdev-5/robot-parts-co)
 
       You should see the following files in the folder that you’ve cloned:
     folders:
@@ -329,11 +337,11 @@ steps:
 
         <strong itemprop="name">Robot Parts Co.</strong>
 
-        <p itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+        <address itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
           <br><span itemprop="streetAddress">1234 Robot Lane</span>
           <br><span itemprop="addressLocality">Robot Mega City 1</span>, <span itemprop="addressRegion">RoboStateB</span>, <span itemprop="addressCountry">RoboCountry211</span>
           <br><span itemprop="postalCode">11001010100101001</span>
-        </p>
+        </address>
 
         <a itemprop="email" href="mailto:parts@robotparts.co">parts@robotparts.co</a>
       </main>
