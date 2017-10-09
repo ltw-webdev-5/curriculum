@@ -19,7 +19,6 @@ video_tutorials:
 slides:
   - title: "Jekyll: web master pages"
     url: jekyll-web-master-pages
-    disabled: true
 
 tasks:
   - type: blank
@@ -28,14 +27,11 @@ tasks:
     type: basic
     submit: show
     button: activity
-    disabled: true
   - title: "Basic Jekyll site"
     url: basic-jekyll-site
     submit: show
-    disabled: true
   - title: "Jekyll portfolio"
     url: "https://github.com/acgd-webdev-5/jekyll-portfolio"
     submit: show
-    disabled: true
   - type: watch-videos
 ---

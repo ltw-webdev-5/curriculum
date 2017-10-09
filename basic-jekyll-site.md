@@ -23,15 +23,12 @@ goal:
     - label: "Type it, type it real good"
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 
+fork:
+  url: "https://github.com/acgd-webdev-5/basic-jekyll-site/fork"
+
 steps:
   - title: "Set up the project"
     before: |
-      There’s a basic starter repo that has the images you need inside it—we’re going to work from that.
-
-      ### [Fork this repo.](https://github.com/acgd-webdev-5/basic-jekyll-site/fork)
-
-      **Then clone it to your computer.**
-
       You should now have the `basic-jekyll-site` folder and the `images` folder but we still need to make a few **blank** files.
     folders:
       - label: "basic-jekyll-site"
@@ -57,9 +54,8 @@ steps:
         indent: 2
         fade: true
     after: |
-      1. Drag the `basic-jekyll-site` folder into your code editor
-      2. Make a new `index.html` file
-      3. Make a new `main.css` in your `css` folder
+      1. Make a new `index.html` file
+      2. Make a new `main.css` in your `css` folder
 
       *All of these files can remain empty for now.*
     notes:
@@ -79,10 +75,6 @@ steps:
       - label: "index.html"
         indent: 1
         fade: true
-      - label: "css"
-        type: folder
-        indent: 1
-        fade: true
       - continue: true
     code_before: "Type the following code in your `_config.yml` to set some defaults for Jekyll."
     code_lang: yaml
@@ -100,7 +92,7 @@ steps:
 
       ![](config.jpg)
 
-      And now we’re ready to start Jekyll!
+      We’re just about ready to start Jekyll—we just have one more configuration step…
 
   - title: "Set Git to ignore Jekyll files"
     before: |
@@ -123,10 +115,6 @@ steps:
         indent: 1
         fade: true
       - label: "index.html"
-        indent: 1
-        fade: true
-      - label: "css"
-        type: folder
         indent: 1
         fade: true
       - continue: true
@@ -305,6 +293,8 @@ steps:
       ### [**http://localhost:4000/dinosaurs/**](http://localhost:4000/dinosaurs/)
 
       ![](dinosaurs.jpg)
+
+      *Notice that the URL doesn’t have `.html` in it.* In Jekyll we’re using “pretty permalinks” meaning Jekyll will strip off the `.html` extensions. **This is also good practice for search engine optimization.**
 
   - title: "Link the pages together"
     before: |
