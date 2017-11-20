@@ -1,9 +1,10 @@
 ---
 layout: lesson
 title: "Lazy-loading images"
-desc: "Look at creating a fast website with lots of images, some loaded without Javascript & more loaded with Javascript."
+desc: "Look at creating a fast website with lots of images, some loaded without JavaScript & more loaded with JavaScript."
 
 hide_markbot: true
+hide_show_for_marks: true
 
 extra_tutorials:
   - title: "Progressive enhancement"
@@ -13,7 +14,7 @@ extra_tutorials:
     url: accessibility
   - title: "Accessibility checklist"
     url: accessibility-checklist
-  - title: "Javascript & accessibility"
+  - title: "JavaScript & accessibility"
     url: javascript-accessibility
   - title: "PE & a11y slide deck"
     url: "/courses/web-dev-5/pe-a11y/"
@@ -21,30 +22,30 @@ extra_tutorials:
 goal:
   no_image: true
   before: |
-    We’re going to look at making a basic gallery user experience without Javascript then enhance it with some Javascript to substantially improve the loading and rendering performance.
+    We’re going to look at making a basic gallery user experience without JavaScript then enhance it with some JavaScript to substantially improve the loading and rendering performance.
+
+    **This lesson is completely optional—do it only if you’re interested in making your portfolio much faster.**
 
     The idea is to make the website load really quickly—by default only showing a few images.
 
-    - When Javascript isn’t enabled we use the `<noscript>` tag to show more images.
-    - When Javascript is enabled we go and download more images to the page after it has already loaded.
+    - When JavaScript isn’t enabled we use the `<noscript>` tag to show more images.
+    - When JavaScript is enabled we go and download more images to the page after it has already loaded.
   notes:
     - label: "Type it, type it real good"
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 
+fork:
+  url: "https://github.com/acgd-webdev-5/lazy-loading-images/fork"
+
 steps:
   - title: "Set up the project"
     before: |
-      There’s a basic starter repo that has the CSS files & images we need inside it—we’re going to work from that.
-
-      ### [Fork this repo.](https://github.com/acgd-webdev-5/lazy-loading-images/fork)
-
-      **Then clone it to your computer.**
-
-      You should now have the `lazy-loading-images` folder with the basic files.
+      The basic starter repo that has the CSS files & images we need inside it—we’re going to work from that.
     folders:
       - label: "lazy-loading-images"
         type: folder
       - label: "_data"
+        type: folder
         indent: 1
       - label: "images.yml"
         indent: 2
@@ -136,7 +137,7 @@ steps:
           - It has `limit:2`, again, here we only want to spit two images out—these are our “must-have” images.
       - num: 14
         text: |
-          There’s new class here, `.non-critical-img`, to denote these as being “non critical” images—we’ll be using this in Javascript later.
+          There’s new class here, `.non-critical-img`, to denote these as being “non critical” images—we’ll be using this in JavaScript later.
       - num: 16
         text: |
           Notice how the `src="…"` attribute doesn’t exist any more, now it’s `data-src="…"`, this is to prevent the image from downloading. It can’t download unless it has an `src="…"` attribute.
@@ -144,15 +145,15 @@ steps:
           It also has the `hidden` attribute so that it doesn’t accidentally get shown.
       - num: "17-19"
         text: |
-          The `<noscript>` tag is here to force the image to be visible if Javascript isn’t available.
+          The `<noscript>` tag is here to force the image to be visible if JavaScript isn’t available.
 
-          Inside the `<noscript>` tag is a standard `<img src="…">` tag that will only get triggered if Javascript is disabled in the browser.
+          Inside the `<noscript>` tag is a standard `<img src="…">` tag that will only get triggered if JavaScript is disabled in the browser.
       - num: 23
         text: |
           We’ll start outputting the images with the fifth one.
       - num: 24
         text: |
-          Here we have a `hidden` attribute so this whole grid unit isn’t shown until the Javascript executes.
+          Here we have a `hidden` attribute so this whole grid unit isn’t shown until the JavaScript executes.
       - num: 26
         text: |
           Again we’re using the `data-src="…"` attribute to prevent these images from loading.
@@ -160,19 +161,19 @@ steps:
       In the code above we have three loops, each has a specific purpose and ties to the our image categories:
 
         1. The images in the first loop will always show.
-        2. The images in the second loop will show with or without Javascript, essentially they will also *always* show.
-        3. The images in the third loop will only show when the Javascript is triggered.
+        2. The images in the second loop will show with or without JavaScript, essentially they will also *always* show.
+        3. The images in the third loop will only show when the JavaScript is triggered.
 
-        **Why bother having the second loop at all if they’re always going to show?** To help the page load faster. Most (almost all) browsers have Javascript enabled, so these images can be triggered later with Javascript. The page will load super quick, showing only the images in the first loop, then the Javascript will kick in and start downloading the rest—but our user will already have a nice, complete page.
+        **Why bother having the second loop at all if they’re always going to show?** To help the page load faster. Most (almost all) browsers have JavaScript enabled, so these images can be triggered later with JavaScript. The page will load super quick, showing only the images in the first loop, then the JavaScript will kick in and start downloading the rest—but our user will already have a nice, complete page.
 
-  - title: "Lazy load non-critical images with Javascript"
+  - title: "Lazy load non-critical images with JavaScript"
     before: |
-      Now for a little titch of Javascript to make the whole thing work together.
+      Now for a little titch of JavaScript to make the whole thing work together.
     multi_code:
       - code_before: |
           First make a new JS file: `js/image-loader.js`
 
-          *We’re not going to use jQuery for this code because it will just slow our website down. There’s so little Javascript that jQuery adds a massive, unnecessary overhead.*
+          *We’re not going to use jQuery for this code because it will just slow our website down. There’s so little JavaScript that jQuery adds a massive, unnecessary overhead.*
         code_lang: "js"
         code_file: "js/image-loader.js"
         code: |
@@ -190,13 +191,13 @@ steps:
         lines:
           - num: 1
             text: |
-              Wait for the website to finish loading before this Javascript is triggered.
+              Wait for the website to finish loading before this JavaScript is triggered.
           - num: 2
             text: |
               Find all the elements on the page with the class `.non-critical-img`
           - num: 4
             text: |
-              Start a loop, that will traverse over all those non-critical images that Javascript found.
+              Start a loop, that will traverse over all those non-critical images that JavaScript found.
           - num: 5
             text: |
               Inside the “non-critical” element, find the `<img>` tag itself.
@@ -207,9 +208,9 @@ steps:
             text: |
               Remove the `hidden` attributes from the `<img>` and the surrounding `<div>` tags.
       - code_before: |
-          Now we need to connect the Javascript to our HTML file.
+          Now we need to connect the JavaScript to our HTML file.
 
-          Instead of using the standard `<script src="…">` tag, we’re going to embed the Javascript right on the page. This will help mitigate the possibility of the external Javascript file not downloading.
+          Instead of using the standard `<script src="…">` tag, we’re going to embed the JavaScript right on the page. This will help mitigate the possibility of the external JavaScript file not downloading.
         code_lang: "html"
         code_file: "index.html"
         code: |
@@ -227,8 +228,8 @@ steps:
             fade: true
           - num: 5
             text: |
-              We’ll use Jekyll’s `include_relative` function to read all the Javascript from our file and output it into the page itself.
+              We’ll use Jekyll’s `include_relative` function to read all the JavaScript from our file and output it into the page itself.
     after: |
-      **That’s it. Give it a try in your browser with Javascript on & off and with the network speed throttle to see how it significantly improves performance.**
+      **That’s it. Give it a try in your browser with JavaScript on & off and with the network speed throttle to see how it significantly improves performance.**
 
 ---

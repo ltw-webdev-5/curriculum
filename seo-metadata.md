@@ -89,7 +89,7 @@ slides:
       When you share something on Facebook or Twitter (*et al.*), the little preview is defined by specific tags.
 
       - [Open Graph](http://ogp.me/)
-      - [Twitter Cards](https://dev.twitter.com/docs/cards)
+      - [Twitter Cards](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/summary)
 
   - content: |
       ## Videos & tutorials

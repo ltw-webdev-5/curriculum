@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
 title: "PE & a11y"
-desc: "A quick introduction to progressive enhancement with Javascript and applications and how to detect browser features."
+desc: "A quick introduction to progressive enhancement with JavaScript and applications and how to detect browser features."
 
 slides:
   - type: super-big-text
@@ -12,7 +12,7 @@ slides:
   - content: |
       ## Progressive enhancement
 
-      *Javascript is a powerful tool to enhance your website*
+      *JavaScript is a powerful tool to enhance your website*
 
       - What happens if it fails to load?
       - What happens if their ad blocker blocks it?
@@ -23,7 +23,7 @@ slides:
   - content: |
       ## Provide a base-level experience
 
-      - Your portfolio, up to this point, should be fully functional without Javascript
+      - Your portfolio, up to this point, should be fully functional without JavaScript
       - Now add JS touches to enhance the user experience
 
   - content: |
@@ -47,7 +47,7 @@ slides:
       ```
 
   - content: |
-      ## Javascript doesn’t make your website inaccessible
+      ## JavaScript doesn’t make your website inaccessible
 
       With a little care it enhances your website—making it even more usable & accessible
 
@@ -74,13 +74,5 @@ slides:
       - [Progressive enhancement ➔](/topics/progressive-enhancement/)
       - [Accessibility ➔](/topics/accessibility/)
       - [Accessibility checklist ➔](/topics/accessibility-checklist/)
-      - [Javascript & accessibility ➔](/topics/javascript-accessibility/)
-
-  - content: |
-      ## Helpful links
-
-      - [ARIA role definitions](https://www.w3.org/TR/wai-aria/roles#role_definitions)
-      - [ARIA states & properties](https://www.w3.org/TR/wai-aria/states_and_properties#state_prop_def)
-      - [MDN: ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
-
+      - [JavaScript & accessibility ➔](/topics/javascript-accessibility/)
 ---

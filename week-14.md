@@ -10,11 +10,10 @@ video_tutorials:
 slides:
   - title: "Great 404 pages"
     url: great-404-pages
-    disabled: true
 
 group_activities:
   - title: "Course feedback"
-    url: https://www.algonquincollege.com/studentfeedback/
+    url: "https://www.algonquincollege.com/studentfeedback/"
     type: star
 
 tasks:
@@ -25,7 +24,6 @@ tasks:
   - title: "404 page"
     url: "https://github.com/acgd-webdev-5/404-page"
     submit: show
-    disabled: true
   - title: "Final portfolio website"
     url: "https://github.com/acgd-webdev-5/final-portfolio-website"
     graded-as: final-portfolio
@@ -33,5 +31,4 @@ tasks:
     due_week: 15
     due_time: "23:59"
     submit: online
-    disabled: true
 ---

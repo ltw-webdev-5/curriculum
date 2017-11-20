@@ -25,8 +25,10 @@ slides:
 
       If you want to self-host video you need to put it onto a Content Delivery Network
 
-      [**KeyCDN**](https://www.keycdn.com/) is easy to set up and works really well
+      [**KeyCDN**](https://www.keycdn.com/?a=7564)† is easy to set up and works really well
       <br>(This whole website is on KeyCDN)
+    notes: |
+      † The KeyCDN link is a referral link giving you $10 free in credits.
 
   - content: |
       ## Video on the web
@@ -45,11 +47,17 @@ slides:
       - *Preset:* **Vimeo 1080p HD** or **YouTube 1080p HD**
         <br>The regular “HD 1080p 29.97” should also work but may create larger file sizes.
 
+      *[Handbrake](https://handbrake.fr/) is a wonderful open source alternative*
+
   - type: interactive
     html: |
       <!-- The <video> tag for self-hosted videos -->
 
       <video controls src="https://assets.learn-the-web.algonquindesign.ca/web-dev-5/liftoff-of-spacex-crs-5.mp4"></video>
+    html_lines:
+      - num: 3
+        text: |
+          After exporting and uploading to a host, it’s a simple as adding the `<video>` tag with the `src` attribute pointing to your `.mp4` video file.
 
   - type: interactive
     html: |
@@ -58,6 +66,10 @@ slides:
       <div class="embed embed-16by9">
         <video class="embed-item" controls src="https://assets.learn-the-web.algonquindesign.ca/web-dev-5/liftoff-of-spacex-crs-5.mp4"></video>
       </div>
+    html_lines:
+      - num: "3-5"
+        text: |
+          To get responsive video you’ll need to use embed containers otherwise you’ll run into weird black bars and scaling issues.
     css_hidden: |
       .embed {
         margin-left: 0;
@@ -78,6 +90,8 @@ slides:
       }
 
   - type: interactive
+    notes: |
+      Browsers have default controllers built in but if you want to make your own custom controller you’ll have to use JavaScript.
     html: |
       <div class="embed embed-16by9">
         <video id="my-video" class="embed-item" src="https://assets.learn-the-web.algonquindesign.ca/web-dev-5/liftoff-of-spacex-crs-5.mp4"></video>

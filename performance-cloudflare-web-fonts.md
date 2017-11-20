@@ -15,7 +15,7 @@ extra_tutorials:
     url: advanced-performance-checklist
     highlight: true
   - title: "Advanced performance slide deck"
-    url: "/courses/web-dev-3/advanced-performance/"
+    url: "/courses/web-dev-5/advanced-performance/"
 
 steps:
   - title: "Browser developer tools"

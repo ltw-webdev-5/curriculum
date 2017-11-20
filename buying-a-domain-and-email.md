@@ -6,6 +6,10 @@ desc: "Walk through the process of leasing a domain from Hover and purchasing an
 hide_markbot: true
 
 extra_tutorials:
+  - title: "Domains & DNS slide deck"
+    url: "/courses/web-dev-5/domains-dns/"
+  - title: "Email account types slide deck"
+    url: "/courses/web-dev-5/email-account-types/"
   - title: "Domains & DNS"
     url: domains
 
@@ -85,7 +89,7 @@ steps:
     before: |
       Go to [**FastMail**](https://www.fastmail.com/?STKI=12009945)† and sign up for an account—you’ll need to pick the **Standard** account to be able to use your custom domain.
 
-      *The FastMail link is a referral link, from me, that will get you 10% off your first year.*
+      *† The FastMail links are referral links, from me, that will get you 10% off your first year.*
 
       ![](fastmail-package.jpg)
 

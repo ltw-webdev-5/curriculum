@@ -19,16 +19,12 @@ tasks:
   - type: blank
   - title: "Buying a domain & email"
     url: buying-a-domain-and-email
-    submit: show
-    type: basic
-    button: activity
+    type: lesson
   - title: "Hosting setup"
     url: hosting-setup
-    submit: show
-    type: basic
-    button: activity
+    type: lesson
   - title: "Portfolio content"
-    url: https://github.com/acgd-webdev-5/portfolio-content
+    url: "https://github.com/acgd-webdev-5/portfolio-content"
     submit: show
     type: basic
     button: activity

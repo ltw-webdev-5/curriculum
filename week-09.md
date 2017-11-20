@@ -1,6 +1,6 @@
 ---
 topic: "Portfolio milestone 2 work period"
-desc: "In class work time to spend on finalizing the basic—Javascript free—version of your portfolio website."
+desc: "In class work time to spend on finalizing the basic—JavaScript free—version of your portfolio website."
 clr: "2, 3, 5, 7"
 
 video_tutorials:
@@ -29,13 +29,10 @@ tasks:
     button: activity
     type: basic
     submit: show
-    disabled: true
   - title: "Portfolio design & content"
     url: "https://github.com/acgd-webdev-5/portfolio-design-and-content"
     graded-as: portfolio-design-and-content
     due: "Start of class, week 11"
     due_week: 11
     submit: online
-    disabled: true
-
 ---

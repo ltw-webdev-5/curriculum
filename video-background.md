@@ -6,26 +6,28 @@ desc: "Create a video background for the header of a website."
 hide_markbot: true
 
 extra_tutorials:
+  - title: "Video slide deck"
+    url: "/courses/web-dev-5/video/"
   - title: "Video & audio"
     url: video-audio
 
 goal:
   before: |
     We’re going to look at creating a website banner that has a video as the background behind the text.
+  no_image: true
+  video: "https://assets.learn-the-web.algonquindesign.ca/web-dev-5/video-background/goal.mp4"
+  video_poster: goal.jpg
   notes:
     - label: "Type it, type it real good"
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 
+fork:
+  url: "https://github.com/acgd-webdev-5/video-background"
+
 steps:
   - title: "Set up the project"
     before: |
-      There’s a basic starter repo that has the images you need inside it—we’re going to work from that.
-
-      ### [Fork this repo.](https://github.com/acgd-webdev-5/video-background/fork)
-
-      **Then clone it to your computer.**
-
-      *The content is already inside `index.html` we just need to wrap some tags around it.*
+      The forked & cloned starter repo has the images you need in the `images` folder and the content inside `index.html` that we’ll just wrap some tags around.
 
       **The CSS inside `main.css` is done for us—it just contains a few colours, and fonts—nothing too complex.**
     folders:
@@ -69,7 +71,7 @@ steps:
           <div>
             <h1>The Sun</h1>
             <p>The Sun is the star at the center of the Solar System; a nearly perfect sphere of hot plasma, with internal convective motion that generates a magnetic field via a dynamo process.</p>
-            <a>Learn more</a>
+            <a href="#">Learn more</a>
           </div>
         </div>
 
@@ -88,6 +90,8 @@ steps:
           - `loop` — restart the video when it gets to the end
           - `autoplay` — start playing as soon as its ready—doesn’t work on all devices, especially mobiles
           - `poster=""` — a path to an image that will display while the video is buffering
+
+          **Many modern browsers will not auto-play videos unless they’re set to muted—because auto-playing videos with sound are the absolute worst.**
     after: |
       We should see this in the browser:
 
@@ -112,7 +116,7 @@ steps:
           <div class="max-length text-center relative zindex-1 pad-t-2 pad-b gutter-1-2">
             <h1 class="yotta push-1-2">The Sun</h1>
             <p class="mega">The Sun is the star at the center of the Solar System; a nearly perfect sphere of hot plasma, with internal convective motion that generates a magnetic field via a dynamo process.</p>
-            <a class="btn btn-ghost mega">Learn more</a>
+            <a class="btn btn-ghost mega" href="#">Learn more</a>
           </div>
         </div>
 

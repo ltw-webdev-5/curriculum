@@ -6,6 +6,8 @@ desc: "Write the code necessary to make a very basic Jekyll powered website with
 hide_markbot: true
 
 extra_tutorials:
+  - title: "Jekyll slide deck"
+    url: "/courses/web-dev-5/jekyll-web-master-pages/"
   - title: "Jekyll"
     url: jekyll
   - title: "Jekyll installation"

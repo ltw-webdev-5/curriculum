@@ -1,6 +1,6 @@
 ---
 topic: "Progressive enhancement & accessibility"
-desc: "Introduction to making Javascript optional and not ruining accessibility by adding Javascript."
+desc: "Introduction to making JavaScript optional and not ruining accessibility by adding JavaScript."
 clr: "2, 3, 5, 6, 7"
 
 video_tutorials:
@@ -15,7 +15,7 @@ video_tutorials:
   - title: "Accessibility testing checklist"
     url: accessibility-testing-checklist
     highlight: true
-  - title: "Javascript & accessibility"
+  - title: "JavaScript & accessibility"
     url: javascript-accessibility
   - title: "Advanced performance checklist"
     url: advanced-performance-checklist
@@ -23,7 +23,6 @@ video_tutorials:
 slides:
   - title: "PE & a11y"
     url: pe-a11y
-    disabled: true
 
 tasks:
   - title: "Performance Perfector"
@@ -32,7 +31,7 @@ tasks:
   - title: "Lazy-loading images"
     url: lazy-loading-images
     type: lesson
-    disabled: true
+    submit: "Submit nothing."
   - title: "Accessibility testing"
     url: /courses/web-dev-2/accessibility-testing/
     submit: "Submit nothing."
@@ -46,5 +45,4 @@ tasks:
     due_week: 15
     due_time: "23:59"
     submit: online
-    disabled: true
 ---

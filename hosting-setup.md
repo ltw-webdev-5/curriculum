@@ -6,6 +6,10 @@ desc: "Walk through the process of making a GitHub website live on your own doma
 hide_markbot: true
 
 extra_tutorials:
+  - title: "Domains & DNS slide deck"
+    url: "/courses/web-dev-5/domains-dns/"
+  - title: "Email account types slide deck"
+    url: "/courses/web-dev-5/email-account-types/"
   - title: "Domains & DNS"
     url: domains
 

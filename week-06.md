@@ -24,12 +24,10 @@ tasks:
   - type: blank
   - title: "Install Jekyll"
     url: install-jekyll
-    type: basic
-    submit: show
-    button: activity
+    type: lesson
   - title: "Basic Jekyll site"
     url: basic-jekyll-site
-    submit: show
+    type: lesson
   - title: "Jekyll portfolio"
     url: "https://github.com/acgd-webdev-5/jekyll-portfolio"
     submit: show

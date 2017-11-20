@@ -27,15 +27,15 @@ next_week_notes:
 tasks:
   - type: blank
   - title: "Portfolio inspiration"
-    url: https://github.com/acgd-webdev-5/portfolio-inspiration
+    url: "https://github.com/acgd-webdev-5/portfolio-inspiration"
     type: basic
     submit: show
     button: activity
   - title: "Choosing a domain"
-    url: https://github.com/acgd-webdev-5/choosing-a-domain
+    url: "https://github.com/acgd-webdev-5/choosing-a-domain"
     type: basic
   - title: "Coming soon page"
-    url: https://github.com/acgd-webdev-5/coming-soon-page
+    url: "https://github.com/acgd-webdev-5/coming-soon-page"
     submit: "Checked when domain works."
   - type: watch-videos
 ---

@@ -21,28 +21,23 @@ extra_tutorials:
   - title: "Jekyll: many CSS files"
     url: "https://www.youtube.com/watch?v=H4Fc2xL79nU&list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-&index=30"
   - title: "Advanced performance slide deck"
-    url: "/courses/web-dev-3/advanced-performance/"
+    url: "/courses/web-dev-5/advanced-performance/"
 
 goal:
   no_image: true
   before: |
     We’re going to use Jekyll to combine many CSS files into a single file automatically to improve our website loading time.
-
-    **The method we’re going to use here is slightly different than the one found in the Jekyll videos. Jekyll has a newer feature called `include_relative` that simplifies this process.**
   notes:
     - label: "Type it, type it real good"
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 
+fork:
+  url: "https://github.com/acgd-webdev-5/css-concatenation/fork"
+
 steps:
   - title: "Set up the project"
     before: |
-      There’s a basic starter repo that has the CSS files we need inside it—we’re going to work from that.
-
-      ### [Fork this repo.](https://github.com/acgd-webdev-5/css-concatenation/fork)
-
-      **Then clone it to your computer.**
-
-      You should now have the `css-concatenation` folder with the basic files.
+      The basic starter repo you just forked and cloned has the CSS files we need inside it—we’re going to work from that.
     folders:
       - label: "css-concatenation"
         type: folder

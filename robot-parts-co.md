@@ -6,6 +6,8 @@ desc: "A quick look at optimizing some content for search engines to make the si
 hide_markbot: true
 
 extra_tutorials:
+  - title: "SEO & metadata slide deck"
+    url: "/courses/web-dev-5/seo-metadata/"
   - title: "Search engine optimization"
     url: search-engine-optimization
 

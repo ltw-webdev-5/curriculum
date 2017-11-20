@@ -19,6 +19,4 @@ tasks:
     due: "Start of class, week 11"
     due_week: 11
     submit: online
-    disabled: true
-
 ---

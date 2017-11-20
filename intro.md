@@ -38,6 +38,7 @@ slides:
 
   - content: |
       ## Always be coding
+
       Multiple activities & exercises every week
 
       [**Week 2 tasks ➔**](/courses/web-dev-5/week-02/)
@@ -50,6 +51,7 @@ slides:
 
   - content: |
       ## Sticky note triage
+
       Specify your working status by sticking sticky notes on your monitor
 
       ![](sticky-notes.svg)

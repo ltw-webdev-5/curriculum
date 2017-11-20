@@ -33,16 +33,16 @@ group_activities:
 
 tasks:
   - title: "Domain Destroyer"
-    url: https://activities.learn-the-web.algonquindesign.ca/domain-destroyer/
+    url: "https://activities.learn-the-web.algonquindesign.ca/domain-destroyer/"
     type: activity
   - title: "Writing a Readme"
     url: writing-a-readme
     type: lesson
   - title: "Paper wireframes"
-    url: https://github.com/acgd-webdev-5/paper-wireframes
+    url: "https://github.com/acgd-webdev-5/paper-wireframes"
     type: paper
   - title: "Interactive wireframes"
-    url: https://github.com/acgd-webdev-5/interactive-wireframes
+    url: "https://github.com/acgd-webdev-5/interactive-wireframes"
     submit: online
     graded-as: interactive-wireframes
     due: "Start of class, week 6"

@@ -13,7 +13,6 @@ video_tutorials:
 slides:
   - title: "Video"
     url: video
-    disabled: true
 
 tasks:
   - title: "Search Seer"
@@ -22,7 +21,6 @@ tasks:
   - title: "Video background"
     url: video-background
     type: lesson
-    disabled: true
   - type: blank
   - title: "Portfolio design & content"
     url: "https://github.com/acgd-webdev-5/portfolio-design-and-content"
@@ -30,5 +28,4 @@ tasks:
     due: "Start of class, week 11"
     due_week: 11
     submit: online
-    disabled: true
 ---

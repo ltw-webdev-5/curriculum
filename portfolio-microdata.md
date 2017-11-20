@@ -6,6 +6,8 @@ desc: "Look at writing the code necessary for describing portfolio piece using M
 hide_markbot: true
 
 extra_tutorials:
+  - title: "SEO & metadata slide deck"
+    url: "/courses/web-dev-5/seo-metadata/"
   - title: "Metadata & enhanced semantics"
     url: metadata-enhanced-semantics
 

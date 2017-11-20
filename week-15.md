@@ -10,16 +10,18 @@ video_tutorials:
     url: accessibility-checklist
   - title: "Accessibility testing checklist"
     url: accessibility-testing-checklist
-  - title: "Launch checklist, Web Dev 5"
-    url: launch-checklist-web-dev-5
-    highlight: true
+
+group_activities:
+  - title: "Launch your Portfolio!"
+    url: launch-your-portfolio
+    type: code
 
 tasks:
   - title: "Security Sniper"
     url: "https://activities.learn-the-web.algonquindesign.ca/security-sniper/"
     type: activity
   - title: "Accessibility testing"
-    url: "/courses/web-dev-1/accessibility-testing/"
+    url: "/courses/web-dev-2/accessibility-testing/"
     submit: "Submit nothing."
     pair: true
     button: activity
@@ -35,7 +37,6 @@ tasks:
     due: "Midnight, last day of class"
     type: basic
     graded-as: false
-    disabled: true
   - title: "Final portfolio website"
     url: "https://github.com/acgd-webdev-5/final-portfolio-website"
     graded-as: final-portfolio
@@ -43,5 +44,4 @@ tasks:
     due_week: 15
     due_time: "23:59"
     submit: online
-    disabled: true
 ---
