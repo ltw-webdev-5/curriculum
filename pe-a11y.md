@@ -74,5 +74,5 @@ slides:
       - [Progressive enhancement ➔](/topics/progressive-enhancement/)
       - [Accessibility ➔](/topics/accessibility/)
       - [Accessibility checklist ➔](/topics/accessibility-checklist/)
-      - [JavaScript & accessibility ➔](/topics/javascript-accessibility/)
+      - [JavaScript, jQuery & accessibility ➔](/topics/javascript-jquery-accessibility/)
 ---

@@ -14,8 +14,8 @@ extra_tutorials:
     url: accessibility
   - title: "Accessibility checklist"
     url: accessibility-checklist
-  - title: "JavaScript & accessibility"
-    url: javascript-accessibility
+  - title: "JavaScript, jQuery & accessibility"
+    url: javascript-jquery-accessibility
   - title: "PE & a11y slide deck"
     url: "/courses/web-dev-5/pe-a11y/"
 

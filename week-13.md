@@ -15,8 +15,8 @@ video_tutorials:
   - title: "Accessibility testing checklist"
     url: accessibility-testing-checklist
     highlight: true
-  - title: "JavaScript & accessibility"
-    url: javascript-accessibility
+  - title: "JavaScript, jQuery & accessibility"
+    url: javascript-jquery-accessibility
   - title: "Advanced performance checklist"
     url: advanced-performance-checklist
 
