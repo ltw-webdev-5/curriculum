@@ -40,7 +40,7 @@ slides:
       - Properly export, compress & smush images
       - Use as few fonts as possible (none is ideal)
       - Remove duplicate code
-      - Fix broken links make websites slower
+      - Fix broken links & images, which make websites slower
       - Remove social media buttons and stick to simple icons
       - Remove ads and tracking scripts
 
