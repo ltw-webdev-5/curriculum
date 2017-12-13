@@ -27,6 +27,8 @@ goal:
   no_image: true
   before: |
     We’re going to use Jekyll to combine many CSS files into a single file automatically to improve our website loading time.
+
+    **After you’ve followed along with this tutorial apply the same technique to your own portfolio website.**
   notes:
     - label: "Type it, type it real good"
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
@@ -148,4 +150,7 @@ steps:
 
       **And you’re now ready to get much better results on the performance tests.**
 
+  - title: "Apply to your portfolio"
+    before: |
+      Now that you understand the technique and done it once, **apply the same thing to your own portfolio** to make it harder, better, faster & stronger.
 ---
