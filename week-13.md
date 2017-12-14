@@ -33,7 +33,7 @@ tasks:
     type: lesson
     submit: "Submit nothing."
   - title: "Accessibility testing"
-    url: /courses/web-dev-2/accessibility-testing/
+    url: "/courses/shared/accessibility-testing/"
     submit: "Submit nothing."
     pair: true
     button: activity

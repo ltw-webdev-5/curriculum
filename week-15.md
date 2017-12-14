@@ -21,13 +21,13 @@ tasks:
     url: "https://activities.learn-the-web.algonquindesign.ca/security-sniper/"
     type: activity
   - title: "Accessibility testing"
-    url: "/courses/web-dev-2/accessibility-testing/"
+    url: "/courses/shared/accessibility-testing/"
     submit: "Submit nothing."
     pair: true
     button: activity
     type: basic
   - title: "Browser testing"
-    url: "/courses/web-dev-1/browser-testing/"
+    url: "/courses/shared/browser-testing/"
     submit: "Submit nothing."
     pair: true
     button: activity
