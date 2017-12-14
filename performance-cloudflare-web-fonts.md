@@ -30,8 +30,16 @@ steps:
     before: |
       Look at the settings inside CloudFlare to help you pass performance tests.
     video: "mb6q-MG8LWs"
+  - title: "Sub-setting fonts"
+    before: |
+      Learn how reduce the download size of the fonts on your website by removing all the extra characters that you don’t actually use on your website.
+
+      *This is only necessary when using Google Fonts in combination with the “Delaying font rendering” technique described below.*
+    video: "CVTt4msJVXM"
   - title: "Delaying font rendering"
     before: |
       Learn how to get your website visible on screen more quickly by delaying the web fonts from rendering.
+
+      *This is only necessary when using Google Fonts—Typekit will already do this for you.*
     video: "B-J5IEjilO0"
 ---
