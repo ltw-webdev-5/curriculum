@@ -27,6 +27,7 @@ tasks:
     type: activity
   - title: "Performance, CloudFlare & web fonts"
     url: performance-cloudflare-web-fonts
+    graded-as: false
     submit: "Submit nothing."
     type: lesson
   - title: "CSS concatenation"
