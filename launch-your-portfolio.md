@@ -8,14 +8,21 @@ slides:
     content: |
       **Launch your portfolio**
 
-  - content: |
-      ## Move the CNAME
-
-      *It’s so much easier than you’re expecting!*
+  - type: two-col
+    col1: |
+      ## Disable coming soon
 
       1. Go to [GitHub.com](https://github.com/)
       2. Go to your “coming soon“ repo’s “Settings”
       3. Delete the domain & save
-      4. Go to your “portfolio” repo’s “Settings”
-      5. Add the domain & save
+    col2: |
+      ## Enable portfolio
+
+      1. Change the `baseurl` inside `_config.yml`:
+        <br>`baseurl: ""`
+      2. Commit and push
+      3. Go to your portfolio repo’s “Settings”
+      4. Add your domain & save
+      5. Press the “Pull” button on the GitHub app
+
 ---
