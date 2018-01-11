@@ -17,9 +17,12 @@ group_activities:
     type: code
 
 tasks:
-  - title: "Security Sniper"
-    url: "https://activities.learn-the-web.algonquindesign.ca/security-sniper/"
-    type: activity
+  - title: "Performance testing"
+    url: "/courses/shared/performance-testing/"
+    submit: "Submit nothing."
+    pair: true
+    button: activity
+    type: basic
   - title: "Accessibility testing"
     url: "/courses/shared/accessibility-testing/"
     submit: "Submit nothing."
