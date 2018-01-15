@@ -4,12 +4,17 @@ desc: "Browser and peer testing for your final portfolio on lots of different de
 clr: "2, 3, 5, 6, 7"
 
 video_tutorials:
+  - title: "Launch checklist"
+    url: launch-checklist
+    highlight: true
   - title: "Browser testing checklist"
     url: browser-testing-checklist
   - title: "Accessibility checklist"
     url: accessibility-checklist
   - title: "Accessibility testing checklist"
     url: accessibility-testing-checklist
+  - title: "Advanced performance checklist"
+    url: advanced-performance-checklist
 
 group_activities:
   - title: "Launch your Portfolio!"
