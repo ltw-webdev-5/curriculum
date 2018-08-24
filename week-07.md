@@ -42,5 +42,10 @@ tasks:
   - title: "SEO & MicroData"
     url: "https://github.com/acgd-webdev-5/seo-microdata"
     submit: show
-  - type: watch-videos
+  - title: "Portfolio design & content"
+    url: "https://github.com/acgd-webdev-5/portfolio-design-and-content"
+    graded-as: portfolio-design-and-content
+    due: "Start of class, week 11"
+    due_week: 11
+    submit: show
 ---
