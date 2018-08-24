@@ -40,13 +40,12 @@ tasks:
     pair: true
     button: activity
     type: basic
-  - title: "Request for grade"
-    url: "https://github.com/acgd-webdev-5/request-for-grade"
-    due: "Midnight, last day of class"
-    due_week: 9
-    due_time: "23:59"
+  - title: "Final portfolio critique"
+    url: "https://github.com/acgd-webdev-5/final-portfolio-critique"
+    button: activity
     type: basic
-    graded-as: false
+    submit: show
+    graded-as: final-portfolio-critique
   - title: "Final portfolio website"
     url: "https://github.com/acgd-webdev-5/final-portfolio-website"
     graded-as: final-portfolio

@@ -13,6 +13,11 @@ extra_tutorials:
   - title: "Domains & DNS"
     url: domains
 
+important:
+  title: "Delays are allowed"
+  text: |
+    **You can delay doing this assignment until you get further along in determining your brand—which you’ll be doing in another class.**
+
 steps:
   - title: "Create a CloudFlare account"
     before: |

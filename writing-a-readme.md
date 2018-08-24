@@ -22,17 +22,15 @@ extra_tutorials:
     url: writing-a-readme
     highlight: true
 
+fork:
+  url: https://github.com/acgd-webdev-5/portfolio
+  repo: portfolio
+  after: |
+      *We’re leaving our `coming-soon` repo alone so the page stays online.*
+
+      **If you’d like, after you’ve forked the repository you could rename it in the “Settings” tab to something more descriptive, e.g. `thomasjbradley.ca`**
+
 steps:
-  - title: "Create your portfolio repo"
-    before: |
-      Go to GitHub and make a brand new repository. *We’re leaving our `coming-soon` repo alone so the page stays online.*
-
-      Name your repository something like `portfolio` or `thomasjbradley.ca` (subbing for your domain).
-
-      **Make sure to choose “Initialize this repository with a README” when creating the repository.**
-
-      *Clone to your desktop when you’re ready.*
-
   - title: "Set it up as a hosted website"
     before: |
       There are now two ways you can set your repository up to be hosted on GitHub.

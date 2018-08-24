@@ -21,7 +21,12 @@ slides:
     url: jekyll-web-master-pages
 
 tasks:
-  - type: blank
+  - title: "Interactive wireframe critique"
+    url: "https://github.com/acgd-webdev-5/interactive-wireframe-critique"
+    button: activity
+    type: basic
+    submit: show
+    graded-as: interactive-wireframe-critique
   - title: "Install Jekyll"
     url: install-jekyll
     type: lesson

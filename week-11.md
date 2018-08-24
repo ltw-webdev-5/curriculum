@@ -16,13 +16,18 @@ tasks:
   - title: "Alignment Actuator"
     url: "https://activities.learn-the-web.algonquindesign.ca/alignment-actuator/"
     type: activity
-  - type: blank
   - title: "Browser testing"
     url: "/courses/shared/browser-testing/"
     submit: "Submit nothing."
     pair: true
     button: activity
     type: basic
+  - title: "Portfolio peer evaluations"
+    url: "https://github.com/acgd-webdev-5/portfolio-peer-evaluations"
+    button: activity
+    type: basic
+    submit: show
+    graded-as: portfolio-peer-evaluations
   - title: "Portfolio fixes"
     url: "https://github.com/acgd-webdev-5/portfolio-fixes"
     submit: show

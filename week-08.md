@@ -27,5 +27,5 @@ tasks:
     graded-as: portfolio-design-and-content
     due: "Start of class, week 11"
     due_week: 11
-    submit: online
+    submit: show
 ---

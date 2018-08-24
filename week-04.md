@@ -43,7 +43,7 @@ tasks:
     type: paper
   - title: "Interactive wireframes"
     url: "https://github.com/acgd-webdev-5/interactive-wireframes"
-    submit: online
+    submit: show
     graded-as: interactive-wireframes
     due: "Start of class, week 6"
     due_week: 6

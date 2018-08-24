@@ -20,10 +20,15 @@ tasks:
   - title: "HTTP Hoodwinker"
     url: "https://activities.learn-the-web.algonquindesign.ca/http-hoodwinker/"
     type: activity
-  - type: blank
   - title: "404 page"
     url: "https://github.com/acgd-webdev-5/404-page"
     submit: show
+  - title: "Final portfolio critique"
+    url: "https://github.com/acgd-webdev-5/final-portfolio-critique"
+    button: activity
+    type: basic
+    submit: show
+    graded-as: final-portfolio-critique
   - title: "Final portfolio website"
     url: "https://github.com/acgd-webdev-5/final-portfolio-website"
     graded-as: final-portfolio

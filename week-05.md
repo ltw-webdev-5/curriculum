@@ -20,16 +20,17 @@ video_tutorials:
 tasks:
   - type: blank
   - type: blank
-  - title: "Interactive wireframe check-in"
-    url: "https://github.com/acgd-webdev-5/interactive-wireframe-check-in"
+  - title: "Interactive wireframe critique"
+    url: "https://github.com/acgd-webdev-5/interactive-wireframe-critique"
     button: activity
     type: basic
     submit: show
+    graded-as: interactive-wireframe-critique
   - title: "Interactive wireframes"
     url: "https://github.com/acgd-webdev-5/interactive-wireframes"
     graded-as: interactive-wireframes
     due: "Start of class, week 6"
     due_week: 6
-    submit: online
+    submit: show
   - type: watch-videos
 ---

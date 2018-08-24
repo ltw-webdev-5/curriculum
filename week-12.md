@@ -33,6 +33,12 @@ tasks:
   - title: "CSS concatenation"
     url: css-concatenation
     type: lesson
+  - title: "Portfolio peer evaluations"
+    url: "https://github.com/acgd-webdev-5/portfolio-peer-evaluations"
+    button: activity
+    type: basic
+    submit: show
+    graded-as: portfolio-peer-evaluations
   - title: "Portfolio performance"
     url: "https://github.com/acgd-webdev-5/portfolio-performance"
     submit: show

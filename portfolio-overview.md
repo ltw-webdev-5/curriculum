@@ -45,7 +45,7 @@ slides:
 
       - You want to show off what *you* are capable of
       - The more focused your pieces the better
-      - Remain honest: if you’re not interest in motion work, don’t show motion pieces
+      - Remain honest: if you’re not interested in motion work, don’t show motion pieces
 
       *Even think about your dream job/company and target them directly!*
 
