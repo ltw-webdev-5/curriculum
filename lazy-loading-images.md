@@ -12,6 +12,8 @@ extra_tutorials:
     highlight: true
   - title: "Accessibility"
     url: accessibility
+  - title: "Accessibility cheat sheet"
+    url: accessibility-cheat-sheet
   - title: "Accessibility checklist"
     url: accessibility-checklist
   - title: "JavaScript, jQuery & accessibility"

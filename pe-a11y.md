@@ -73,6 +73,7 @@ slides:
 
       - [Progressive enhancement ➔](/topics/progressive-enhancement/)
       - [Accessibility ➔](/topics/accessibility/)
+      - [Accessibility cheat sheet ➔](/topics/accessibility-cheat-sheet/)
       - [Accessibility checklist ➔](/topics/accessibility-checklist/)
       - [JavaScript, jQuery & accessibility ➔](/topics/javascript-jquery-accessibility/)
 ---
