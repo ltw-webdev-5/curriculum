@@ -28,7 +28,7 @@ tasks:
     button: activity
     type: basic
     submit: show
-    graded-as: final-portfolio-critique
+    graded-as: false
   - title: "Final portfolio website"
     url: "https://github.com/acgd-webdev-5/final-portfolio-website"
     graded-as: final-portfolio

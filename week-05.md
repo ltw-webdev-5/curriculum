@@ -25,7 +25,7 @@ tasks:
     button: activity
     type: basic
     submit: show
-    graded-as: interactive-wireframe-critique
+    graded-as: false
   - title: "Interactive wireframes"
     url: "https://github.com/acgd-webdev-5/interactive-wireframes"
     graded-as: interactive-wireframes

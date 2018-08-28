@@ -26,7 +26,7 @@ tasks:
     button: activity
     type: basic
     submit: show
-    graded-as: interactive-wireframe-critique
+    graded-as: false
   - title: "Install Jekyll"
     url: install-jekyll
     type: lesson
