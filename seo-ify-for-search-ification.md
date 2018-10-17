@@ -32,7 +32,7 @@ slides:
 
       - [Home](http://www.millstreetflorist.com/)
       - [Shop: Walk in the Woods](http://www.millstreetflorist.com/walk-in-the-woods/)
-      - [Shop: Rideau Trail](http://www.millstreetflorist.com/river-ramble/)
+      - [Shop: River Ramble](http://www.millstreetflorist.com/river-ramble/)
       - [Weddings](http://www.millstreetflorist.com/weddings)
       - [Contact](http://www.millstreetflorist.com/contact-us/)
 
@@ -52,7 +52,7 @@ slides:
       *Pay attention to your top 5 keywords!*
 
       1. Write a unique & helpful `<title>` for each page
-      2. Write a max 140 character description for each page
+      2. Write a max 150 character description for each page
       3. Improve keywords in the `<h1>`
       4. Improve keywords in the first `<p>` tag
       5. Improve keywords in the `<a>` tags (navigation?)
