@@ -29,6 +29,12 @@ slides:
   - title: "SEO & metadata"
     url: seo-metadata
 
+group_activities:
+  - title: "SEO-ify for search-ification"
+    url: seo-ify-for-search-ification
+    type: pencil
+    pair: true
+
 tasks:
   - title: "Jekyll Judger"
     url: "https://activities.learn-the-web.algonquindesign.ca/jekyll-judger/"
