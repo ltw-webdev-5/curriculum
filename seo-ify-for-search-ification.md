@@ -31,9 +31,7 @@ slides:
       ### Focus on these pages
 
       - [Home](http://www.millstreetflorist.com/)
-      - [Shop: Walk in the Woods](http://www.millstreetflorist.com/walk-in-the-woods/)
       - [Shop: River Ramble](http://www.millstreetflorist.com/river-ramble/)
-      - [Weddings](http://www.millstreetflorist.com/weddings)
       - [Contact](http://www.millstreetflorist.com/contact-us/)
 
   - content: |
@@ -41,10 +39,10 @@ slides:
 
       1. Figure out the focus of the website & each page
       2. Determine the top 5 keywords people might search
-      3. Massage the keywords for the 5 different pages
+      3. Massage the keywords for the 3 different pages
       3. Prioritize the keywords for each page from 1–5
 
-      **You will end with 25 prioritized keywords—keywords can (and should) repeat on pages**
+      **You will end with 15 prioritized keywords—keywords can (and should) repeat on pages**
 
   - content: |
       ## B. Improve the SEO for every page
