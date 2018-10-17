@@ -61,9 +61,8 @@ slides:
   - content: |
       ## C. Structure the information
 
-      1. Draw a quick sitemap outlining the website structure
-      2. See if the website has objects that match [Schema.org](https://schema.org/docs/full.html)—and quickly outline the important information
-      3. Prepare content for social media:
+      1. See if the website has objects that match [Schema.org](https://schema.org/docs/full.html)—and quickly outline the important information
+      2. Prepare content for social media:
         - Title
         - Description
         - Preview image

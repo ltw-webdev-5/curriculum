@@ -79,14 +79,14 @@ slides:
 
       - [How far away is the moon?](https://www.google.ca/?gfe_rd=cr&ei=mNj7V9i0BqaC8Qfog4zYDg#q=how+far+away+is+the+moon)
 
-      Google can answer that because websites mark up their content so computers can understand.
+      Google can answer that because websites mark up their content so computers can understand
 
       - [**Schema.org**](https://schema.org/)
 
   - content: |
       ## Social media
 
-      When you share something on Facebook or Twitter (*et al.*), the little preview is defined by specific tags.
+      When you share something on Facebook or Twitter (*et al.*), the little preview is defined by specific tags
 
       - [Open Graph](http://ogp.me/)
       - [Twitter Cards](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/summary)
