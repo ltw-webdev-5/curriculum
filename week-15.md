@@ -28,18 +28,21 @@ tasks:
     pair: true
     button: activity
     type: basic
+    progressinator_id: portfolio-final-perf-testing
   - title: "Accessibility testing"
     url: "/courses/shared/accessibility-testing/"
     submit: "Submit nothing."
     pair: true
     button: activity
     type: basic
+    progressinator_id: portfolio-final-a11y-testing
   - title: "Browser testing"
     url: "/courses/shared/browser-testing/"
     submit: "Submit nothing."
     pair: true
     button: activity
     type: basic
+    progressinator_id: portfolio-final-browser-testing
   - title: "Final portfolio critique"
     url: "https://github.com/acgd-webdev-5/final-portfolio-critique"
     button: activity

@@ -38,6 +38,7 @@ tasks:
     pair: true
     button: activity
     type: basic
+    progressinator_id: portfolio-interim-a11y-testing
   - title: "Final portfolio website"
     url: "https://github.com/acgd-webdev-5/final-portfolio-website"
     graded-as: final-portfolio

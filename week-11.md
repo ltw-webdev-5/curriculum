@@ -22,6 +22,7 @@ tasks:
     pair: true
     button: activity
     type: basic
+    progressinator_id: portfolio-interim-browser-testing
   - title: "Portfolio peer evaluations"
     url: "https://github.com/acgd-webdev-5/portfolio-peer-evaluations"
     button: activity
