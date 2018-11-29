@@ -32,6 +32,7 @@ tasks:
     url: lazy-loading-images
     type: lesson
     submit: "Submit nothing."
+    graded-as: false
   - title: "Accessibility testing"
     url: "/courses/shared/accessibility-testing/"
     submit: "Submit nothing."
