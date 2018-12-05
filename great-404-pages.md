@@ -44,7 +44,6 @@ slides:
       - [Lego](https://www.lego.com/404)
       - [GitHub](https://github.com/404) & [500](https://github.com/500)
       - [GameSpot](http://www.gamespot.com/404/)
-      - [Blue Fountain Media](http://www.bluefountainmedia.com/404)
 
   - content: |
       ## Videos & tutorials

@@ -19,8 +19,7 @@ slides:
     col2: |
       ## Enable portfolio
 
-      1. Change the `baseurl` inside `_config.yml`:
-        <br>`baseurl: ""`
+      1. Remove the `baseurl` from `_config.yml`:
       2. Commit and push
       3. Go to your portfolio repo’s “Settings”
       3. Scroll down to “Custom domain” under “GitHub Pages”
