@@ -13,7 +13,7 @@ slides:
       ## Disable coming soon
 
       1. Go to [GitHub.com](https://github.com/)
-      2. Go to your “coming soon“ repo’s “Settings”
+      2. Go to your “coming soon” repo’s “Settings”
       3. Scroll down to “Custom domain” under “GitHub Pages”
       3. Delete the domain & save
     col2: |
