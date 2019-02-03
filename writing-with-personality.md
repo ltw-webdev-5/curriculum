@@ -40,7 +40,4 @@ slides:
 
       The whole class can discuss why that’s a good fit for Algonquin and try to guess your spirit animal.
 
-  - type: timer
-    minutes: 10
-
 ---
