@@ -48,6 +48,7 @@ tasks:
     button: activity
     type: basic
     submit: show
+    due_week: 15
     graded-as: false
   - title: "Final portfolio website"
     url: "https://github.com/acgd-webdev-5/final-portfolio-website"
