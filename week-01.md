@@ -27,5 +27,6 @@ tasks:
     type: basic
     submit: show
     button: activity
+    progressinator_id: update-your-computer-web-dev-5
   - type: blank
 ---
