@@ -4,6 +4,9 @@ desc: "An overview of the course this term, assignments, projects and weekly tas
 clr: ""
 
 video_tutorials:
+  - title: "Portfolio timeline"
+    url: "portfolio-timeline"
+    highlight: true
   - title: "Everything from Set up"
     url: "#setup"
   - title: "Everything from Web Dev 1"

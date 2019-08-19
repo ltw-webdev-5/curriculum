@@ -4,6 +4,9 @@ desc: "An overview of your portfolio website process & starting a coming soon pa
 clr: "7"
 
 video_tutorials:
+  - title: "Portfolio timeline"
+    url: "portfolio-timeline"
+    highlight: true
   - title: "HTML semantics cheat sheet"
     url: html-semantics-cheat-sheet
   - title: "CSS selectors & units cheat sheet"

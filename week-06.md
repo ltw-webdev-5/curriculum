@@ -6,13 +6,9 @@ clr: "2, 7"
 video_tutorials:
   - title: "CSS variables"
     url: css-variables
-  - title: "Pattern libraries"
-    url: pattern-libraries
   - title: "Pattern library cheat sheet"
     url: pattern-library-cheat-sheet
     highlight: true
-  - title: "Jekyll"
-    url: jekyll
   - title: "Jekyll cheat sheet"
     url: jekyll-cheat-sheet
     highlight: true

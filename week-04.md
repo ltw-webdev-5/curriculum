@@ -10,10 +10,9 @@ video_tutorials:
   - title: "Writing checklist"
     url: writing-checklist
     highlight: true
-  - title: "Markdown"
-    url: markdown
-  - title: "YAML"
-    url: yaml
+  - title: "Project UX checklist"
+    url: project-ux-checklist
+    highlight: true
   - title: "Markdown & YAML cheat sheet"
     url: markdown-yaml-cheat-sheet
     highlight: true

@@ -4,15 +4,14 @@ desc: "In class work time to spend on coding the pattern library for your portfo
 clr: "3, 7"
 
 video_tutorials:
+  - title: "Project UX checklist"
+    url: project-ux-checklist
+    highlight: true
   - title: "CSS variables"
     url: css-variables
-  - title: "Pattern libraries"
-    url: pattern-libraries
   - title: "Pattern library cheat sheet"
     url: pattern-library-cheat-sheet
     highlight: true
-  - title: "Jekyll"
-    url: jekyll
   - title: "Jekyll cheat sheet"
     url: jekyll-cheat-sheet
     highlight: true
