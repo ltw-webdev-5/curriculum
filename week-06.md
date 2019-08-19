@@ -22,6 +22,12 @@ video_tutorials:
   - title: "Hosting with Netlify"
     url: hosting-with-netlify
 
+group_activities:
+  - title: "Index card Q&A"
+    url: "/courses/shared/index-card-qa/"
+    type: pencil
+    no-solution: true
+
 tasks:
   - type: blank
   - type: blank
