@@ -17,11 +17,11 @@ slides:
 
 tasks:
   - type: blank
-  - title: "Buying a domain & email"
-    url: buying-a-domain-and-email
+  - title: "Buying a domain & hosting setup"
+    url: buying-domain-hosting-setup
     type: lesson
-  - title: "Hosting setup"
-    url: hosting-setup
+  - title: "Buying an email address"
+    url: buying-an-email-address
     type: lesson
   - title: "Portfolio content"
     url: "https://github.com/acgd-webdev-5/portfolio-content"

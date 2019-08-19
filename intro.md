@@ -32,6 +32,13 @@ slides:
       - Watch the videos before class
 
   - content: |
+      ## You’re in control
+
+      - You define what you portfolio will be
+      - You grade your own portfolio with the rubric you create
+      - You explain your choices to the teacher and rationalize why your portfolio is what it is
+
+  - content: |
       ## Marking scheme
 
       [**Web Dev 5 marking scheme ➔**](/courses/web-dev-5/#marking-scheme)
