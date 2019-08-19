@@ -41,10 +41,10 @@ tasks:
   - title: "Paper wireframes"
     url: "https://github.com/acgd-webdev-5/paper-wireframes"
     type: paper
-  - title: "Interactive wireframes"
-    url: "https://github.com/acgd-webdev-5/interactive-wireframes"
+  - title: "Pattern library"
+    url: "https://github.com/acgd-webdev-5/pattern-library"
     submit: show
-    graded-as: interactive-wireframes
+    graded-as: pattern-library
     due: "Start of class, week 6"
     due_week: 6
 ---

@@ -30,9 +30,6 @@ tasks:
     graded-as: false
     submit: "Submit nothing."
     type: lesson
-  - title: "CSS concatenation"
-    url: css-concatenation
-    type: lesson
   - title: "Portfolio peer evaluations"
     url: "https://github.com/acgd-webdev-5/portfolio-peer-evaluations"
     button: activity

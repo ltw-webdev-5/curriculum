@@ -18,7 +18,7 @@ slides:
 
       1. Coming soon page — *Today*
       2. Domain purchasing — *Next week*
-      3. Paper & interactive wireframes — *Weeks 4–6*
+      3. Paper wireframes & pattern libraries — *Weeks 4–6*
       4. Basic, JavaScript-free, version — *Weeks 6–11*
       5. Final version — *End of term*
 

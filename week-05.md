@@ -1,34 +1,38 @@
 ---
-topic: "Portfolio milestone 1 work period"
-desc: "In class work time to spend on coding the interactive wireframe for your portfolio website."
+topic: "Portfolio pattern library work period"
+desc: "In class work time to spend on coding the pattern library for your portfolio website."
 clr: "3, 7"
 
 video_tutorials:
-  - title: "HTML semantics cheat sheet"
-    url: html-semantics-cheat-sheet
-  - title: "CSS selectors & units cheat sheet"
-    url: css-selectors-units-cheat-sheet
-  - title: "Screen sizes cheat sheet"
-    url: screen-sizes-cheat-sheet
-  - title: "Gridifier cheat sheet"
-    url: gridifier-cheat-sheet
-  - title: "Typografier cheat sheet"
-    url: typografier-cheat-sheet
-  - title: "Modulifier cheat sheet"
-    url: modulifier-cheat-sheet
+  - title: "CSS variables"
+    url: css-variables
+  - title: "Pattern libraries"
+    url: pattern-libraries
+  - title: "Pattern library cheat sheet"
+    url: pattern-library-cheat-sheet
+    highlight: true
+  - title: "Jekyll"
+    url: jekyll
+  - title: "Jekyll cheat sheet"
+    url: jekyll-cheat-sheet
+    highlight: true
+  - title: "Jekyll terminal guide"
+    highlight: true
+    url: jekyll-terminal-guide
+  - title: "Hosting with Netlify"
+    url: hosting-with-netlify
 
 tasks:
   - type: blank
   - type: blank
-  - title: "Interactive wireframe critique"
-    url: "https://github.com/acgd-webdev-5/interactive-wireframe-critique"
+  - title: "Pattern library check-in"
+    url: "https://github.com/acgd-webdev-5/pattern-library-check-in"
     button: activity
     type: basic
     submit: show
-    graded-as: false
-  - title: "Interactive wireframes"
-    url: "https://github.com/acgd-webdev-5/interactive-wireframes"
-    graded-as: interactive-wireframes
+  - title: "Pattern library"
+    url: "https://github.com/acgd-webdev-5/pattern-library"
+    graded-as: pattern-library
     due: "Start of class, week 6"
     due_week: 6
     submit: show

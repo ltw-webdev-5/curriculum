@@ -42,12 +42,15 @@ tasks:
   - title: "Robot Parts Co."
     url: robot-parts-co
     type: lesson
-  - title: "Portfolio MicroData"
-    url: portfolio-microdata
+    disabled: true
+  - title: "Portfolio metadata"
+    url: portfolio-metadata
     type: lesson
-  - title: "SEO & MicroData"
-    url: "https://github.com/acgd-webdev-5/seo-microdata"
+    disabled: true
+  - title: "SEO & metadata"
+    url: "https://github.com/acgd-webdev-5/seo-metadata"
     submit: show
+    disabled: true
   - title: "Portfolio design & content"
     url: "https://github.com/acgd-webdev-5/portfolio-design-and-content"
     graded-as: portfolio-design-and-content

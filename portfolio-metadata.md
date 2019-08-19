@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: "Portfolio MicroData"
+title: "Portfolio metadata"
 desc: "Look at writing the code necessary for describing portfolio piece using MicroData and Schema.org."
 
 hide_markbot: true
@@ -20,14 +20,14 @@ goal:
 
 
 fork:
-  url: "https://github.com/acgd-webdev-5/portfolio-microdata"
+  url: "https://github.com/acgd-webdev-5/portfolio-metadata"
 
 steps:
   - title: "Set up the project"
     before: |
       We’re going to write the HTML necessary for marking up a [WebSite](https://schema.org/WebSite) portfolio piece using Schema.org.
     folders:
-      - label: "portfolio-microdata"
+      - label: "portfolio-metadata"
         type: folder
       - label: "content.txt"
         notes: "For copying-and-pasting"
@@ -48,7 +48,7 @@ steps:
 
   - title: "Add the basic HTML"
     before: |
-      Before we start adding the microdata, let’s add the basic HTML markup for a portfolio piece. **Copy the text from `content.txt` to save some time.**
+      Before we start adding the metadata, let’s add the basic HTML markup for a portfolio piece. **Copy the text from `content.txt` to save some time.**
 
       *For this we’re concentrating on a `WebSite`—if it was a [visual artwork](https://schema.org/VisualArtwork) or a [photograph](https://schema.org/Photograph) there would be other specific properties.*
 
@@ -140,7 +140,7 @@ steps:
       - num: 12
         text: "Define the `<aside>` as being keywords related to this website."
     after: |
-      In most cases the HTML tag is irrelevant, the `name` could be an `<h1>` or `<h2>` or `<strong>` or `<span>` microdata doesn’t necessarily care.
+      In most cases the HTML tag is irrelevant, the `name` could be an `<h1>` or `<h2>` or `<strong>` or `<span>` metadata doesn’t necessarily care.
 
       But some tags are important:
 

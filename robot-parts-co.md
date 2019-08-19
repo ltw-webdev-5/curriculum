@@ -24,7 +24,7 @@ fork:
 steps:
   - title: "Set up the project"
     before: |
-      We’re going to take an mostly complete website and enhance it by adding better SEO and microdata to the code.
+      We’re going to take an mostly complete website and enhance it by adding better SEO and metadata to the code.
 
       You should see the following files in the folder that you’ve cloned:
     folders:
@@ -388,6 +388,6 @@ steps:
         text: |
           Since this is a link to create a new email and it has the email address in it we’ll mark it as the `email` for this corporation.
     after: |
-      **The next lesson, [Portfolio microdata](/courses/web-dev-5/portfolio-microdata/), goes into more depth with the extra Schema.org metadata.**
+      **The next lesson, [Portfolio metadata](/courses/web-dev-5/portfolio-metadata/), goes into more depth with the extra Schema.org metadata.**
 
 ---

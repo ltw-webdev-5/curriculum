@@ -33,6 +33,7 @@ tasks:
     type: lesson
     submit: "Submit nothing."
     graded-as: false
+    disabled: true
   - title: "Accessibility testing"
     url: "/courses/shared/accessibility-testing/"
     submit: "Submit nothing."

@@ -1,40 +1,39 @@
 ---
-topic: "Layouts & Jekyll"
-desc: "Looking at shared headers and footers on websites, like InDesign master pages, using the Jekyll site generator."
+topic: "Portfolio pattern library critiques"
+desc: "Use class time to complete the pattern library & get critiques on the progress."
 clr: "2, 7"
 
 video_tutorials:
+  - title: "CSS variables"
+    url: css-variables
+  - title: "Pattern libraries"
+    url: pattern-libraries
+  - title: "Pattern library cheat sheet"
+    url: pattern-library-cheat-sheet
+    highlight: true
   - title: "Jekyll"
     url: jekyll
-    videos: true
-    notes: "Only watch until the video on “includes”"
-  - title: "Jekyll installation"
-    url: jekyll-installation
-  - title: "Jekyll terminal guide"
-    url: jekyll-terminal-guide
   - title: "Jekyll cheat sheet"
     url: jekyll-cheat-sheet
     highlight: true
-
-slides:
-  - title: "Jekyll: web master pages"
-    url: jekyll-web-master-pages
+  - title: "Jekyll terminal guide"
+    highlight: true
+    url: jekyll-terminal-guide
+  - title: "Hosting with Netlify"
+    url: hosting-with-netlify
 
 tasks:
-  - title: "Interactive wireframe critique"
-    url: "https://github.com/acgd-webdev-5/interactive-wireframe-critique"
+  - type: blank
+  - type: blank
+  - title: "Pattern library critiques"
+    url: "https://github.com/acgd-webdev-5/pattern-library-critiques"
     button: activity
     type: basic
     submit: show
     graded-as: false
-  - title: "Install Jekyll"
-    url: install-jekyll
-    type: lesson
-  - title: "Basic Jekyll site"
-    url: basic-jekyll-site
-    type: lesson
-  - title: "Jekyll portfolio"
-    url: "https://github.com/acgd-webdev-5/jekyll-portfolio"
+  - title: "Pattern library"
+    url: "https://github.com/acgd-webdev-5/pattern-library"
     submit: show
+    graded-as: pattern-library
   - type: watch-videos
 ---
