@@ -9,13 +9,6 @@ slides:
       **Web Dev 5**
 
   - content: |
-      ## Thomas J Bradley
-
-      *Super nerd*
-
-      [thomas.bradley@algonquincollege.com](mailto:thomas.bradley@algonquincollege.com)
-
-  - content: |
       ## What we’re learning
 
       - Making your portfolio website
