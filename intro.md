@@ -12,7 +12,7 @@ slides:
       ## What we’re learning
 
       - Making your portfolio website
-      - Things related to it: master pages, SEO, video, etc.
+      - Things related to it: domains, SEO, video, etc.
 
   - content: |
       ## High expectations

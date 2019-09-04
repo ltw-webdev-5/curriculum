@@ -19,7 +19,7 @@ slides:
       1. Coming soon page — *Today*
       2. Domain purchasing — *Next week*
       3. Paper wireframes & pattern libraries — *Weeks 4–6*
-      4. Basic, JavaScript-free, version — *Weeks 6–11*
+      4. Basic, JavaScript-free, version — *Weeks 7–11*
       5. Final version — *End of term*
 
       *With lots of small filler pieces in between*
@@ -77,7 +77,7 @@ slides:
       - feedback and thoughts for the different stages
       - and maybe the final version—but it’s less important
 
-      (As a by-product, you also can prove that you are capable of writing—an extremely important trait for a designer.)
+      (As a by-product, you also can prove that you are capable of writing—an extremely important trait for a designer!)
 
   - content: |
       ## Improve your work
