@@ -28,7 +28,7 @@ slides:
       ## You’re in control
 
       - You define what you portfolio will be
-      - You grade your own portfolio with the rubric you create
+      - You grade your own portfolio with the rubrics
       - You explain your choices to the teacher and rationalize why your portfolio is what it is
 
   - content: |
