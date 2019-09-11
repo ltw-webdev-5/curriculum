@@ -37,6 +37,8 @@ tasks:
   - title: "Choosing a domain"
     url: "https://github.com/acgd-webdev-5/choosing-a-domain"
     type: basic
+    submit: show
+    button: activity
   - title: "Coming soon page"
     url: "https://github.com/acgd-webdev-5/coming-soon-page"
     submit: "Show when domain working."
