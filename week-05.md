@@ -32,8 +32,8 @@ tasks:
   - title: "Pattern library"
     url: "https://github.com/acgd-webdev-5/pattern-library"
     graded-as: pattern-library
-    due: "Start of class, week 6"
-    due_week: 6
+    due: "Start of class, week 7"
+    due_week: 7
     submit: show
   - type: watch-videos
 ---
