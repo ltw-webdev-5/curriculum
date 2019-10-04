@@ -14,12 +14,7 @@ slides:
       ## Set up
 
       1. Form into groups of 3 people
-      2. Assign each member a task:
-        - 1 member is the note keeper
-        - 1 member is the time keeper
-        - 1 member is the talker
-
-      **Your group will have 5 minutes to complete the task.**
+      2. Get something out to write, digitally or on paper
 
   - content: |
       ## Consider the following questions:
