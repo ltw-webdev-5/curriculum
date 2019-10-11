@@ -44,6 +44,6 @@ tasks:
     url: "https://github.com/acgd-webdev-5/pattern-library"
     submit: show
     graded-as: pattern-library
-    due: "Start of class, week 6"
-    due_week: 6
+    due: "Start of class, week 7"
+    due_week: 7
 ---
