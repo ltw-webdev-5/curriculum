@@ -24,15 +24,19 @@ slides:
       ## Set up
 
       1. Form into pairs
-      2. [Go to the Mill Street Florist website](http://www.millstreetflorist.com/)
+      2. Use Mill Street Florist’s old website
       3. Work together to improve the SEO for the site
       4. Discuss the solution as a group
+
+      **We’ll be using the archived version of their website because the new one is much better.**
     col2: |
       ### Focus on these pages
 
-      - [Home](http://www.millstreetflorist.com/)
-      - [Shop: River Ramble](http://www.millstreetflorist.com/river-ramble/)
-      - [Contact](http://www.millstreetflorist.com/contact-us/)
+      - [Home](https://web.archive.org/web/20180917110503/http://www.millstreetflorist.com/)
+      - [Shop: River Ramble](https://web.archive.org/web/20180917105928/http://www.millstreetflorist.com/river-ramble/)
+      - [Contact](https://web.archive.org/web/20180910025534/http://www.millstreetflorist.com/contact-us/)
+
+      *These links are gonna be a little slow—so open them up in separate tabs an wait them out.*
 
   - content: |
       ## A. Determine the focus
@@ -59,7 +63,9 @@ slides:
   - content: |
       ## C. Structure the information
 
-      1. See if the website has objects that match [Schema.org](https://schema.org/docs/full.html)—and quickly outline the important information
+      1. Prepare content for [Schema.org](https://schema.org/docs/full.html) objects:
+        - [Organization](https://schema.org/Organization)
+        - [Product](https://schema.org/Product)
       2. Prepare content for social media:
         - Title
         - Description
