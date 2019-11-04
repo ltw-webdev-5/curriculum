@@ -36,7 +36,7 @@ slides:
       - [Shop: River Ramble](https://web.archive.org/web/20180917105928/http://www.millstreetflorist.com/river-ramble/)
       - [Contact](https://web.archive.org/web/20180910025534/http://www.millstreetflorist.com/contact-us/)
 
-      *These links are gonna be a little slow—so open them up in separate tabs an wait them out.*
+      *These links are gonna be a little slow—so open them up in separate tabs and wait them out.*
 
   - content: |
       ## A. Determine the focus
