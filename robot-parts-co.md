@@ -513,7 +513,7 @@ steps:
     code_before: |
       Create a new file named `robots.txt` inside the root folder.
     code_lang: "txt"
-    code_file: "humans.txt"
+    code_file: "robots.txt"
     code_can_copy: true
     code: |
       # robotstxt.org
