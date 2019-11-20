@@ -12,12 +12,6 @@ video_tutorials:
   - title: "Jekyll cheat sheet"
     url: jekyll-cheat-sheet
 
-group_activities:
-  - title: "Index card Q&A"
-    url: "/courses/shared/index-card-qa/"
-    type: pencil
-    no-solution: true
-
 tasks:
   - title: "Alignment Actuator"
     url: "https://activities.learn-the-web.algonquindesign.ca/alignment-actuator/"
