@@ -20,9 +20,9 @@ video_tutorials:
   - title: "Advanced performance checklist"
     url: advanced-performance-checklist
 
-slides:
-  - title: "PE & a11y"
-    url: pe-a11y
+# slides:
+#   - title: "PE & a11y"
+#     url: pe-a11y
 
 group_activities:
   - title: "Index card Q&A"
@@ -34,12 +34,13 @@ tasks:
   - title: "Performance Perfector"
     url: "https://activities.learn-the-web.algonquindesign.ca/performance-perfector/"
     type: activity
-  - title: "Lazy-loading images"
-    url: lazy-loading-images
-    type: lesson
-    submit: "Submit nothing."
-    graded-as: false
-    disabled: true
+  - type: blank
+  # - title: "Lazy-loading images"
+  #   url: lazy-loading-images
+  #   type: lesson
+  #   submit: "Submit nothing."
+  #   graded-as: false
+  #   disabled: true
   - title: "Accessibility testing"
     url: "/courses/shared/accessibility-testing/"
     submit: "Submit nothing."
