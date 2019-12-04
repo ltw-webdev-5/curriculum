@@ -17,11 +17,9 @@ video_tutorials:
     url: advanced-performance-checklist
 
 group_activities:
-  # Switch to Netlify
   - title: "Launch your Portfolio!"
     url: launch-your-portfolio
     type: code
-    disabled: true
 
 tasks:
   - title: "Performance testing"
