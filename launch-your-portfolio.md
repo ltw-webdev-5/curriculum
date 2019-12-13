@@ -20,7 +20,7 @@ slides:
       6. Pop over to [Cloudflare](https://www.cloudflare.com/) & sign in
       7. Find the `CNAME` record that points to GitHub
       8. Replace the GitHub URL with your Netlify URL
-      9. Add a new CNAME: `www` and point it to the same Netlify URL
+      9. Add a *new* `CNAME`: `www` pointing to your Netlify URL
       10. Make sure the Cloudflare orange clouds are greyed out
     col2: |
       ## Disable coming soon
