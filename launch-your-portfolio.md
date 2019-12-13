@@ -15,12 +15,13 @@ slides:
       1. Go to [Netlify](https://www.netlify.com/) & sign in
       2. Select your portfolio website
       3. Press “Domain settings”
-      4. Press the “Add domain alias” button
-      5. Type your domain into the URL
-      6. Pop into [Cloudflare](https://www.netlify.com/) & sign in
+      4. Press the “Add custom domain” button
+      5. Type your domain into the box
+      6. Pop over to [Cloudflare](https://www.cloudflare.com/) & sign in
       7. Find the `CNAME` record that points to GitHub
       8. Replace the GitHub URL with your Netlify URL
-      9. Make sure the Cloudflare orange cloud is greyed out
+      9. Add a new CNAME: `www` and point it to the same Netlify URL
+      10. Make sure the Cloudflare orange clouds are greyed out
     col2: |
       ## Disable coming soon
 
