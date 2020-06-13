@@ -21,9 +21,9 @@ important:
 steps:
   - title: "Search for domain"
     before: |
-      We’re going to be purchasing domains from [**Hover**](https://www.hover.com/), a small Canadian domain registrar with amazing customer service.
+      We’re going to be purchasing domains from [**Hover**](https://hover.com/J2Frl31i)†, a small Canadian domain registrar with amazing customer service.
 
-      ### [Go to Hover & make an account](https://www.hover.com/)
+      ### [Go to Hover & make an account](https://hover.com/J2Frl31i)
 
       ![](search.jpg)
 
@@ -36,6 +36,8 @@ steps:
       Ideally you want to choose `.ca` because it will give you better search results juice for Canadian searchers.
 
       If you want, you could also get the `.com` and forward it to the `.ca` so they act as the same website.
+
+      _† The Hover links are referral links, from me, that will get you $2 off your first domain._
 
   - title: "Add to cart & start checkout"
     before: |
