@@ -14,7 +14,7 @@ video_tutorials:
 
 tasks:
   - title: "Alignment Actuator"
-    url: "https://activities.learn-the-web.algonquindesign.ca/alignment-actuator/"
+    url: "https://activities.learntheweb.courses/alignment-actuator/"
     type: activity
   - title: "Browser testing"
     url: "/courses/shared/browser-testing/"
@@ -24,13 +24,13 @@ tasks:
     type: basic
     progressinator_id: portfolio-interim-browser-testing
   - title: "Portfolio peer evaluations"
-    url: "https://github.com/acgd-webdev-5/portfolio-peer-evaluations"
+    url: "https://github.com/ltw-webdev-5/portfolio-peer-evaluations"
     button: activity
     type: basic
     submit: show
     graded-as: false
   - title: "Portfolio fixes"
-    url: "https://github.com/acgd-webdev-5/portfolio-fixes"
+    url: "https://github.com/ltw-webdev-5/portfolio-fixes"
     submit: show
   - type: watch-videos
 ---

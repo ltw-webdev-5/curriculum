@@ -31,8 +31,8 @@ slides:
 
       Each registered domain has a bunch of information attached to it—here’s some important entries:
 
-      - `NS` — The authoritative DNS information server
-      - `A` — The domain to IP mapping for the host
+      - `NS` — The authoritative DNS information server
+      - `A` — The domain to IP mapping for the host
       - `MX` — The email server location
       - `CNAME` — A subdomain or alias for the `A` record
 
@@ -52,7 +52,7 @@ slides:
       ## Leasing domains
 
       - Leasing a domain registers it in the DNS
-      - And points the domain to an IP address — the host
+      - And points the domain to an IP address — the host
       - Also points to where email is sent and received
 
   - content: |
@@ -61,8 +61,8 @@ slides:
       *Don’t buy your hosting, email & domains all from the same place!*
 
       - It may be convenient to start but will get really annoying
-      - Difficulty switching — if you want to change host, well, now you likely have to change all services
-      - Security — if one is compromised they all are
+      - Difficulty switching — if you want to change host, well, now you likely have to change all services
+      - Security — if one is compromised they all are
 
   - content: |
       ## CloudFlare

@@ -13,19 +13,19 @@ slides:
 
 group_activities:
   - title: "Course feedback"
-    url: "https://www.algonquincollege.com/studentfeedback/"
+    url: "/feedback/"
     type: star
 
 tasks:
   - title: "HTTP Hoodwinker"
-    url: "https://activities.learn-the-web.algonquindesign.ca/http-hoodwinker/"
+    url: "https://activities.learntheweb.courses/http-hoodwinker/"
     type: activity
   - title: "404 page"
-    url: "https://github.com/acgd-webdev-5/404-page"
+    url: "https://github.com/ltw-webdev-5/404-page"
     submit: show
   - type: blank
   - title: "Final portfolio website"
-    url: "https://github.com/acgd-webdev-5/final-portfolio-website"
+    url: "https://github.com/ltw-webdev-5/final-portfolio-website"
     graded-as: final-portfolio
     due: "Midnight, last day of class"
     due_week: 15

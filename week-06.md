@@ -28,13 +28,13 @@ tasks:
   - type: blank
   - type: blank
   - title: "Pattern library critiques"
-    url: "https://github.com/acgd-webdev-5/pattern-library-critiques"
+    url: "https://github.com/ltw-webdev-5/pattern-library-critiques"
     button: activity
     type: basic
     submit: show
     graded-as: false
   - title: "Pattern library"
-    url: "https://github.com/acgd-webdev-5/pattern-library"
+    url: "https://github.com/ltw-webdev-5/pattern-library"
     due: "Start of class, week 7"
     due_week: 7
     submit: show

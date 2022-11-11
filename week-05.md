@@ -25,12 +25,12 @@ tasks:
   - type: blank
   - type: blank
   - title: "Pattern library check-in"
-    url: "https://github.com/acgd-webdev-5/pattern-library-check-in"
+    url: "https://github.com/ltw-webdev-5/pattern-library-check-in"
     button: activity
     type: basic
     submit: show
   - title: "Pattern library"
-    url: "https://github.com/acgd-webdev-5/pattern-library"
+    url: "https://github.com/ltw-webdev-5/pattern-library"
     graded-as: pattern-library
     due: "Start of class, week 7"
     due_week: 7

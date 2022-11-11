@@ -32,7 +32,7 @@ group_activities:
 
 tasks:
   - title: "Performance Perfector"
-    url: "https://activities.learn-the-web.algonquindesign.ca/performance-perfector/"
+    url: "https://activities.learntheweb.courses/performance-perfector/"
     type: activity
   - type: blank
   # - title: "Lazy-loading images"
@@ -49,7 +49,7 @@ tasks:
     type: basic
     progressinator_id: portfolio-interim-a11y-testing
   - title: "Final portfolio website"
-    url: "https://github.com/acgd-webdev-5/final-portfolio-website"
+    url: "https://github.com/ltw-webdev-5/final-portfolio-website"
     graded-as: final-portfolio
     due: "Midnight, last day of class"
     due_week: 15

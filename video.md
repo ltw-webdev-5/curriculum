@@ -53,7 +53,7 @@ slides:
     html: |
       <!-- The <video> tag for self-hosted videos -->
 
-      <video controls src="https://assets.learn-the-web.algonquindesign.ca/web-dev-5/liftoff-of-spacex-crs-5.mp4"></video>
+      <video controls src="https://assets.learntheweb.courses/web-dev-5/liftoff-of-spacex-crs-5.mp4"></video>
     html_lines:
       - num: 3
         text: |
@@ -64,7 +64,7 @@ slides:
       <!-- Embed containers make <video> responsive -->
 
       <div class="embed embed-16by9">
-        <video class="embed-item" controls src="https://assets.learn-the-web.algonquindesign.ca/web-dev-5/liftoff-of-spacex-crs-5.mp4"></video>
+        <video class="embed-item" controls src="https://assets.learntheweb.courses/web-dev-5/liftoff-of-spacex-crs-5.mp4"></video>
       </div>
     html_lines:
       - num: "3-5"
@@ -94,7 +94,7 @@ slides:
       Browsers have default controllers built in but if you want to make your own custom controller you’ll have to use JavaScript.
     html: |
       <div class="embed embed-16by9">
-        <video id="my-video" class="embed-item" src="https://assets.learn-the-web.algonquindesign.ca/web-dev-5/liftoff-of-spacex-crs-5.mp4"></video>
+        <video id="my-video" class="embed-item" src="https://assets.learntheweb.courses/web-dev-5/liftoff-of-spacex-crs-5.mp4"></video>
       </div>
 
       <button id="my-button">Play/Pause</button>

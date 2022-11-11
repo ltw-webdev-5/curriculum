@@ -37,7 +37,7 @@ group_activities:
 
 tasks:
   - title: "Jekyll Judger"
-    url: "https://activities.learn-the-web.algonquindesign.ca/jekyll-judger/"
+    url: "https://activities.learntheweb.courses/jekyll-judger/"
     type: activity
   - title: "Robot Parts Co."
     url: robot-parts-co
@@ -48,10 +48,10 @@ tasks:
     type: lesson
     submit: code
   - title: "SEO & metadata"
-    url: "https://github.com/acgd-webdev-5/seo-metadata"
+    url: "https://github.com/ltw-webdev-5/seo-metadata"
     submit: show
   - title: "Portfolio design & content"
-    url: "https://github.com/acgd-webdev-5/portfolio-design-and-content"
+    url: "https://github.com/ltw-webdev-5/portfolio-design-and-content"
     graded-as: portfolio-design-and-content
     due: "Start of class, week 11"
     due_week: 11

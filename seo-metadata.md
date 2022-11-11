@@ -63,13 +63,13 @@ slides:
       <!-- Unique for every single page — max 150 characters -->
       <meta name="description" content="A short sentence describing the purpose and content of this individual page.">
 
-      <!-- Don’t use `<meta>` `keywords` — it’s completely ignored by all search engines -->
+      <!-- Don’t use `<meta>` `keywords` — it’s completely ignored by all search engines -->
 
   - content: |
       ## Other files
 
-      - `sitemap.xml` — suggest what pages exist and their importance
-      - `robots.txt` — used to block search engines — should exist even if blocking nothing
+      - `sitemap.xml` — suggest what pages exist and their importance
+      - `robots.txt` — used to block search engines — should exist even if blocking nothing
       - `humans.txt` — show who created the site, what tools where used, resources & references
 
   - content: |

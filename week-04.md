@@ -32,16 +32,16 @@ group_activities:
 
 tasks:
   - title: "Domain Destroyer"
-    url: "https://activities.learn-the-web.algonquindesign.ca/domain-destroyer/"
+    url: "https://activities.learntheweb.courses/domain-destroyer/"
     type: activity
   - title: "Writing a Readme"
     url: writing-a-readme
     type: lesson
   - title: "Paper wireframes"
-    url: "https://github.com/acgd-webdev-5/paper-wireframes"
+    url: "https://github.com/ltw-webdev-5/paper-wireframes"
     type: paper
   - title: "Pattern library"
-    url: "https://github.com/acgd-webdev-5/pattern-library"
+    url: "https://github.com/ltw-webdev-5/pattern-library"
     submit: show
     graded-as: pattern-library
     due: "Start of class, week 7"

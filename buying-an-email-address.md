@@ -25,8 +25,8 @@ steps:
 
       There are two different ways to get a custom email address:
 
-      1. **Buy a forwarder from Hover** — a forwarder will send the email to another address, like Gmail or something. But you can never respond from the custom email address.
-      2. **Buy email from a service provider, like FastMail** — this is what I would recommend, it will give you a completely separate, business account tied to your domain.
+      1. **Buy a forwarder from Hover** — a forwarder will send the email to another address, like Gmail or something. But you can never respond from the custom email address.
+      2. **Buy email from a service provider, like FastMail** — this is what I would recommend, it will give you a completely separate, business account tied to your domain.
 
       - **If you choose the Hover fowarder, [jump to this lesson on Hover forwarding emails ➔](/courses/web-dev-5/forwarding-email-addresses/)**
 

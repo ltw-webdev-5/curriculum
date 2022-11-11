@@ -24,7 +24,7 @@ tasks:
     url: buying-an-email-address
     type: lesson
   - title: "Portfolio content"
-    url: "https://github.com/acgd-webdev-5/portfolio-content"
+    url: "https://github.com/ltw-webdev-5/portfolio-content"
     submit: show
     type: basic
     button: activity

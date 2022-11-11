@@ -21,16 +21,16 @@ video_tutorials:
 
 tasks:
   - title: "Video Venturer"
-    url: "https://activities.learn-the-web.algonquindesign.ca/video-venturer/"
+    url: "https://activities.learntheweb.courses/video-venturer/"
     type: activity
   - type: blank
   - title: "Portfolio check-in"
-    url: "https://github.com/acgd-webdev-5/portfolio-check-in"
+    url: "https://github.com/ltw-webdev-5/portfolio-check-in"
     button: activity
     type: basic
     submit: show
   - title: "Portfolio design & content"
-    url: "https://github.com/acgd-webdev-5/portfolio-design-and-content"
+    url: "https://github.com/ltw-webdev-5/portfolio-design-and-content"
     graded-as: portfolio-design-and-content
     due: "Start of class, week 11"
     due_week: 11

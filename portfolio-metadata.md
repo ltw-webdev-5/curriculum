@@ -21,7 +21,7 @@ goal:
 
 
 fork:
-  url: "https://github.com/acgd-webdev-5/portfolio-metadata"
+  url: "https://github.com/ltw-webdev-5/portfolio-metadata"
 
 steps:
   - title: "Set up the project"

@@ -16,7 +16,7 @@ tasks:
   - type: blank
   - type: blank
   # - title: "One-on-one time"
-  #   url: "https://github.com/acgd-webdev-shared/one-on-one-time"
+  #   url: "https://github.com/ltw-webdev-shared/one-on-one-time"
   #   type: basic
   #   button: activity
   #   submit: "Submit nothing."
@@ -27,7 +27,7 @@ tasks:
     submit: "Submit feedback form."
     graded-as: false
   - title: "Portfolio design & content"
-    url: "https://github.com/acgd-webdev-5/portfolio-design-and-content"
+    url: "https://github.com/ltw-webdev-5/portfolio-design-and-content"
     graded-as: portfolio-design-and-content
     due: "Start of class, week 11"
     due_week: 11

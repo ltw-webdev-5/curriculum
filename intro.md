@@ -46,7 +46,7 @@ slides:
   - content: |
       ## Important links
 
-      - [**Learn the Web ➔**](//learn-the-web.algonquindesign.ca/)
+      - [**Learn the Web ➔**](https://learntheweb.courses/)
       - [Weekly tasks ➔](/courses/web-dev-5/)
 
   - content: |

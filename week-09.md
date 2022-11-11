@@ -16,14 +16,14 @@ slides:
 
 tasks:
   - title: "Search Seer"
-    url: "https://activities.learn-the-web.algonquindesign.ca/search-seer/"
+    url: "https://activities.learntheweb.courses/search-seer/"
     type: activity
   - title: "Video background"
     url: video-background
     type: lesson
   - type: blank
   - title: "Portfolio design & content"
-    url: "https://github.com/acgd-webdev-5/portfolio-design-and-content"
+    url: "https://github.com/ltw-webdev-5/portfolio-design-and-content"
     graded-as: portfolio-design-and-content
     due: "Start of class, week 11"
     due_week: 11

@@ -20,22 +20,22 @@ slides:
   - content: |
       ## Other HTTP status codes
 
-      `200` — “OK”, page is found and sent
+      `200` — “OK”, page is found and sent
 
       `301` — “Moved permanently”, you’re getting redirected to another URL
 
-      `401` — “Unauthorized”, page is password protected
+      `401` — “Unauthorized”, page is password protected
 
       `500` — “Internal server error”, the server ran into a problem
 
   - content: |
       ## Great 404 pages are…
 
-      **Helpful** — Explain to the user what happened, how to solve it, hints at where to go
+      **Helpful** — Explain to the user what happened, how to solve it, hints at where to go
 
-      **Fast** — Don’t make the user wait for the 404 page to load, they already can’t get what they want
+      **Fast** — Don’t make the user wait for the 404 page to load, they already can’t get what they want
 
-      **Fun** — Getting a 404 sucks, have some personality and fun for the user
+      **Fun** — Getting a 404 sucks, have some personality and fun for the user
 
   - content: |
       ## Some great 404 pages

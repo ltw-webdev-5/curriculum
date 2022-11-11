@@ -62,10 +62,10 @@ slides:
   - content: |
       ## Consider adding ARIA
 
-      - `aria-label="…"`<br>— for more accessible text
-      - `aria-hidden="true"`<br>— to hide things from screen readers
+      - `aria-label="…"`<br>— for more accessible text
+      - `aria-hidden="true"`<br>— to hide things from screen readers
       - `aria-controls="…"` + `id="…"`<br>— to coordinate elements
-      - `role="…"`<br>— to help define purpose
+      - `role="…"`<br>— to help define purpose
       - *etc.*
 
   - content: |

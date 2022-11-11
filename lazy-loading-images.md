@@ -37,7 +37,7 @@ goal:
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 
 fork:
-  url: "https://github.com/acgd-webdev-5/lazy-loading-images/fork"
+  url: "https://github.com/ltw-webdev-5/lazy-loading-images/fork"
 
 steps:
   - title: "Set up the project"
@@ -73,9 +73,9 @@ steps:
     before: |
       To start we need to group the images into 3 categories:
 
-      1. **Critical images** — these images will always load
-      2. **Must-have images** — these images should always load
-      3. **Non-critical images** — it’d be nice if these images loaded
+      1. **Critical images** — these images will always load
+      2. **Must-have images** — these images should always load
+      3. **Non-critical images** — it’d be nice if these images loaded
 
       *Of course—the images themselves may just fail to load because of slow Internet—there’s nothing we can do to mitigate that.*
 

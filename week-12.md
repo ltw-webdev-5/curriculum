@@ -23,7 +23,7 @@ slides:
 
 tasks:
   - title: "Liquid Locomotor"
-    url: "https://activities.learn-the-web.algonquindesign.ca/liquid-locomotor/"
+    url: "https://activities.learntheweb.courses/liquid-locomotor/"
     type: activity
   - title: "Performance, CloudFlare & web fonts"
     url: performance-cloudflare-web-fonts
@@ -31,12 +31,12 @@ tasks:
     submit: "Submit nothing."
     type: lesson
   - title: "Portfolio peer evaluations"
-    url: "https://github.com/acgd-webdev-5/portfolio-peer-evaluations"
+    url: "https://github.com/ltw-webdev-5/portfolio-peer-evaluations"
     button: activity
     type: basic
     submit: show
     graded-as: false
   - title: "Portfolio performance"
-    url: "https://github.com/acgd-webdev-5/portfolio-performance"
+    url: "https://github.com/ltw-webdev-5/portfolio-performance"
     submit: show
 ---
