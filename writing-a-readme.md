@@ -48,7 +48,7 @@ steps:
       One way to help reach people and get people to understand your personality—which is really what you want for your portfolio—is to tell them *why* you’re a graphic designer not *what* you are as a graphic designer.
 
       *Watch this video to see it explained a little more thoroughly:*
-    video: "sioZd3AxmnE"
+    youtube: "qp0HIF3SfI4"
     after: |
       &nbsp;
 
