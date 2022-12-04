@@ -21,19 +21,19 @@ steps:
   - title: "Browser developer tools"
     before: |
       This video is a quick introduction to using the browser developer tools to test the performance of your website.
-    video: "https://videos.learntheweb.courses/playlists/performance/1-developer-tools.mp4"
+    video: "https://video-assets.learntheweb.courses/performance/1-developer-tools.mp4"
   - title: "Online tools"
     before: |
       Learn about some online tools for testing website performance.
-    video: "https://videos.learntheweb.courses/playlists/performance/2-online-tools.mp4"
+    video: "https://video-assets.learntheweb.courses/performance/2-online-tools.mp4"
   - title: "CloudFlare settings"
     before: |
       Look at the settings inside CloudFlare to help you pass performance tests.
-    video: "https://videos.learntheweb.courses/playlists/advanced-performance/7-cloudflare.mp4"
+    video: "https://video-assets.learntheweb.courses/advanced-performance/7-cloudflare.mp4"
   - title: "Sub-setting fonts"
     before: |
       Learn how reduce the download size of the fonts on your website by removing all the extra characters that you don’t actually use on your website.
 
       *This is only necessary when using Google Fonts in combination with the “Delaying font rendering” technique described below.*
-    video: "https://videos.learntheweb.courses/playlists/advanced-performance/4-sub-set.mp4"
+    video: "https://video-assets.learntheweb.courses/advanced-performance/4-sub-set.mp4"
 ---

@@ -15,7 +15,7 @@ goal:
   before: |
     We’re going to look at creating a website banner that has a video as the background behind the text.
   no_image: true
-  video: "https://videos.learntheweb.courses/playlists/web-dev-5/video-background-goal.mp4"
+  video: "https://video-assets.learntheweb.courses/web-dev-5/video-background-goal.mp4"
   video_poster: goal.jpg
   notes:
     - label: "Type it, type it real good"
