@@ -13,7 +13,7 @@ slides:
 
 group_activities:
   - title: "Course feedback"
-    url: "/feedback/"
+    url: "/feedback"
     type: star
 
 tasks:
